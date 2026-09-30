@@ -1,0 +1,40 @@
+{
+  "scope": "Full STEP syntax/entity parse and all node names; roundtrip geometry transfer limited to the two new servos and two adapter plates. Not full-assembly shape or motion certification.",
+  "bytes": 739393550,
+  "sha256": "33e05d1f63b4113bdb2e2372a39adbec442e7b36a3f649d24e0eb13812199d8e",
+  "entities": 10376481,
+  "product_definitions": 4163,
+  "expected_model_nodes": 4152,
+  "missing_model_nodes": [],
+  "replacement_roundtrips": [
+    {
+      "name": "USER_SER0063_PAN",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 7.16227077646181e-12,
+      "volume_mm3": 34087.74133334898
+    },
+    {
+      "name": "USER_SER0063_TILT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 1.000043141630158e-07,
+      "volume_mm3": 34087.74133338251
+    },
+    {
+      "name": "CUSTOM_PAN_SERVO_MOUNT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 4.305888978706207e-12,
+      "volume_mm3": 16556.327487647428
+    },
+    {
+      "name": "CUSTOM_TILT_SERVO_MOUNT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 4.291678123991005e-12,
+      "volume_mm3": 12596.327487648061
+    }
+  ],
+  "seconds": 68.92290206899997
+}

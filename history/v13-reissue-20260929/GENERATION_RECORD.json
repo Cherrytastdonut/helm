@@ -1,0 +1,297 @@
+{
+  "revision": "V13-REISSUE-20260929",
+  "date": "2026-09-29",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "dependencies": {
+    "cadquery": "2.7.0",
+    "cadquery-ocp": "7.8.1.1.post1",
+    "numpy": "2.3.5",
+    "ezdxf": "1.4.4",
+    "reportlab": "4.4.9",
+    "PyMuPDF": "1.26.6",
+    "Pillow": "12.3.0"
+  },
+  "source_archive_sha256": "c6202395d2b4ee8a20a1ddaa2a8f011f7c34759a12899a0ce946a68d56464560",
+  "geometry_changed": false,
+  "metadata_refresh": {
+    "correction_count": 3,
+    "corrections": [
+      {
+        "name": "CUSTOM_THERMAL_MOUNT",
+        "prior": {
+          "bbox": [
+            299.99999999999545,
+            80.7150566272343,
+            215.0,
+            305.0,
+            112.71505662723487,
+            266.0
+          ],
+          "solids": 1,
+          "faces": 20
+        },
+        "actual": {
+          "bbox": [
+            299.99999999999545,
+            80.7150566272343,
+            215.0,
+            305.0,
+            112.71505662723487,
+            266.0
+          ],
+          "solids": 1,
+          "faces": 17
+        }
+      },
+      {
+        "name": "CUSTOM_THERMAL_ANGLE_0",
+        "prior": {
+          "bbox": [
+            295.0,
+            81.7,
+            230.0,
+            300.0,
+            89.7,
+            248.0
+          ],
+          "solids": 1,
+          "faces": 8
+        },
+        "actual": {
+          "bbox": [
+            284.0,
+            81.7150566272343,
+            220.0,
+            300.0,
+            96.7150566272343,
+            245.0
+          ],
+          "solids": 1,
+          "faces": 18
+        }
+      },
+      {
+        "name": "CUSTOM_THERMAL_ANGLE_1",
+        "prior": {
+          "bbox": [
+            295.0,
+            101.7,
+            230.0,
+            300.0,
+            109.7,
+            248.0
+          ],
+          "solids": 1,
+          "faces": 8
+        },
+        "actual": {
+          "bbox": [
+            284.0,
+            97.7150566272343,
+            220.0,
+            300.0,
+            112.7150566272343,
+            245.0
+          ],
+          "solids": 1,
+          "faces": 18
+        }
+      }
+    ],
+    "geometry_changed": false,
+    "scope": "All 4102 BREP bounds/counts were checked in the previous run on this identical source ZIP. That scan found only these three stale entries; these three were recomputed and corrected after workspace recovery.",
+    "source_archive_sha256": "c6202395d2b4ee8a20a1ddaa2a8f011f7c34759a12899a0ce946a68d56464560"
+  },
+  "step_validation": {
+    "passed": true,
+    "sha256": "6942914ab1ea14b2dece5bdde453c85a6a909255873ff5ab9afa32673fce11da",
+    "baseline_sha256": "432b9fac0e22cdb9e6e246553f5e163fc6b1d032034b17f2c5f79321086290c4",
+    "validation_mode": "Complete validated baseline + unchanged BREP hashes + local STEP reimport; no repeated whole-assembly analysis.",
+    "step_read_success": true,
+    "leaf_products": 4102,
+    "unchanged_products": 4090,
+    "changed_products": [
+      "APPROX_CAM_L_LEFT",
+      "APPROX_CAM_L_RIGHT",
+      "CUSTOM_BOTTOM_PLATE",
+      "CUSTOM_CABLE_C920_USB",
+      "CUSTOM_CABLE_ENCODER_L",
+      "CUSTOM_CABLE_HUB_UPSTREAM",
+      "CUSTOM_CABLE_MOTOR_L_M1",
+      "CUSTOM_CABLE_MOTOR_L_M2",
+      "CUSTOM_CABLE_PAN_PWM_POWER",
+      "CUSTOM_CABLE_TILT_PWM_POWER",
+      "CUSTOM_LEFT_PANEL",
+      "CUSTOM_PAN_YOKE"
+    ],
+    "named_product_checks": {
+      "APPROX_BACKPLANE_L_0": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 6.30961949354969e-12
+      },
+      "APPROX_BACKPLANE_L_1": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 6.30961949354969e-12
+      },
+      "APPROX_CAM_L_LEFT": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.9895196601282805e-12
+      },
+      "APPROX_CAM_L_RIGHT": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 4.291678123991005e-12
+      },
+      "CUSTOM_BOTTOM_PLATE": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 6.0254023992456496e-12
+      },
+      "CUSTOM_C920_STRAP_1": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 0.0
+      },
+      "CUSTOM_CABLE_C920_USB": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.0000002248489182e-07
+      },
+      "CUSTOM_CABLE_ENCODER_L": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 3.240074875066057e-12
+      },
+      "CUSTOM_CABLE_HUB_UPSTREAM": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.0000001537946446e-07
+      },
+      "CUSTOM_CABLE_MOTOR_L_M1": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.000000082740371e-07
+      },
+      "CUSTOM_CABLE_MOTOR_L_M2": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.0000001537946446e-07
+      },
+      "CUSTOM_CABLE_PAN_PWM_POWER": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.0000002248489182e-07
+      },
+      "CUSTOM_CABLE_TILT_PWM_POWER": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 9.999999406318238e-08
+      },
+      "CUSTOM_HARNESS_CLAMP_0": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 5.958553686014056e-07
+      },
+      "CUSTOM_HARNESS_CLAMP_4": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 3.552713678800501e-15
+      },
+      "CUSTOM_HARNESS_CLAMP_5": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 1.7479351299698465e-12
+      },
+      "CUSTOM_LEFT_PANEL": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 5.863928915772476e-07
+      },
+      "CUSTOM_PAN_YOKE": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 4.291678123991005e-12
+      },
+      "CUSTOM_RIGHT_PANEL": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 5.999995380534529e-07
+      },
+      "DRAWING_BASED_MOTOR_PH6_L": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 0.0
+      },
+      "OFFICIAL_CHASSIS_0000_Solid": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 2.0037305148434825e-12
+      },
+      "OFFICIAL_MDD10A_0163_Solid": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 5.9685589803848416e-12
+      },
+      "PHOTO_BASED_NEXT505UHP": {
+        "valid": true,
+        "solid_count": 1,
+        "bbox_error_mm": 0.0
+      }
+    },
+    "shape_solid_validity": "All imported changed and neighboring products pass; unchanged products retain fully validated baseline.",
+    "imported_local_contacts": {
+      "pairs": 27,
+      "threshold_mm3": 0.5,
+      "hits": []
+    },
+    "elapsed_seconds": 52.503088049999974
+  },
+  "drawing_validation": {
+    "revision": "V13-REISSUE-20260929",
+    "generated_from_current_brep": true,
+    "source_cache_unchanged_nodes": 4102,
+    "source_step_sha256": "6942914ab1ea14b2dece5bdde453c85a6a909255873ff5ab9afa32673fce11da",
+    "pdf_sha256": "fb1144bef82c466c8826ebd84203491135ca084694bc93670a23394a3aa206f6",
+    "pages": 202,
+    "pdf_open_ok": true,
+    "pdf_sheet_index_match": true,
+    "pdf_text_outside_frame": [],
+    "fabrication_parts": 130,
+    "through_cut_dxf": 54,
+    "max_relative_volume_error": 3.826715712891587e-06,
+    "max_bbox_error_mm": 1.1999999998124622e-06,
+    "png_count": 202,
+    "png_dpi": 200,
+    "png_decode_verified": 202,
+    "counts": {
+      "BOM_DRAWING.csv": 237,
+      "FASTENER_LIST.csv": 33,
+      "HOLE_COORDINATES.csv": 616,
+      "PART_NODE_MAPPING.csv": 4102,
+      "WIRING_TABLE.csv": 49
+    },
+    "elapsed_seconds": 23.46051235799996,
+    "visual_review": {
+      "passed": true,
+      "date": "2026-09-29",
+      "contact_sheet_pages": 202,
+      "full_page_samples": [
+        1,
+        19,
+        80,
+        166,
+        177,
+        183,
+        201
+      ],
+      "result": "No missing figures, broken glyphs or clipping observed in reviewed renders; all pages also pass text-frame and sheet-index checks.",
+      "scope": "Layout review; physical assembly and electrical acceptance remain open."
+    },
+    "limits": "Prior motion record retained; E-211 hardware integration items remain open; no physical tests performed."
+  },
+  "display_cache": "Mesh and shaded-view cache reused from identical source archive; STEP, DXF, dimension data, PDF and page PNGs regenerated.",
+  "limits": "No fresh whole-assembly motion analysis or physical tests. E-211 items remain open."
+}

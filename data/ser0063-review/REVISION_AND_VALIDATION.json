@@ -1,0 +1,596 @@
+{
+  "revision": "HELM_SER0063_REVIEW_20260930",
+  "release_status": "NOT_FOR_FABRICATION",
+  "source_step_sha256": "8a5c2e4d926856d640ede908d6d22c4733fdb117f93dee373fe5cfb7cc02eca5",
+  "source_shape": {
+    "bounds": [
+      -27.500000000000004,
+      -19.750000000000004,
+      -0.25,
+      27.500000000000004,
+      27.63000010002719,
+      20.25
+    ],
+    "solids": 1,
+    "faces": 494,
+    "volume_mm3": 34087.74185854984
+  },
+  "shaft_axis_source": {
+    "point": [
+      -9.86,
+      27.63,
+      10
+    ],
+    "direction": [
+      0,
+      1,
+      0
+    ]
+  },
+  "flange_hole_centers_source": [
+    [
+      -24,
+      12.25,
+      5
+    ],
+    [
+      -24,
+      12.25,
+      15
+    ],
+    [
+      24,
+      12.25,
+      5
+    ],
+    [
+      24,
+      12.25,
+      15
+    ]
+  ],
+  "flange_hole_diameter_mm": 4.5,
+  "flange_hole_pitch_mm": [
+    48,
+    10
+  ],
+  "old_drop_in_checks": [
+    {
+      "role": "PAN",
+      "bounds": [
+        230.35999999999999,
+        86.4650566272343,
+        248.62,
+        285.36,
+        106.9650566272343,
+        296.0000001000272
+      ],
+      "collisions": [
+        {
+          "part": "CUSTOM_ELECTRONICS_PLATE",
+          "volume_mm3": 2993.1316474945993
+        },
+        {
+          "part": "CUSTOM_CAMERA_BASE",
+          "volume_mm3": 2850.908358173125
+        },
+        {
+          "part": "CUSTOM_PAN_SERVO_MOUNT",
+          "volume_mm3": 3009.804680777632
+        }
+      ]
+    },
+    {
+      "role": "TILT",
+      "bounds": [
+        230.35999999999999,
+        160.7150565272071,
+        339.75,
+        285.36,
+        208.09505672723432,
+        360.25
+      ],
+      "collisions": [
+        {
+          "part": "CUSTOM_TILT_SERVO_MOUNT",
+          "volume_mm3": 2886.586742156068
+        }
+      ]
+    }
+  ],
+  "new_local_checks": [
+    {
+      "part": "USER_SER0063_PAN",
+      "candidate_pairs": 15,
+      "collisions": []
+    },
+    {
+      "part": "USER_SER0063_TILT",
+      "candidate_pairs": 13,
+      "collisions": []
+    },
+    {
+      "part": "CUSTOM_PAN_SERVO_MOUNT",
+      "candidate_pairs": 9,
+      "collisions": []
+    },
+    {
+      "part": "CUSTOM_TILT_SERVO_MOUNT",
+      "candidate_pairs": 9,
+      "collisions": []
+    }
+  ],
+  "camera_z_shift_mm": 24.38,
+  "pan_shaft_tip": [
+    248,
+    96.7150566272343,
+    320.38
+  ],
+  "pan_joint": [
+    248,
+    96.7150566272343,
+    322.38
+  ],
+  "tilt_joint": [
+    248,
+    96.7150566272343,
+    374.38
+  ],
+  "removed": [
+    "PAN_SUPPORT_0_SPACER",
+    "PAN_SUPPORT_0_TOP",
+    "PAN_SUPPORT_0_LOWER",
+    "PAN_SUPPORT_1_SPACER",
+    "PAN_SUPPORT_1_TOP",
+    "PAN_SUPPORT_1_LOWER",
+    "PAN_SUPPORT_2_SPACER",
+    "PAN_SUPPORT_2_TOP",
+    "PAN_SUPPORT_2_LOWER",
+    "PAN_SUPPORT_3_SPACER",
+    "PAN_SUPPORT_3_TOP",
+    "PAN_SUPPORT_3_LOWER",
+    "PHOTO_BASED_MG90S_PAN_HORN",
+    "PHOTO_BASED_MG90S_TILT_HORN",
+    "TILT_MOUNT_SP_0_0",
+    "TILT_MOUNT_N_0_0",
+    "TILT_MOUNT_SP_0_1",
+    "TILT_MOUNT_N_0_1",
+    "TILT_MOUNT_SP_1_0",
+    "TILT_MOUNT_N_1_0",
+    "TILT_MOUNT_SP_1_1",
+    "TILT_MOUNT_N_1_1",
+    "COMMUNITY_MG90S_PAN_0",
+    "COMMUNITY_MG90S_TILT_0",
+    "PAN_FLANGE_M2p5_0",
+    "PAN_FLANGE_N_0",
+    "PAN_FLANGE_M2p5_1",
+    "PAN_FLANGE_N_1",
+    "STANDARD_PLUG_MG90S_PAN_CABLE_HOUSING",
+    "STANDARD_PLUG_MG90S_PAN_CABLE_CONTACT",
+    "STANDARD_PLUG_MG90S_TILT_CABLE_HOUSING",
+    "STANDARD_PLUG_MG90S_TILT_CABLE_CONTACT",
+    "CUSTOM_CABLE_C920_USB",
+    "CUSTOM_CABLE_PAN_PWM_POWER",
+    "CUSTOM_CABLE_TILT_PWM_POWER",
+    "TILT_MOUNT_B_0_0",
+    "TILT_MOUNT_B_0_1",
+    "TILT_MOUNT_B_1_0",
+    "TILT_MOUNT_B_1_1",
+    "TILT_FLANGE_M2p5_0",
+    "TILT_FLANGE_N_0",
+    "TILT_FLANGE_M2p5_1",
+    "TILT_FLANGE_N_1",
+    "TILT_COUPLER_FIX_-8",
+    "TILT_COUPLER_FIX_8",
+    "TILT_HORN_LINK_-4",
+    "TILT_HORN_LINK_4",
+    "CUSTOM_TILT_HORN_COUPLER"
+  ],
+  "changed": [
+    "APPROX_CAM_L_LEFT",
+    "APPROX_CAM_L_RIGHT",
+    "CAM_L_LEFT_F0",
+    "CAM_L_LEFT_F1",
+    "CAM_L_LEFT_FN0",
+    "CAM_L_LEFT_FN1",
+    "CAM_L_LEFT_V0",
+    "CAM_L_LEFT_V1",
+    "CAM_L_LEFT_VN0",
+    "CAM_L_LEFT_VN1",
+    "CAM_L_RIGHT_F0",
+    "CAM_L_RIGHT_F1",
+    "CAM_L_RIGHT_FN0",
+    "CAM_L_RIGHT_FN1",
+    "CAM_L_RIGHT_V0",
+    "CAM_L_RIGHT_V1",
+    "CAM_L_RIGHT_VN0",
+    "CAM_L_RIGHT_VN1",
+    "COMMUNITY_C920_0",
+    "COMMUNITY_C920_1",
+    "COMMUNITY_C920_2",
+    "COMMUNITY_C920_3",
+    "COMMUNITY_C920_4",
+    "COMMUNITY_C920_5",
+    "COMMUNITY_C920_6",
+    "CUSTOM_C920_PAD",
+    "CUSTOM_C920_SADDLE",
+    "CUSTOM_C920_STRAP_0",
+    "CUSTOM_C920_STRAP_1",
+    "CUSTOM_CAMERA_BASE",
+    "CUSTOM_ELECTRONICS_PLATE",
+    "CUSTOM_PAN_ARM_LEFT",
+    "CUSTOM_PAN_ARM_RIGHT",
+    "CUSTOM_PAN_SERVO_MOUNT",
+    "CUSTOM_PAN_YOKE",
+    "CUSTOM_TILT_BUSH_LEFT",
+    "CUSTOM_TILT_CHEEK_LEFT",
+    "CUSTOM_TILT_CHEEK_RIGHT",
+    "CUSTOM_TILT_CORNER_LEFT0",
+    "CUSTOM_TILT_CORNER_LEFT0_F",
+    "CUSTOM_TILT_CORNER_LEFT0_V",
+    "CUSTOM_TILT_CORNER_LEFT1",
+    "CUSTOM_TILT_CORNER_LEFT1_F",
+    "CUSTOM_TILT_CORNER_LEFT1_V",
+    "CUSTOM_TILT_CORNER_RIGHT0",
+    "CUSTOM_TILT_CORNER_RIGHT0_F",
+    "CUSTOM_TILT_CORNER_RIGHT0_V",
+    "CUSTOM_TILT_CORNER_RIGHT1",
+    "CUSTOM_TILT_CORNER_RIGHT1_F",
+    "CUSTOM_TILT_CORNER_RIGHT1_V",
+    "CUSTOM_TILT_SERVO_MOUNT",
+    "SER0063_PAN_LUG_0",
+    "SER0063_PAN_LUG_0_N0",
+    "SER0063_PAN_LUG_0_N1",
+    "SER0063_PAN_LUG_1",
+    "SER0063_PAN_LUG_1_N0",
+    "SER0063_PAN_LUG_1_N1",
+    "SER0063_PAN_LUG_2",
+    "SER0063_PAN_LUG_2_N0",
+    "SER0063_PAN_LUG_2_N1",
+    "SER0063_PAN_LUG_3",
+    "SER0063_PAN_LUG_3_N0",
+    "SER0063_PAN_LUG_3_N1",
+    "SER0063_PAN_POST_0",
+    "SER0063_PAN_POST_0_N0",
+    "SER0063_PAN_POST_0_N1",
+    "SER0063_PAN_POST_0_N2",
+    "SER0063_PAN_POST_0_N3",
+    "SER0063_PAN_POST_0_W0",
+    "SER0063_PAN_POST_0_W1",
+    "SER0063_PAN_POST_0_W2",
+    "SER0063_PAN_POST_0_W3",
+    "SER0063_PAN_POST_1",
+    "SER0063_PAN_POST_1_N0",
+    "SER0063_PAN_POST_1_N1",
+    "SER0063_PAN_POST_1_N2",
+    "SER0063_PAN_POST_1_N3",
+    "SER0063_PAN_POST_1_W0",
+    "SER0063_PAN_POST_1_W1",
+    "SER0063_PAN_POST_1_W2",
+    "SER0063_PAN_POST_1_W3",
+    "SER0063_PAN_POST_2",
+    "SER0063_PAN_POST_2_N0",
+    "SER0063_PAN_POST_2_N1",
+    "SER0063_PAN_POST_2_N2",
+    "SER0063_PAN_POST_2_N3",
+    "SER0063_PAN_POST_2_W0",
+    "SER0063_PAN_POST_2_W1",
+    "SER0063_PAN_POST_2_W2",
+    "SER0063_PAN_POST_2_W3",
+    "SER0063_PAN_POST_3",
+    "SER0063_PAN_POST_3_N0",
+    "SER0063_PAN_POST_3_N1",
+    "SER0063_PAN_POST_3_N2",
+    "SER0063_PAN_POST_3_N3",
+    "SER0063_PAN_POST_3_W0",
+    "SER0063_PAN_POST_3_W1",
+    "SER0063_PAN_POST_3_W2",
+    "SER0063_PAN_POST_3_W3",
+    "SER0063_TILT_LUG_0",
+    "SER0063_TILT_LUG_0_N0",
+    "SER0063_TILT_LUG_0_N1",
+    "SER0063_TILT_LUG_1",
+    "SER0063_TILT_LUG_1_N0",
+    "SER0063_TILT_LUG_1_N1",
+    "SER0063_TILT_LUG_2",
+    "SER0063_TILT_LUG_2_N0",
+    "SER0063_TILT_LUG_2_N1",
+    "SER0063_TILT_LUG_3",
+    "SER0063_TILT_LUG_3_N0",
+    "SER0063_TILT_LUG_3_N1",
+    "SER0063_TILT_POST_0",
+    "SER0063_TILT_POST_0_N0",
+    "SER0063_TILT_POST_0_N1",
+    "SER0063_TILT_POST_0_N2",
+    "SER0063_TILT_POST_0_N3",
+    "SER0063_TILT_POST_0_W0",
+    "SER0063_TILT_POST_0_W1",
+    "SER0063_TILT_POST_0_W2",
+    "SER0063_TILT_POST_0_W3",
+    "SER0063_TILT_POST_1",
+    "SER0063_TILT_POST_1_N0",
+    "SER0063_TILT_POST_1_N1",
+    "SER0063_TILT_POST_1_N2",
+    "SER0063_TILT_POST_1_N3",
+    "SER0063_TILT_POST_1_W0",
+    "SER0063_TILT_POST_1_W1",
+    "SER0063_TILT_POST_1_W2",
+    "SER0063_TILT_POST_1_W3",
+    "SER0063_TILT_POST_2",
+    "SER0063_TILT_POST_2_N0",
+    "SER0063_TILT_POST_2_N1",
+    "SER0063_TILT_POST_2_N2",
+    "SER0063_TILT_POST_2_N3",
+    "SER0063_TILT_POST_2_W0",
+    "SER0063_TILT_POST_2_W1",
+    "SER0063_TILT_POST_2_W2",
+    "SER0063_TILT_POST_2_W3",
+    "SER0063_TILT_POST_3",
+    "SER0063_TILT_POST_3_N0",
+    "SER0063_TILT_POST_3_N1",
+    "SER0063_TILT_POST_3_N2",
+    "SER0063_TILT_POST_3_N3",
+    "SER0063_TILT_POST_3_W0",
+    "SER0063_TILT_POST_3_W1",
+    "SER0063_TILT_POST_3_W2",
+    "SER0063_TILT_POST_3_W3",
+    "TILT_AXIS_LEFT",
+    "USER_SER0063_PAN",
+    "USER_SER0063_TILT"
+  ],
+  "part_exports": [
+    {
+      "part": "APPROX_CAM_L_LEFT",
+      "bounds": [
+        215.0,
+        32.7150566272343,
+        327.38,
+        231.0,
+        62.715056627234304,
+        357.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "APPROX_CAM_L_RIGHT",
+      "bounds": [
+        215.0,
+        135.715056627234,
+        327.38,
+        231.00000000000006,
+        165.7150566272343,
+        357.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_C920_SADDLE",
+      "bounds": [
+        213.0,
+        41.7150566272343,
+        334.38,
+        283.0,
+        146.5150566272343,
+        339.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_C920_SADDLE.dxf"
+    },
+    {
+      "part": "CUSTOM_CAMERA_BASE",
+      "bounds": [
+        218.0,
+        24.7,
+        260.0,
+        290.0,
+        168.7,
+        265.0
+      ],
+      "assembly_only_shift": false,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_CAMERA_BASE.dxf"
+    },
+    {
+      "part": "CUSTOM_ELECTRONICS_PLATE",
+      "bounds": [
+        -10.0000001,
+        -15.0000001,
+        254.99999957145013,
+        290.0000001,
+        208.00000010153968,
+        260.00000012436766
+      ],
+      "assembly_only_shift": false,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_PAN_ARM_LEFT",
+      "bounds": [
+        211.0,
+        27.715056627234297,
+        327.38,
+        285.0,
+        32.715056627234304,
+        386.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_PAN_ARM_LEFT.dxf"
+    },
+    {
+      "part": "CUSTOM_PAN_ARM_RIGHT",
+      "bounds": [
+        211.0,
+        155.71505662723382,
+        327.38,
+        285.0,
+        160.7150566272343,
+        397.38
+      ],
+      "assembly_only_shift": false,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_PAN_SERVO_MOUNT",
+      "bounds": [
+        218.0,
+        66.7150566272343,
+        300.0,
+        290.0,
+        126.7150566272343,
+        305.0
+      ],
+      "assembly_only_shift": false,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_PAN_SERVO_MOUNT.dxf"
+    },
+    {
+      "part": "CUSTOM_PAN_YOKE",
+      "bounds": [
+        211.0,
+        27.7150566272343,
+        322.37999999999585,
+        285.0,
+        165.7150566272343,
+        327.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_BUSH_LEFT",
+      "bounds": [
+        243.5,
+        32.715056627234304,
+        369.88,
+        252.5,
+        41.715056627234304,
+        378.88
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_LEFT",
+      "bounds": [
+        213.0,
+        36.7150566272343,
+        334.38,
+        283.0,
+        41.715056627234304,
+        384.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_TILT_CHEEK_LEFT.dxf"
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_RIGHT",
+      "bounds": [
+        213.0,
+        146.715056627234,
+        334.38,
+        283.0,
+        151.7150566272343,
+        384.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_TILT_CHEEK_RIGHT.dxf"
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_LEFT0",
+      "bounds": [
+        219.0,
+        41.715056627234304,
+        339.38,
+        227.0,
+        51.715056627234304,
+        349.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_LEFT1",
+      "bounds": [
+        269.0,
+        41.715056627234304,
+        339.38,
+        277.0,
+        51.715056627234304,
+        349.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_RIGHT0",
+      "bounds": [
+        219.0,
+        136.7150566272343,
+        339.38,
+        227.0,
+        146.7150566272343,
+        349.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_RIGHT1",
+      "bounds": [
+        269.0,
+        136.7150566272343,
+        339.38,
+        277.0,
+        146.7150566272343,
+        349.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": null
+    },
+    {
+      "part": "CUSTOM_TILT_SERVO_MOUNT",
+      "bounds": [
+        218.0,
+        176.0950566272343,
+        348.38,
+        290.0,
+        181.0950566272343,
+        397.38
+      ],
+      "assembly_only_shift": true,
+      "status": "REVIEW_ONLY",
+      "dxf": "CUSTOM_TILT_SERVO_MOUNT.dxf"
+    }
+  ],
+  "invalid_changed_shapes": [],
+  "nodes": 4152,
+  "rod_cut_list_mm": {
+    "64": 4,
+    "38": 4,
+    "20": 8
+  },
+  "holds": [
+    "Supplied metal horns are not in uploaded STEP: seating height and fastening pitch unresolved. Old horns/coupler removed.",
+    "2 mm pan horn stand-off is a reserved integration allowance, not a measured horn thickness.",
+    "MG995/MG996 stock brackets are optional and not modeled as compatible without their actual dimensions.",
+    "Servo and C920 flexible cable routes removed pending rerouting; full motion/loads/electrical commissioning not approved.",
+    "Other baseline purchased/custom parts retain their earlier verification limits. This is not a complete inventory-constrained release.",
+    "Five-mm Fomex plate strength and mounting hardware must be checked under actual load."
+  ]
+}

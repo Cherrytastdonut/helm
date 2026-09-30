@@ -1,0 +1,765 @@
+{
+  "rule": "Previous CSV left-side first purchase columns plus current XLSX 2주차 rows 20-83. Do not force all second-purchase items into CAD. Do not treat comparison quotes as additional stock.",
+  "first_purchase": [
+    {
+      "source_row": 5,
+      "item": "메인 연산 보드",
+      "model": "NVIDIA Jetson Orin Nano Super Developer Kit 8GB",
+      "quantity": "1",
+      "purpose": "AI/ROS2·SLAM·영상처리 연산",
+      "url": "https://www.devicemart.co.kr/goods/view?no=14990359"
+    },
+    {
+      "source_row": 6,
+      "item": "저장장치",
+      "model": "WD SN530 NVMe 2242 SSD 256GB",
+      "quantity": "1",
+      "purpose": "Jetson OS·모델·로그 저장",
+      "url": "https://www.coupang.com/vp/products/9618266367?itemId=28720133256&vendorItemId=95660638162&q=WD+Blue+SN5000+NVMe+256GB&searchId=fd37a1dc4219312&sourceType=search&itemsCount=35&searchRank=4&rank=4&traceId=msykondt"
+    },
+    {
+      "source_row": 7,
+      "item": "비전 카메라",
+      "model": "Logitech C920 1080p USB 웹캠",
+      "quantity": "1",
+      "purpose": "AI 영상 입력",
+      "url": "https://www.coupang.com/vp/products/7159069983"
+    },
+    {
+      "source_row": 8,
+      "item": "라이다",
+      "model": "SLAMTEC RPLIDAR A2M12",
+      "quantity": "1",
+      "purpose": "LiDAR SLAM·위치추정",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1312730"
+    },
+    {
+      "source_row": 9,
+      "item": "저수준 제어보드",
+      "model": "ESP32 USB C 타입 아두이노 개발 보드 DevikitC V 38핀",
+      "quantity": "1",
+      "purpose": "모터·엔코더·센서 저수준 제어",
+      "url": "https://www.coupang.com/vp/products/8756951445?vendorItemId=91072858290&sourceType=CART"
+    },
+    {
+      "source_row": 10,
+      "item": "이동 섀시",
+      "model": "Hiwonder 서스펜션 궤도형 섀시·엔코더 모터 구성",
+      "quantity": "1",
+      "purpose": "궤도형 이동 플랫폼",
+      "url": "https://www.coupang.com/vp/products/9358141082"
+    },
+    {
+      "source_row": 11,
+      "item": "모터 드라이버",
+      "model": "[Cytron] 10Amp 5V-30V DC Motor Driver (2 Channels) [MDD10A]",
+      "quantity": "1",
+      "purpose": "좌우 DC 모터 PWM/DIR 제어",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1280280"
+    },
+    {
+      "source_row": 12,
+      "item": "관성측정센서",
+      "model": "Adafruit BNO085 IMU",
+      "quantity": "1",
+      "purpose": "자세·방향 추정 보조",
+      "url": "https://www.devicemart.co.kr/goods/view?no=15530997"
+    },
+    {
+      "source_row": 13,
+      "item": "배터리",
+      "model": "ROCKET ES7-12 12V 7Ah AGM 배터리",
+      "quantity": "1",
+      "purpose": "로봇 메인 12V 전원",
+      "url": "https://www.coupang.com/vp/products/1237358721?vendorItemId=95173570253&sourceType=CART"
+    },
+    {
+      "source_row": 14,
+      "item": "배터리 충전기",
+      "model": "이오전자 EO-1220 12V 2A 연축전지 충전기",
+      "quantity": "1",
+      "purpose": "12V AGM+E14:M14 배터리 충전",
+      "url": "https://www.coupang.com/vp/products/5578760518"
+    },
+    {
+      "source_row": 15,
+      "item": "5V 전원 변환기",
+      "model": "SZH-EK366 5V 5A DC-DC 스텝다운 컨버터",
+      "quantity": "1",
+      "purpose": "저전압 장치용 5V 전원",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1386375"
+    },
+    {
+      "source_row": 16,
+      "item": "비상정지 장치",
+      "model": "22mm 래칭형 Mushroom E-STOP 1NO1NC",
+      "quantity": "1",
+      "purpose": "비상 시 모터 전원 차단 제어",
+      "url": "https://www.coupang.com/vp/products/9546806641"
+    },
+    {
+      "source_row": 17,
+      "item": "모터 전원 차단장치",
+      "model": "12V 40A 4핀 릴레이·소켓 배선 세트",
+      "quantity": "1",
+      "purpose": "E-STOP 연동 모터 전원 차단",
+      "url": "https://www.coupang.com/vp/products/6667848502"
+    },
+    {
+      "source_row": 18,
+      "item": "접촉 감지 센서",
+      "model": "V-J166-1C25 리미트 스위치 ×4",
+      "quantity": "4",
+      "purpose": "범퍼 충돌 감지",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1327040"
+    },
+    {
+      "source_row": 19,
+      "item": "메인 퓨즈 홀더",
+      "model": "자동차용 Blade Fuse Holder ×1",
+      "quantity": "1",
+      "purpose": "배터리 메인 퓨즈 장착",
+      "url": "https://www.coupang.com/vp/products/8457484950"
+    },
+    {
+      "source_row": 20,
+      "item": "분기 퓨즈 홀더",
+      "model": "차량용 퓨즈박스 4구 키트 SZH-JA020",
+      "quantity": "1",
+      "purpose": "전원 분기별 퓨즈 보호",
+      "url": "https://www.devicemart.co.kr/goods/view?no=14042045"
+    },
+    {
+      "source_row": 21,
+      "item": "퓨즈",
+      "model": "차티스트 자동차용 ATO Blade Fuse 10종 세트",
+      "quantity": "1",
+      "purpose": "메인·분기 과전류 보호",
+      "url": "https://www.coupang.com/vp/products/9417130245"
+    },
+    {
+      "source_row": 22,
+      "item": "배전 장치",
+      "model": "접지부스바·DC 배전 단자대 ×2",
+      "quantity": "2",
+      "purpose": "+12V/GND 전원 분배",
+      "url": "https://www.coupang.com/vp/products/9172551975"
+    },
+    {
+      "source_row": 23,
+      "item": "모터 전원 배선",
+      "model": "14AWG 적색·흑색 2P 실리콘 케이블 2m",
+      "quantity": "2",
+      "purpose": "배터리·모터·컨버터 전력 배선",
+      "url": "https://www.coupang.com/vp/products/8913656765"
+    },
+    {
+      "source_row": 24,
+      "item": "신호 배선",
+      "model": "22AWG 적색·흑색 2P 실리콘 케이블 2m",
+      "quantity": "2",
+      "purpose": "센서·스위치·릴레이 코일 배선",
+      "url": "https://www.coupang.com/vp/products/8913656765"
+    },
+    {
+      "source_row": 25,
+      "item": "커넥터",
+      "model": "JST SH 1.0mm 피치 6핀 포함 와이어 커넥터 세트 28AWG",
+      "quantity": "1",
+      "purpose": "모터·엔코더 배선 연결",
+      "url": "https://www.coupang.com/vp/products/8530719539?vendorItemId=95595284874&sourceType=CART"
+    },
+    {
+      "source_row": 26,
+      "item": "압착단자",
+      "model": "터미널 압착 단자 320p 세트 전선 연결 배선 커넥터",
+      "quantity": "1",
+      "purpose": "일반 배선 단자 체결",
+      "url": "https://www.coupang.com/vp/products/7649011260?vendorItemId=95698277545&sourceType=CART"
+    },
+    {
+      "source_row": 27,
+      "item": "통신 케이블",
+      "model": "개발용 USB A to USB C 데이터 케이블 1M",
+      "quantity": "1",
+      "purpose": "Jetson↔ESP32 USB Serial",
+      "url": "https://www.coupang.com/vp/products/8690434145?vendorItemId=92227381628&sourceType=CART"
+    },
+    {
+      "source_row": 28,
+      "item": "고정부품",
+      "model": "M3 나일론 스페이서·볼트 세트",
+      "quantity": "1",
+      "purpose": "보드·센서 절연 고정",
+      "url": "https://www.coupang.com/vp/products/7354375381?vendorItemId=86059571826&sourceType=CART"
+    },
+    {
+      "source_row": 29,
+      "item": "음성 경보장치",
+      "model": "휴대형 USB 스피커",
+      "quantity": "1",
+      "purpose": "현장 경고음·음성 출력",
+      "url": "https://www.coupang.com/vp/products/1606481616?vendorItemId=83242018534&sourceType=CART"
+    },
+    {
+      "source_row": 30,
+      "item": "배터리 모니터링",
+      "model": "아두이노 전압 측정 0~25V 전압 센서 모듈",
+      "quantity": "1",
+      "purpose": "배터리 전압 모니터링",
+      "url": "https://www.coupang.com/vp/products/6473033109"
+    },
+    {
+      "source_row": 31,
+      "item": "전원 설계",
+      "model": "5개 Type-C MT3608 DC-DC 가변 승압 모듈 2A 스텝업 컨버터",
+      "quantity": "1",
+      "purpose": "Jetson 전원 승압",
+      "url": "https://www.coupang.com/vp/products/9640646849?itemId=28805622658&vendorItemId=95740820409&q=12V%E2%86%9219V+%EC%8A%B9%EC%95%95+%EC%BB%A8%EB%B2%84%ED%84%B0+%EC%B6%94%EA%B0%80+%28Jetson+%EC%A0%84%EC%9A%A9%29%2C+5V+%EC%BB%A8%EB%B2%84%ED%84%B0%EB%8A%94+%EC%25A"
+    },
+    {
+      "source_row": 32,
+      "item": "통신 부품",
+      "model": "에즈윈 인텔 AX210 Wi-Fi 6E Kit 무선랜카드",
+      "quantity": "1",
+      "purpose": "예비 Wi-Fi/Bluetooth 통신",
+      "url": "https://www.coupang.com/vp/products/8996103050?itemId=26357379570&vendorItemId=93334247602&q=%EC%97%90%EC%A6%88%EC%9C%88+%EC%9D%B8%ED%85%94+AX210+Wi-Fi+6E+Kit+%EB%AC%B4%EC%84%A0%EB%9E%9C%EC%B9%B4%EB%93%9C&searchId=4c4248e79018798&sourceType=search&itemsCount=36&searchRank=0&rank=0&traceId=mtclkmld"
+    },
+    {
+      "source_row": 33,
+      "item": "메인 전원 스위치",
+      "model": "12V 20A LED 원형 로커 스위치 3핀 차량·선박 겸용 2pcs",
+      "quantity": "1",
+      "purpose": "로봇 정상 전원 ON/OFF",
+      "url": "https://www.coupang.com/vp/products/9662908766?itemId=28888055885&vendorItemId=95820726117"
+    }
+  ],
+  "second_purchase": [
+    {
+      "sheet": "2주차",
+      "source_row": 20,
+      "item": "배터리 충전기",
+      "model": "이오전자 EO-1212 12V 1.2A 연축전지 자동충전기",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/5469618401"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 21,
+      "item": "커넥터",
+      "model": "JST-PH 6핀 케이블 2.0mm 피치 같은면 1대N(30cm ×4)",
+      "quantity_cell": "8.0",
+      "url": "https://www.coupang.com/vp/products/9303101206?itemId=27560476026"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 22,
+      "item": "전원 설계",
+      "model": "12V→19V DC 승압 컨버터 190W",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7330179288?itemId=18817465936"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 23,
+      "item": "Jetson 전원 커넥터",
+      "model": "[Switchcraft Inc.] 760K",
+      "quantity_cell": "2.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=9189067&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 24,
+      "item": "리미트 스위치 단자",
+      "model": "[TE Connectivity AMP Connectors] 2-520181-2",
+      "quantity_cell": "24.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=10570974&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 25,
+      "item": "-",
+      "model": "[SEENGREAT] 열화상 카메라 모듈 IR MLX90640 [220565]",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=15356287&srsltid=AfmBOopjxAURReBSG62CW8Wm22xoiW6GDYdniwN7aLBmq-vGUZ1eNu_e"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 26,
+      "item": "퓨즈 홀더 - FHAC0002LXN",
+      "model": "[Littelfuse Inc.] FHAC0002LXN",
+      "quantity_cell": "2.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=8994638"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 27,
+      "item": "멀티미터(전기 측정)",
+      "model": "[UNI-T] 디지털 클램프(후쿠메타)미터 UT210E",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=6500258&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 28,
+      "item": "배터리용 암 압착단자(+)",
+      "model": "아트얼스 PG 압착 터미널 절연 단자 FDFD 5.5-250 전기 전선 케이블 배선 평단자 6.3mm 옐로우 PG24A",
+      "quantity_cell": "5.0",
+      "url": "https://www.coupang.com/vp/products/8820393437?vendorItemId=95722267821&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 29,
+      "item": "동일규격 / 6.3mm 평단자 / 1개 단가 검색결과 기준",
+      "model": "PG 압착 터미널 절연 단자 FDFD 2-250 전기 전선 케이블 배선 평단자 6.3mm 블루 PG15A",
+      "quantity_cell": "5.0",
+      "url": "https://www.11st.co.kr/products/8304614495?catalog_no=503168967&lowest_yn=Y"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 30,
+      "item": "서보모터(카메라 움직임)",
+      "model": "[DFRobot] SER0063",
+      "quantity_cell": "2.0",
+      "url": "https://naver.me/xSBUqx9l"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 31,
+      "item": "릴레이 보호 다이오드",
+      "model": "(10개/세트) 1N4007 정류 다이오드 - 1A 1000V 고전압 DO-41 패키지 - 역전류 방지 전자부품",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9217071237?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 32,
+      "item": "절연단자 압착기",
+      "model": "IWISS 터미널압착기 PG단자 압착공구 HS-30J",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7151834751?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 33,
+      "item": "와이어 스트리퍼",
+      "model": "엔지니어 스트리퍼 PAW-31 전선 와이어 피복 탈피",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=15095700&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 34,
+      "item": "인두기",
+      "model": "[하코 HAKKO] 온도조절인두기 FX-600 (T18-B 인두팁 포함)",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/211942729?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 35,
+      "item": "납",
+      "model": "[Singapore Asahi] 스프링 무연납 SCS7(P3.5) - 0.8mm (10g/1.8M)",
+      "quantity_cell": "4.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1089518&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 36,
+      "item": "인두 거치대",
+      "model": "스프링형 인두기 거치대 스텐드 납땜기 철제 받침대 걸이",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9545942672?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 37,
+      "item": "유사사양 / 127pcs 열수축튜브 세트",
+      "model": "열 선보호 수축튜브 127pcs 블랙 세트",
+      "quantity_cell": "1.0",
+      "url": "https://catalog.11st.co.kr/pc/320052339?poc=pc&sortCds=DLV_INCLUDE"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 38,
+      "item": "히트건",
+      "model": "홈플래닛 1800W 열풍기 히팅건",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7061213448?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 39,
+      "item": "볼트/너트 세트",
+      "model": "[로보티즈] 볼트너트 세트 BNS-30",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1112078"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 40,
+      "item": "케이블타이",
+      "model": "얇은 케이블타이 100pcs 블랙/화이트 thin cable tie",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/4388722297?itemId=5198845198&vendorItemId=72508029620"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 41,
+      "item": "테이프",
+      "model": "쿠말 접착 초강력 벨크로 테이프 갈고리면 20mm x 5m + 부착면 20mm x 5m 세트, 화이트, 3세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8610527698"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 42,
+      "item": "USB 3.0 유전원 허브 4포트",
+      "model": "넥스트유 USB 3.0 4포트 유전원 허브 케이블일체형 NEXT 505UHP + 어댑터",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/73214278?vendorItemId=3600609378&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 43,
+      "item": "USB A to C 데이터 케이블 1M",
+      "model": "coms ABFC100 USB A to C타입 케이블 1M 블랙 데이터 충전",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/6322035507"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 44,
+      "item": "Micro USB 데이터 케이블 1M",
+      "model": "개발용 마이크로 USB 케이블",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/7206616633"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 45,
+      "item": "DP to HDMI 케이블/어댑터",
+      "model": "DP to HDMI 2.1 8K@60Hz 케이블 3m",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/6211015984"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 46,
+      "item": "CAT.6 랜선 3m",
+      "model": "랜스타 UTP CAT.6 다이렉트 랜 케이블 x 3",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/70339768"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 47,
+      "item": "3M 절연테이프",
+      "model": "[YM] 3M 전기 절연 비닐테이프 1711",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/1444015226?itemId=2370652604&vendorItemId=70366693450&q=3M+%EC%A0%84%EA%B8%B0%ED%85%8C%EC%9D%B4%ED%94%84+%2F+3M+%EC%A0%88%EC%97%B0%ED%85%8C%EC%9D%B4%ED%94%84+%2F+3M+1711+%2F+3M+%ED%85%8C%EC%9D%B4%ED%94%841711+%2F+%EC%A0%84%EA%B8%B0%ED%85%8C%EC%9D%B4%ED%94%84+%2F+%EC%A0%88%EC%97%B0%ED%85%8C%EC%9D%B4%ED%94%84+%2F+%EC%A0%84%EA%B8%B0%EC%A0%88%EC%97%B0%EB%B9%84%EB%8B%90%ED%85%8C%EC%9D%B4%ED%94%84&searchId=594fae033041410&sourceType=search&itemsCount=60&searchRank=7&rank=7&traceId=mu2kd9bb"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 48,
+      "item": "납땜 플럭스펜",
+      "model": "납땜 플럭스 펜 10ml 태양 전지 공정 무세척 DIY 케스터 용접, 플럭스펜  GD24062 3개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9344303358?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 49,
+      "item": "솔더윅/납 제거선",
+      "model": "솔더윅 솔더위크 납땜 제거 흡입기 디솔더링, 2개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8316119006?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 50,
+      "item": "동일규격 / 20cm / 암암·암수·수수 3종 점퍼케이블",
+      "model": "JK 브레드보드 점퍼선 점퍼 케이블 40P 암컷 숫컷 아두이노 40가닥 DIY 와이어",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9482860709?itemId=28235768186&searchId=feed-4d01b1d35eb04049924431a39b119c0c-3.3.37%3Aview_together_ads-P9066477738&vendorItemId=95189443647&sourceType=SDP_ADS&clickEventId=5c6f05b0-ade2-11f1-b1cf-8cc0b0deb2d6"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 51,
+      "item": "포맥스판 / 5T / 600×900mm / 백색 / 구조 장착판 가공용",
+      "model": "포멕스판 (600mmx900mm)5T 백색/포멕스&포맥스",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/7354908604?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 52,
+      "item": "동일규격 / M4 / 1m / 철 전산볼트 / 색상·도금 차이 가능",
+      "model": "[새한볼트] 전산볼트(노란도금) M4-1M",
+      "quantity_cell": "5.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1330780"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 53,
+      "item": "M4 너트/와셔 포함 체결 세트 / SUS304 / M3·M4·M5 혼합 / 2세트",
+      "model": "스텐 둥근 냄비 머리 볼트 너트 와셔 세트 600SET SUS304 M3 M4 M5",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7508022659?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 54,
+      "item": "ㄱ자/L자 브라켓 / 소형 / 20개 / 센서·소형 판재 고정용",
+      "model": "네이쳐툴 ㄱ자 선반 꺽쇠 코너 기억자 코너철 소형, 소형, 20개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9180532021?itemId=27052882342&vendorItemId=94021286033"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 55,
+      "item": "ㄱ자/L자 브라켓 / 중형 / 20개 / 상판·라이다 타워·보강용",
+      "model": "네이쳐툴 ㄱ자 선반 꺽쇠 코너 기억자 코너철 소형, 중형, 20개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9180532021?itemId=27073271830&vendorItemId=94033298242"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 56,
+      "item": "M3 PCB 스페이서 세트 / 260P / 보드 절연·고정용 / 2세트",
+      "model": "260P M3 나일론 스페이서 너트 세트 - 육각 기판 고정용 나사 키트 - PCB 조립용",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8812110205?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 57,
+      "item": "동일제품 / 25mm×0.9m / 흑색 / 배터리·부품 고정용 / 3개 기준",
+      "model": "벨크로 찍찍이 세트 25mm x 0.9m 흑색 다용도 고정 스트랩 1개입 커머스픽101",
+      "quantity_cell": "1.0",
+      "url": "coupang.com/vp/products/8529109797?itemId=24948796869&vendorItemId=75134934386&q=벨크로%20찍찍이%20세트%2025mm%20x%200.9m%20흑색%20다용도%20고정%20스트랩%201개입%20커머스픽101&searchId=e90227007915826&sourceType=search&itemsCount=60&searchRank=4&rank=4&traceId=mu1fj2qp"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 58,
+      "item": "포맥스 커터/아크릴 커터 / 기본칼날 3p + 추가칼날 10p / 2세트",
+      "model": "모나코올리브 아크릴 커터 컷팅 칼 + 기본칼날 3p + 추가칼날 10p 세트, 2세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8628610238?itemId=25035550889&vendorItemId=92173489231"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 59,
+      "item": "스탠맨 21V 무선충전 해머전동드릴 공구세트 / ST-6000 / 1세트",
+      "model": "스탠맨 ST-6000 (2.0Ah, 배터리 1개)",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7449959434?itemId=19392413453&vendorItemId=90475106869&src=1032034&spec=10305197&addtag=400&ctag=7449959434&lptag=I19392413453&itime=20260915010213&pageType=PRODUCT&pageValue=7449959434&wPcid=17890376064507538654408&wRef=prod.danawa.com&wTime=20260915010213&redirect=landing&mcid=60ed74a7e1e14587a13ae31965e93715"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 60,
+      "item": "HSS 메탈 드릴비트 / 2~8mm / 6종 / 2607010529 / 2세트",
+      "model": "보쉬 PRO HSS 메탈 드릴비트 6종 세트 2~8mm / 2607010529., 2세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8736392839?vendorItemId=92497701254&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 61,
+      "item": "Mini Hacksaw DL353312 / 300mm·12인치 / Bi-metal 톱날 / 2개",
+      "model": "델리툴즈 경량 톱 쇠톱 미니 12인치 줄톱 톱대",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8975914021?vendorItemId=93275665490&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 62,
+      "item": "PH1·PH2·일자 5mm·6.5mm / 4PCS / DWHT65101",
+      "model": "[디월트] 스크류드라이버 4 PCS 세트 DWHT65101",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=14761245&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 63,
+      "item": "니퍼 / 150mm / BST-13203 / 1개",
+      "model": "BESTIR 니퍼 150mm BST-13203, 1개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8586101289"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 64,
+      "item": "니들 롱노즈 플라이어 / STHT84096-8 / 5인치급 / 1개",
+      "model": "STANLEY 니들 롱로즈 플라이어 스탠리STHT84096-8 롱로우즈 롱노즈플라이어 롱로즈",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/4701063165"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 65,
+      "item": "정밀 줄 세트 / 10종 / 2세트",
+      "model": "G.L.S 정밀 줄 세트 10종 줄세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8908142363"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 66,
+      "item": "240·320·400·600·800·1000·1200·1500·2000 grit / 2세트",
+      "model": "샌드페이퍼 240/320/400/600/800/1000/1200/1500/2000 그릿 사포 물/건식 샌딩페이퍼 연마재",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9473650656?vendorItemId=95316829435&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 67,
+      "item": "C형/G형 클램프 / 4인치 / 최대 105mm / 2개입",
+      "model": "C형 클램프 4인치 105mm G형 목공용, 2개",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8261073812"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 68,
+      "item": "투명 방풍 고글/보안경 ",
+      "model": "엠믹스 김서림방지 고글 보안경 작업용 보호안경 MX-B1",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8489843090?itemId=24572392237&vendorItemId=89155228971&sourceType=srp_product_ads&clickEventId=2b6ba990-b059-11f1-9164-936265cbaf44&korePlacement=15&koreSubPlacement=6&clickEventId=2b6ba990-b059-11f1-9164-936265cbaf44&korePlacement=15&koreSubPlacement=6&traceId=mu1ghzvd"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 69,
+      "item": "Melange Gray × L × 3개",
+      "model": "쓰리엠 컴포트 그립 터치 양손세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8593053393?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 70,
+      "item": "스텐/철제 직자 / 60cm / 1개",
+      "model": "철자 스틸자 스텐자 직자 60CM 철제자 커팅자",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/8322949454?itemId=24024398579&vendorItemId=91158907641"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 71,
+      "item": "미니 양구 스패너 / 3·4·5·6·7·8·10·11·13mm / 9종 / 1세트",
+      "model": "스마토 미니 양구 스패너 9종 세트 SM-MOW9P, 1세트",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/4609884713"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 72,
+      "item": "볼 L형 육각렌치 / mm 규격 / 1.5·2·2.5·3·4·5·6·8·10mm / 9pcs",
+      "model": "일제 육각렌치 볼 L 엘렌치 세트 미리 mm 렌찌 9pcs",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/7567504928"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 73,
+      "item": "ESC-4S / HSS / 4~12·4~20·4~32mm / 2세트",
+      "model": "[이엑스파워] 스텝드릴 세트 ESC-4S",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=15865788"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 74,
+      "item": "400핀 Half Size Breadboard / SZH-BBAD-005 / 5개",
+      "model": "[SMG] 브레드보드 400핀 Half Size Breadboard [SZH-BBAD-005]",
+      "quantity_cell": "5.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=1328148"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 75,
+      "item": "스텐 나일론너트 M4 × 1개",
+      "model": "하나로볼트 스텐 나일론 너트 볼트 풀림방지 M3 M4 M5 M6 M8 M10 M12 M16 M20, 1개",
+      "quantity_cell": "100.0",
+      "url": "https://www.coupang.com/vp/products/8370981674?itemId=24189936695&vendorItemId=91207686372&q=%EC%9C%A1%EA%B0%81%ED%92%80%EB%A6%BC%EB%B0%A9%EC%A7%80+%EA%B3%A0%EC%A0%95+%EB%84%88%ED%8A%B8+m4&searchId=61591c8c267642&sourceType=search&itemsCount=60&searchRank=24&rank=24&traceId=mu1ib00p"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 76,
+      "item": "고밀도 EVA 방진패드 / 블랙 / 8cm × 8cm / 2P / 5세트 기준",
+      "model": "고밀도 EVA 방진패드 충격흡수패드",
+      "quantity_cell": "3.0",
+      "url": "https://www.coupang.com/vp/products/8593772969?vendorItemId=91685164013&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 77,
+      "item": "록타이트 222 / 저강도 / 5g / 3개 기준",
+      "model": "록타이트 222 나사고정제 5g 저강도 볼트 너트 소형 나사고정제 나사풀림방지",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/8188218348"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 78,
+      "item": "아두이노 MG995 MG996용 서보모터 브라켓",
+      "model": "아두이노 MG995 MG996용 서보모터 브라켓 METAL-BRACKET",
+      "quantity_cell": "2.0",
+      "url": "https://www.coupang.com/vp/products/1346950788?utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 79,
+      "item": "입력 2, 출력 8, 모델명 SZH-CP003",
+      "model": "[SMG] 전원분배 단자대 / 터미널블럭 (입력2, 출력8)[SZH-CP003]",
+      "quantity_cell": "1.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=12498800&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 80,
+      "item": "3핀 JR/Futaba 계열, 길이 30cm, 모델명 MAC-029",
+      "model": "[Yeahbot] 서보 연장\n케이블 30cm [MAC-029]",
+      "quantity_cell": "5.0",
+      "url": "https://www.devicemart.co.kr/goods/view?no=15453298&utm_source=chatgpt.com"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 81,
+      "item": "전시 패널",
+      "model": "LED 라이트패널 실내용 벽걸이 엘이디광고패널",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9592149297?vendorItemId=95577353655&sourceType=CART"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 82,
+      "item": "음향장치 스피커",
+      "model": "[한국 정발] 에디파이어 PC-FI 데스크 파이 스튜디오 모니터 스피커",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9624937854?itemId=28743865093&vendorItemId=95683075390&src=1191000&spec=10999999&addtag=400&ctag=9624937854&lptag=CFM29951982&itime=20260915161917&pageType=PRODUCT&pageValue=9624937854&wPcid=17784992704239152595737&wRef=&wTime=20260915161917&redirect=landing&abTestInfo=&mcid=7e881273fbfc425daf38ba01e9b43dc8&sharesource=sharebutton&style=&isshortened=Y&settlement=N"
+    },
+    {
+      "sheet": "2주차",
+      "source_row": 83,
+      "item": "저장장치",
+      "model": "ESSENCORE KLEVV CRAS C715 M.2 NVMe 파인인포",
+      "quantity_cell": "1.0",
+      "url": "https://www.coupang.com/vp/products/9018877929?itemId=26441883474&vendorItemId=96010875854&src=1032034&spec=10305199&addtag=400&ctag=9018877929&lptag=V96010875854&itime=20260915171410&pageType=PRODUCT&pageValue=9018877929&wPcid=17784992704239152595737&wRef=prod.danawa.com&wTime=20260915171410&redirect=landing&mcid=678ca8b25ee940b7809ee186d8ed4ec1"
+    }
+  ],
+  "sources": [
+    {
+      "file": "1차-2차 부품 정리  - 1차-2차 부품 정리 (2).csv",
+      "sha256": "6cdf8f7b61d01541d79e9f288001763863b7e39fd3ca76f9bb4b67da7d91f218"
+    },
+    {
+      "file": "[일경험] 2기 재료비 신청서 (비교견적 포함)_임베디드X.xlsx",
+      "sha256": "6f4fa36242b1a7c31eb58829360706380f7872074612723d5fa86c39ca616e67"
+    },
+    {
+      "file": "SER0063.stp",
+      "sha256": "8a5c2e4d926856d640ede908d6d22c4733fdb117f93dee373fe5cfb7cc02eca5"
+    }
+  ]
+}

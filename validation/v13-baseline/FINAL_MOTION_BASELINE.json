@@ -1,0 +1,750 @@
+{
+  "pan_range_deg": [
+    -45,
+    45
+  ],
+  "tilt_range_deg": [
+    -20,
+    20
+  ],
+  "rigid_pairs": [
+    {
+      "a": "COMMUNITY_MG90S_TILT_0",
+      "b": "CUSTOM_LIDAR_BRIDGE",
+      "cells": 11,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "PHOTO_BASED_MG90S_TILT_HORN",
+      "b": "CUSTOM_PAN_ARM_RIGHT",
+      "cells": 63,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CHEEK_LEFT",
+      "b": "CUSTOM_PAN_YOKE",
+      "cells": 99,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CHEEK_LEFT",
+      "b": "APPROX_CAM_L_LEFT",
+      "cells": 81,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CHEEK_RIGHT",
+      "b": "CUSTOM_PAN_YOKE",
+      "cells": 99,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CHEEK_RIGHT",
+      "b": "APPROX_CAM_L_RIGHT",
+      "cells": 77,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_C920_SADDLE",
+      "b": "CUSTOM_PAN_YOKE",
+      "cells": 43,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_C920_SADDLE",
+      "b": "APPROX_CAM_L_LEFT",
+      "cells": 19,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_C920_SADDLE",
+      "b": "APPROX_CAM_L_RIGHT",
+      "cells": 17,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CORNER_LEFT0",
+      "b": "APPROX_CAM_L_LEFT",
+      "cells": 7,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_TILT_CORNER_RIGHT0",
+      "b": "APPROX_CAM_L_RIGHT",
+      "cells": 3,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    },
+    {
+      "a": "CUSTOM_C920_STRAP_0",
+      "b": "CUSTOM_PAN_YOKE",
+      "cells": 23,
+      "hits": [],
+      "near_cells": [],
+      "continuous_clear": true
+    }
+  ],
+  "cable_poses": [
+    {
+      "name": "C920_USB",
+      "pan_deg": -45,
+      "tilt_deg": -20,
+      "length_mm": 358.44032059715045,
+      "reserve_mm": 1141.5596794028495,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -45,
+      "tilt_deg": -20,
+      "length_mm": 153.21855286061705,
+      "reserve_mm": 96.78144713938295,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -45,
+      "tilt_deg": -10,
+      "length_mm": 359.41164283316755,
+      "reserve_mm": 1140.5883571668323,
+      "pairs": 12,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -45,
+      "tilt_deg": -10,
+      "length_mm": 153.21855286061705,
+      "reserve_mm": 96.78144713938295,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -45,
+      "tilt_deg": 0,
+      "length_mm": 362.86379047516493,
+      "reserve_mm": 1137.136209524835,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -45,
+      "tilt_deg": 0,
+      "length_mm": 153.21855286061705,
+      "reserve_mm": 96.78144713938295,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -45,
+      "tilt_deg": 10,
+      "length_mm": 368.14844189368125,
+      "reserve_mm": 1131.8515581063189,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -45,
+      "tilt_deg": 10,
+      "length_mm": 153.21855286061705,
+      "reserve_mm": 96.78144713938295,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -45,
+      "tilt_deg": 20,
+      "length_mm": 374.5380929040207,
+      "reserve_mm": 1125.4619070959793,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -45,
+      "tilt_deg": 20,
+      "length_mm": 153.21855286061705,
+      "reserve_mm": 96.78144713938295,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -30,
+      "tilt_deg": -20,
+      "length_mm": 365.3315770110316,
+      "reserve_mm": 1134.6684229889684,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -30,
+      "tilt_deg": -20,
+      "length_mm": 132.9831522365965,
+      "reserve_mm": 117.01684776340349,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -30,
+      "tilt_deg": -10,
+      "length_mm": 366.11842247862427,
+      "reserve_mm": 1133.8815775213757,
+      "pairs": 12,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -30,
+      "tilt_deg": -10,
+      "length_mm": 132.9831522365965,
+      "reserve_mm": 117.01684776340349,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -30,
+      "tilt_deg": 0,
+      "length_mm": 369.6260991827709,
+      "reserve_mm": 1130.3739008172292,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -30,
+      "tilt_deg": 0,
+      "length_mm": 132.9831522365965,
+      "reserve_mm": 117.01684776340349,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -30,
+      "tilt_deg": 10,
+      "length_mm": 375.14599429234505,
+      "reserve_mm": 1124.854005707655,
+      "pairs": 16,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -30,
+      "tilt_deg": 10,
+      "length_mm": 132.9831522365965,
+      "reserve_mm": 117.01684776340349,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -30,
+      "tilt_deg": 20,
+      "length_mm": 381.8384455814676,
+      "reserve_mm": 1118.1615544185324,
+      "pairs": 17,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -30,
+      "tilt_deg": 20,
+      "length_mm": 132.9831522365965,
+      "reserve_mm": 117.01684776340349,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -15,
+      "tilt_deg": -20,
+      "length_mm": 376.7892621247262,
+      "reserve_mm": 1123.210737875274,
+      "pairs": 7,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -15,
+      "tilt_deg": -20,
+      "length_mm": 122.19334101666328,
+      "reserve_mm": 127.80665898333672,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -15,
+      "tilt_deg": -10,
+      "length_mm": 377.7414416105556,
+      "reserve_mm": 1122.2585583894443,
+      "pairs": 8,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -15,
+      "tilt_deg": -10,
+      "length_mm": 122.19334101666328,
+      "reserve_mm": 127.80665898333672,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -15,
+      "tilt_deg": 0,
+      "length_mm": 381.8221330888613,
+      "reserve_mm": 1118.1778669111386,
+      "pairs": 8,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -15,
+      "tilt_deg": 0,
+      "length_mm": 122.19334101666328,
+      "reserve_mm": 127.80665898333672,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -15,
+      "tilt_deg": 10,
+      "length_mm": 388.0249139947488,
+      "reserve_mm": 1111.9750860052513,
+      "pairs": 10,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -15,
+      "tilt_deg": 10,
+      "length_mm": 122.19334101666328,
+      "reserve_mm": 127.80665898333672,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": -15,
+      "tilt_deg": 20,
+      "length_mm": 395.2965230188067,
+      "reserve_mm": 1104.7034769811933,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": -15,
+      "tilt_deg": 20,
+      "length_mm": 122.19334101666328,
+      "reserve_mm": 127.80665898333672,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 0,
+      "tilt_deg": -20,
+      "length_mm": 389.37214238492527,
+      "reserve_mm": 1110.6278576150748,
+      "pairs": 2,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 0,
+      "tilt_deg": -20,
+      "length_mm": 130.12319008596654,
+      "reserve_mm": 119.87680991403346,
+      "pairs": 0,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 0,
+      "tilt_deg": -10,
+      "length_mm": 391.3612933721174,
+      "reserve_mm": 1108.6387066278826,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 0,
+      "tilt_deg": -10,
+      "length_mm": 130.12319008596654,
+      "reserve_mm": 119.87680991403346,
+      "pairs": 0,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 0,
+      "tilt_deg": 0,
+      "length_mm": 396.8573820204946,
+      "reserve_mm": 1103.1426179795053,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 0,
+      "tilt_deg": 0,
+      "length_mm": 130.12319008596654,
+      "reserve_mm": 119.87680991403346,
+      "pairs": 0,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 0,
+      "tilt_deg": 10,
+      "length_mm": 404.21764107484717,
+      "reserve_mm": 1095.782358925153,
+      "pairs": 2,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 0,
+      "tilt_deg": 10,
+      "length_mm": 130.12319008596654,
+      "reserve_mm": 119.87680991403346,
+      "pairs": 0,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 0,
+      "tilt_deg": 20,
+      "length_mm": 412.23815081838256,
+      "reserve_mm": 1087.7618491816174,
+      "pairs": 3,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 0,
+      "tilt_deg": 20,
+      "length_mm": 130.12319008596654,
+      "reserve_mm": 119.87680991403346,
+      "pairs": 0,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 15,
+      "tilt_deg": -20,
+      "length_mm": 400.83048002898283,
+      "reserve_mm": 1099.169519971017,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 15,
+      "tilt_deg": -20,
+      "length_mm": 151.63736973305524,
+      "reserve_mm": 98.36263026694476,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 15,
+      "tilt_deg": -10,
+      "length_mm": 405.38135518705275,
+      "reserve_mm": 1094.6186448129472,
+      "pairs": 8,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 15,
+      "tilt_deg": -10,
+      "length_mm": 151.63736973305524,
+      "reserve_mm": 98.36263026694476,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 15,
+      "tilt_deg": 0,
+      "length_mm": 413.2633280419658,
+      "reserve_mm": 1086.736671958034,
+      "pairs": 7,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 15,
+      "tilt_deg": 0,
+      "length_mm": 151.63736973305524,
+      "reserve_mm": 98.36263026694476,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 15,
+      "tilt_deg": 10,
+      "length_mm": 422.0347405177068,
+      "reserve_mm": 1077.9652594822933,
+      "pairs": 9,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 15,
+      "tilt_deg": 10,
+      "length_mm": 151.63736973305524,
+      "reserve_mm": 98.36263026694476,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 15,
+      "tilt_deg": 20,
+      "length_mm": 430.7675271108284,
+      "reserve_mm": 1069.2324728891717,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 15,
+      "tilt_deg": 20,
+      "length_mm": 151.63736973305524,
+      "reserve_mm": 98.36263026694476,
+      "pairs": 1,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 30,
+      "tilt_deg": -20,
+      "length_mm": 417.2653235765478,
+      "reserve_mm": 1082.7346764234521,
+      "pairs": 13,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 30,
+      "tilt_deg": -20,
+      "length_mm": 176.74488648720717,
+      "reserve_mm": 73.25511351279283,
+      "pairs": 4,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 30,
+      "tilt_deg": -10,
+      "length_mm": 420.4415804382461,
+      "reserve_mm": 1079.558419561754,
+      "pairs": 10,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 30,
+      "tilt_deg": -10,
+      "length_mm": 176.74488648720717,
+      "reserve_mm": 73.25511351279283,
+      "pairs": 4,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 30,
+      "tilt_deg": 0,
+      "length_mm": 430.42338823619974,
+      "reserve_mm": 1069.5766117638002,
+      "pairs": 9,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 30,
+      "tilt_deg": 0,
+      "length_mm": 176.74488648720717,
+      "reserve_mm": 73.25511351279283,
+      "pairs": 3,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 30,
+      "tilt_deg": 10,
+      "length_mm": 440.4002526399693,
+      "reserve_mm": 1059.5997473600307,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 30,
+      "tilt_deg": 10,
+      "length_mm": 176.74488648720717,
+      "reserve_mm": 73.25511351279283,
+      "pairs": 3,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 30,
+      "tilt_deg": 20,
+      "length_mm": 449.59423876583134,
+      "reserve_mm": 1050.4057612341687,
+      "pairs": 13,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 30,
+      "tilt_deg": 20,
+      "length_mm": 176.74488648720717,
+      "reserve_mm": 73.25511351279283,
+      "pairs": 3,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 45,
+      "tilt_deg": -20,
+      "length_mm": 433.4463096157654,
+      "reserve_mm": 1066.5536903842346,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 45,
+      "tilt_deg": -20,
+      "length_mm": 201.89186055937614,
+      "reserve_mm": 48.10813944062386,
+      "pairs": 7,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 45,
+      "tilt_deg": -10,
+      "length_mm": 437.76486625639353,
+      "reserve_mm": 1062.2351337436064,
+      "pairs": 12,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 45,
+      "tilt_deg": -10,
+      "length_mm": 201.89186055937614,
+      "reserve_mm": 48.10813944062386,
+      "pairs": 7,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 45,
+      "tilt_deg": 0,
+      "length_mm": 447.92784021533555,
+      "reserve_mm": 1052.0721597846646,
+      "pairs": 11,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 45,
+      "tilt_deg": 0,
+      "length_mm": 201.89186055937614,
+      "reserve_mm": 48.10813944062386,
+      "pairs": 5,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 45,
+      "tilt_deg": 10,
+      "length_mm": 458.4548964625508,
+      "reserve_mm": 1041.5451035374492,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 45,
+      "tilt_deg": 10,
+      "length_mm": 201.89186055937614,
+      "reserve_mm": 48.10813944062386,
+      "pairs": 6,
+      "hits": []
+    },
+    {
+      "name": "C920_USB",
+      "pan_deg": 45,
+      "tilt_deg": 20,
+      "length_mm": 467.7450946696308,
+      "reserve_mm": 1032.2549053303692,
+      "pairs": 14,
+      "hits": []
+    },
+    {
+      "name": "TILT_PWM_POWER",
+      "pan_deg": 45,
+      "tilt_deg": 20,
+      "length_mm": 201.89186055937614,
+      "reserve_mm": 48.10813944062386,
+      "pairs": 7,
+      "hits": []
+    }
+  ],
+  "scope": "Rigid CAD interval bounds plus adaptive distances; simplified flexible routes sampled separately; no torque/fatigue/pinout certification",
+  "intentional_interfaces": [
+    {
+      "a": "CUSTOM_TILT_CHEEK_LEFT",
+      "b": "CUSTOM_TILT_BUSH_LEFT",
+      "reason": "Coaxial cylindrical bushing/cheek bore; rotationally invariant mating surfaces",
+      "max_volume_mm3": 0
+    }
+  ],
+  "elapsed_s": 85.03609354500009
+}

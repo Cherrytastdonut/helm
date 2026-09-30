@@ -1,0 +1,3902 @@
+[
+  {
+    "name": "CUSTOM_ELECTRONICS_PLATE",
+    "group": "01_FRAME",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; M4 support holes: (234,CY-19), (274,CY-19), (227,CY+14), (274,CY+19); left rear moved to clear ADC carrier",
+    "fabricate": true,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ELECTRONICS_PLATE.brep",
+    "bbox": [
+      -10.0000001,
+      -15.0000001,
+      254.99999957145013,
+      290.0000001,
+      208.00000010153968,
+      260.00000012436766
+    ],
+    "solids": 1,
+    "faces": 163,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_CAMERA_BASE",
+    "group": "01_FRAME",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; M4 support holes: (234,CY-19), (274,CY-19), (227,CY+14), (274,CY+19); left rear moved to clear ADC carrier",
+    "fabricate": true,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CAMERA_BASE.brep",
+    "bbox": [
+      218.0,
+      24.7,
+      260.0,
+      290.0,
+      168.7,
+      265.0
+    ],
+    "solids": 1,
+    "faces": 31,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_PAN_YOKE",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CUSTOM_PAN_YOKE.brep",
+    "bbox": [
+      211.0,
+      27.7150566272343,
+      322.37999999999585,
+      285.0,
+      165.7150566272343,
+      327.38
+    ],
+    "solids": 1,
+    "faces": 60,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_PAN_ARM_LEFT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CUSTOM_PAN_ARM_LEFT.brep",
+    "bbox": [
+      211.0,
+      27.715056627234297,
+      327.38,
+      285.0,
+      32.715056627234304,
+      386.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "APPROX_CAM_L_LEFT",
+    "group": "01_FRAME",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "MODIFIED_STOCK_BRACKET",
+    "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement; trim to final STEP clearance profile; verify stock bracket and support; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/APPROX_CAM_L_LEFT.brep",
+    "bbox": [
+      215.0,
+      32.7150566272343,
+      327.38,
+      231.0,
+      62.715056627234304,
+      357.38
+    ],
+    "solids": 1,
+    "faces": 21,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_F0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_F0.brep",
+    "bbox": [
+      219.0,
+      36.7150566272343,
+      320.38,
+      227.0,
+      44.7150566272343,
+      334.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_FN0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_FN0.brep",
+    "bbox": [
+      218.9585481156726,
+      37.2150566272343,
+      329.68,
+      227.0414518843274,
+      44.2150566272343,
+      332.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_V0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_V0.brep",
+    "bbox": [
+      219.0,
+      25.7150566272343,
+      331.38,
+      227.0,
+      39.715056627234304,
+      339.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_VN0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_VN0.brep",
+    "bbox": [
+      218.9585481156726,
+      35.0150566272343,
+      331.88,
+      227.0414518843274,
+      38.215056627234304,
+      338.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_F1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_F1.brep",
+    "bbox": [
+      219.0,
+      50.7150566272343,
+      320.38,
+      227.0,
+      58.7150566272343,
+      334.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_FN1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_FN1.brep",
+    "bbox": [
+      218.9585481156726,
+      51.2150566272343,
+      329.68,
+      227.0414518843274,
+      58.2150566272343,
+      332.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_V1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_V1.brep",
+    "bbox": [
+      219.0,
+      25.7150566272343,
+      345.38,
+      227.0,
+      39.715056627234304,
+      353.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_LEFT_VN1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_LEFT_VN1.brep",
+    "bbox": [
+      218.9585481156726,
+      35.0150566272343,
+      345.88,
+      227.0414518843274,
+      38.215056627234304,
+      352.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_PAN_ARM_RIGHT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision; Upper edge extended 11 mm; four M4 support holes added; shortened above upper holes to clear LiDAR plate in sampled pan motion",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CUSTOM_PAN_ARM_RIGHT.brep",
+    "bbox": [
+      211.0,
+      155.71505662723382,
+      327.38,
+      285.0,
+      160.7150566272343,
+      397.38
+    ],
+    "solids": 1,
+    "faces": 23,
+    "valid": true
+  },
+  {
+    "name": "APPROX_CAM_L_RIGHT",
+    "group": "01_FRAME",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "MODIFIED_STOCK_BRACKET",
+    "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement; trim to final STEP clearance profile; verify stock bracket and support; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/APPROX_CAM_L_RIGHT.brep",
+    "bbox": [
+      215.0,
+      135.715056627234,
+      327.38,
+      231.00000000000006,
+      165.7150566272343,
+      357.38
+    ],
+    "solids": 1,
+    "faces": 20,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_F0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_F0.brep",
+    "bbox": [
+      219.0,
+      153.715056627234,
+      320.38,
+      227.0,
+      161.715056627234,
+      334.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_FN0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_FN0.brep",
+    "bbox": [
+      218.9585481156726,
+      154.215056627234,
+      329.68,
+      227.0414518843274,
+      161.215056627234,
+      332.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_V0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_V0.brep",
+    "bbox": [
+      219.0,
+      158.715056627234,
+      331.38,
+      227.0,
+      172.715056627234,
+      339.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_VN0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_VN0.brep",
+    "bbox": [
+      218.9585481156726,
+      160.215056627234,
+      331.88,
+      227.0414518843274,
+      163.415056627234,
+      338.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_F1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_F1.brep",
+    "bbox": [
+      219.0,
+      139.715056627234,
+      320.38,
+      227.0,
+      147.715056627234,
+      334.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_FN1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_FN1.brep",
+    "bbox": [
+      218.9585481156726,
+      140.215056627234,
+      329.68,
+      227.0414518843274,
+      147.215056627234,
+      332.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_V1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x12; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_V1.brep",
+    "bbox": [
+      219.0,
+      158.715056627234,
+      345.38,
+      227.0,
+      172.715056627234,
+      353.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CAM_L_RIGHT_VN1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CAM_L_RIGHT_VN1.brep",
+    "bbox": [
+      218.9585481156726,
+      160.215056627234,
+      345.88,
+      227.0414518843274,
+      163.415056627234,
+      352.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CHEEK_LEFT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CHEEK_LEFT.brep",
+    "bbox": [
+      213.0,
+      36.7150566272343,
+      334.38,
+      283.0,
+      41.715056627234304,
+      384.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CHEEK_RIGHT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CHEEK_RIGHT.brep",
+    "bbox": [
+      213.0,
+      146.715056627234,
+      334.38,
+      283.0,
+      151.7150566272343,
+      384.38
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_C920_SADDLE",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; ; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_C920_SADDLE.brep",
+    "bbox": [
+      213.0,
+      41.7150566272343,
+      334.38,
+      283.0,
+      146.5150566272343,
+      339.38
+    ],
+    "solids": 1,
+    "faces": 63,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT0",
+    "group": "10_CUSTOM_PARTS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Solid polymer corner block, additional fabrication; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT0.brep",
+    "bbox": [
+      219.0,
+      41.715056627234304,
+      339.38,
+      227.0,
+      51.715056627234304,
+      349.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT0_F",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT0_F.brep",
+    "bbox": [
+      220.0,
+      43.7150566272343,
+      332.38,
+      226.0,
+      49.7150566272343,
+      350.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT0_V",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT0_V.brep",
+    "bbox": [
+      220.0,
+      34.7150566272343,
+      342.38,
+      226.0,
+      52.7150566272343,
+      348.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT1",
+    "group": "10_CUSTOM_PARTS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Solid polymer corner block, additional fabrication; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT1.brep",
+    "bbox": [
+      269.0,
+      41.715056627234304,
+      339.38,
+      277.0,
+      51.715056627234304,
+      349.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT1_F",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT1_F.brep",
+    "bbox": [
+      270.0,
+      43.7150566272343,
+      332.38,
+      276.0,
+      49.7150566272343,
+      350.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_LEFT1_V",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_LEFT1_V.brep",
+    "bbox": [
+      270.0,
+      34.7150566272343,
+      342.38,
+      276.0,
+      52.7150566272343,
+      348.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT0",
+    "group": "10_CUSTOM_PARTS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Solid polymer corner block, additional fabrication; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT0.brep",
+    "bbox": [
+      219.0,
+      136.7150566272343,
+      339.38,
+      227.0,
+      146.7150566272343,
+      349.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT0_F",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT0_F.brep",
+    "bbox": [
+      220.0,
+      138.715056627234,
+      332.38,
+      226.0,
+      144.715056627234,
+      350.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT0_V",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT0_V.brep",
+    "bbox": [
+      220.0,
+      140.715056627234,
+      342.38,
+      226.0,
+      158.715056627234,
+      348.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT1",
+    "group": "10_CUSTOM_PARTS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Solid polymer corner block, additional fabrication; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT1.brep",
+    "bbox": [
+      269.0,
+      136.7150566272343,
+      339.38,
+      277.0,
+      146.7150566272343,
+      349.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT1_F",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT1_F.brep",
+    "bbox": [
+      270.0,
+      138.715056627234,
+      332.38,
+      276.0,
+      144.715056627234,
+      350.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_CORNER_RIGHT1_V",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_CORNER_RIGHT1_V.brep",
+    "bbox": [
+      270.0,
+      140.715056627234,
+      342.38,
+      276.0,
+      158.715056627234,
+      348.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_C920_PAD",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "6.2mm shim stack, additional material; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_C920_PAD.brep",
+    "bbox": [
+      225.5,
+      74.7150566272343,
+      339.38,
+      270.5,
+      118.7150566272343,
+      343.38
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_C920_STRAP_0",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_C920_STRAP_0.brep",
+    "bbox": [
+      217.0,
+      66.0,
+      332.88,
+      225.0,
+      128.0,
+      369.38
+    ],
+    "solids": 1,
+    "faces": 10,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_C920_STRAP_1",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "",
+    "brep": "cache/CUSTOM_C920_STRAP_1.brep",
+    "bbox": [
+      257.0,
+      47.0,
+      332.88,
+      265.0,
+      146.0,
+      390.38
+    ],
+    "solids": 1,
+    "faces": 10,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_BUSH_LEFT",
+    "group": "10_CUSTOM_PARTS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Radial clearance bushing, fit/tolerance pending; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_BUSH_LEFT.brep",
+    "bbox": [
+      243.5,
+      32.715056627234304,
+      369.88,
+      252.5,
+      41.715056627234304,
+      378.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "TILT_AXIS_LEFT",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4x15; symbolic head, verify actual tool/head; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/TILT_AXIS_LEFT.brep",
+    "bbox": [
+      244.0,
+      30.715056627234297,
+      370.38,
+      252.0,
+      47.7150566272343,
+      378.38
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_0",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_0.brep",
+    "bbox": [
+      218.17858785063194,
+      74.7150565272343,
+      343.37953935995495,
+      279.75022540388096,
+      118.78489816621736,
+      365.12953945995497
+    ],
+    "solids": 1,
+    "faces": 32,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_1",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_1.brep",
+    "bbox": [
+      261.52022530387995,
+      81.17691784074029,
+      345.37953935995995,
+      268.5802253038799,
+      112.34211784074031,
+      352.4395393599599
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_2",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_2.brep",
+    "bbox": [
+      216.50022530387994,
+      81.1769178407403,
+      351.37953936,
+      222.50022530387994,
+      112.34211784074031,
+      357.37953936
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_3",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_3.brep",
+    "bbox": [
+      252.80022530388095,
+      74.80393044415828,
+      345.37953935996,
+      273.460225303881,
+      118.71503044415829,
+      356.279539359955
+    ],
+    "solids": 1,
+    "faces": 17,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_4",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_4.brep",
+    "bbox": [
+      220.50022530388094,
+      74.80393044415828,
+      345.3795393599549,
+      269.35022530388096,
+      118.7150566272343,
+      356.279539359955
+    ],
+    "solids": 1,
+    "faces": 15,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_5",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_5.brep",
+    "bbox": [
+      284.5002253038809,
+      66.2453091723503,
+      362.3790732321158,
+      285.01022540388095,
+      127.24530937235029,
+      386.56584667700497
+    ],
+    "solids": 1,
+    "faces": 110,
+    "valid": true
+  },
+  {
+    "name": "COMMUNITY_C920_6",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "COMMUNITY_CAD",
+    "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+    "fabricate": false,
+    "moving": "TILT",
+    "source": "C920_COMMUNITY.step",
+    "brep": "cache/COMMUNITY_C920_6.brep",
+    "bbox": [
+      261.0002252038809,
+      49.7217744397963,
+      360.8795392594692,
+      285.00022540399357,
+      143.70833881467232,
+      387.879539460441
+    ],
+    "solids": 1,
+    "faces": 77,
+    "valid": true
+  },
+  {
+    "name": "USER_SER0063_PAN",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      48,
+      144,
+      192
+    ],
+    "status": "USER_SUPPLIED_CAD",
+    "note": "Exact uploaded STEP, rigid placement only. Shaft axis (-9.86, y, 10) in source. Horn and lead geometry not included.",
+    "fabricate": false,
+    "moving": "",
+    "source": "LIB_SER0063.zip / SER0063/3D/SER0063.stp",
+    "brep": "cache/USER_SER0063_PAN.brep",
+    "bbox": [
+      230.35999999999999,
+      86.4650566272343,
+      273.0,
+      285.36,
+      106.9650566272343,
+      320.3800001000272
+    ],
+    "solids": 1,
+    "faces": 494,
+    "valid": true
+  },
+  {
+    "name": "USER_SER0063_TILT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      48,
+      144,
+      192
+    ],
+    "status": "USER_SUPPLIED_CAD",
+    "note": "Exact uploaded STEP, rigid placement only. Shaft axis (-9.86, y, 10) in source. Horn and lead geometry not included.",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "LIB_SER0063.zip / SER0063/3D/SER0063.stp",
+    "brep": "cache/USER_SER0063_TILT.brep",
+    "bbox": [
+      230.35999999999999,
+      160.7150565272071,
+      364.13,
+      285.36,
+      208.09505672723432,
+      384.63
+    ],
+    "solids": 1,
+    "faces": 494,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_PAN_SERVO_MOUNT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; SER0063 REVIEW ONLY; 5T PVC stock; drill and horn interfaces require physical check",
+    "fabricate": true,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_PAN_SERVO_MOUNT.brep",
+    "bbox": [
+      218.0,
+      66.7150566272343,
+      300.0,
+      290.0,
+      126.7150566272343,
+      305.0
+    ],
+    "solids": 1,
+    "faces": 18,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 64 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0.brep",
+    "bbox": [
+      232.0,
+      75.7150566272343,
+      249.0,
+      236.0,
+      79.7150566272343,
+      313.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_W0.brep",
+    "bbox": [
+      229.5,
+      73.2150566272343,
+      254.2,
+      238.5,
+      82.2150566272343,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_W1.brep",
+    "bbox": [
+      229.5,
+      73.2150566272343,
+      265.0,
+      238.5,
+      82.2150566272343,
+      265.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_W2.brep",
+    "bbox": [
+      229.5,
+      73.2150566272343,
+      299.2,
+      238.5,
+      82.2150566272343,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_W3.brep",
+    "bbox": [
+      229.5,
+      73.2150566272343,
+      305.0,
+      238.5,
+      82.2150566272343,
+      305.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_N0.brep",
+    "bbox": [
+      229.9585481156726,
+      74.2150566272343,
+      251.0,
+      238.0414518843274,
+      81.2150566272343,
+      254.20000000000002
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_N1.brep",
+    "bbox": [
+      229.9585481156726,
+      74.2150566272343,
+      265.8,
+      238.0414518843274,
+      81.2150566272343,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_N2.brep",
+    "bbox": [
+      229.9585481156726,
+      74.2150566272343,
+      296.0,
+      238.0414518843274,
+      81.2150566272343,
+      299.2
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_0_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_0_N3.brep",
+    "bbox": [
+      229.9585481156726,
+      74.2150566272343,
+      305.8,
+      238.0414518843274,
+      81.2150566272343,
+      309.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 64 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1.brep",
+    "bbox": [
+      272.0,
+      75.7150566272343,
+      249.0,
+      276.0,
+      79.7150566272343,
+      313.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_W0.brep",
+    "bbox": [
+      269.5,
+      73.2150566272343,
+      254.2,
+      278.5,
+      82.2150566272343,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_W1.brep",
+    "bbox": [
+      269.5,
+      73.2150566272343,
+      265.0,
+      278.5,
+      82.2150566272343,
+      265.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_W2.brep",
+    "bbox": [
+      269.5,
+      73.2150566272343,
+      299.2,
+      278.5,
+      82.2150566272343,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_W3.brep",
+    "bbox": [
+      269.5,
+      73.2150566272343,
+      305.0,
+      278.5,
+      82.2150566272343,
+      305.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_N0.brep",
+    "bbox": [
+      269.9585481156726,
+      74.2150566272343,
+      251.0,
+      278.0414518843274,
+      81.2150566272343,
+      254.20000000000002
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_N1.brep",
+    "bbox": [
+      269.9585481156726,
+      74.2150566272343,
+      265.8,
+      278.0414518843274,
+      81.2150566272343,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_N2.brep",
+    "bbox": [
+      269.9585481156726,
+      74.2150566272343,
+      296.0,
+      278.0414518843274,
+      81.2150566272343,
+      299.2
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_1_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_1_N3.brep",
+    "bbox": [
+      269.9585481156726,
+      74.2150566272343,
+      305.8,
+      278.0414518843274,
+      81.2150566272343,
+      309.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 64 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2.brep",
+    "bbox": [
+      225.0,
+      108.7150566272343,
+      249.0,
+      229.0,
+      112.7150566272343,
+      313.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_W0.brep",
+    "bbox": [
+      222.5,
+      106.2150566272343,
+      254.2,
+      231.5,
+      115.2150566272343,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_W1.brep",
+    "bbox": [
+      222.5,
+      106.2150566272343,
+      265.0,
+      231.5,
+      115.2150566272343,
+      265.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_W2.brep",
+    "bbox": [
+      222.5,
+      106.2150566272343,
+      299.2,
+      231.5,
+      115.2150566272343,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_W3.brep",
+    "bbox": [
+      222.5,
+      106.2150566272343,
+      305.0,
+      231.5,
+      115.2150566272343,
+      305.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_N0.brep",
+    "bbox": [
+      222.9585481156726,
+      107.2150566272343,
+      251.0,
+      231.0414518843274,
+      114.2150566272343,
+      254.20000000000002
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_N1.brep",
+    "bbox": [
+      222.9585481156726,
+      107.2150566272343,
+      265.8,
+      231.0414518843274,
+      114.2150566272343,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_N2.brep",
+    "bbox": [
+      222.9585481156726,
+      107.2150566272343,
+      296.0,
+      231.0414518843274,
+      114.2150566272343,
+      299.2
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_2_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_2_N3.brep",
+    "bbox": [
+      222.9585481156726,
+      107.2150566272343,
+      305.8,
+      231.0414518843274,
+      114.2150566272343,
+      309.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 64 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3.brep",
+    "bbox": [
+      272.0,
+      113.7150566272343,
+      249.0,
+      276.0,
+      117.7150566272343,
+      313.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_W0.brep",
+    "bbox": [
+      269.5,
+      111.2150566272343,
+      254.2,
+      278.5,
+      120.2150566272343,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_W1.brep",
+    "bbox": [
+      269.5,
+      111.2150566272343,
+      265.0,
+      278.5,
+      120.2150566272343,
+      265.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_W2.brep",
+    "bbox": [
+      269.5,
+      111.2150566272343,
+      299.2,
+      278.5,
+      120.2150566272343,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_W3.brep",
+    "bbox": [
+      269.5,
+      111.2150566272343,
+      305.0,
+      278.5,
+      120.2150566272343,
+      305.8
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_N0.brep",
+    "bbox": [
+      269.9585481156726,
+      112.2150566272343,
+      251.0,
+      278.0414518843274,
+      119.2150566272343,
+      254.20000000000002
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_N1.brep",
+    "bbox": [
+      269.9585481156726,
+      112.2150566272343,
+      265.8,
+      278.0414518843274,
+      119.2150566272343,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_N2.brep",
+    "bbox": [
+      269.9585481156726,
+      112.2150566272343,
+      296.0,
+      278.0414518843274,
+      119.2150566272343,
+      299.2
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_POST_3_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_POST_3_N3.brep",
+    "bbox": [
+      269.9585481156726,
+      112.2150566272343,
+      305.8,
+      278.0414518843274,
+      119.2150566272343,
+      309.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_0.brep",
+    "bbox": [
+      231.86,
+      99.7150566272343,
+      294.0,
+      235.86,
+      103.7150566272343,
+      314.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_0_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_0_N0.brep",
+    "bbox": [
+      230.36,
+      97.67360474290692,
+      296.8,
+      237.36,
+      105.75650851156169,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_0_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_0_N1.brep",
+    "bbox": [
+      230.36,
+      97.67360474290692,
+      307.5,
+      237.36,
+      105.75650851156169,
+      310.7
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_1.brep",
+    "bbox": [
+      231.86,
+      89.7150566272343,
+      294.0,
+      235.86,
+      93.7150566272343,
+      314.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_1_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_1_N0.brep",
+    "bbox": [
+      230.36,
+      87.67360474290692,
+      296.8,
+      237.36,
+      95.75650851156169,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_1_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_1_N1.brep",
+    "bbox": [
+      230.36,
+      87.67360474290692,
+      307.5,
+      237.36,
+      95.75650851156169,
+      310.7
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_2.brep",
+    "bbox": [
+      279.86,
+      99.7150566272343,
+      294.0,
+      283.86,
+      103.7150566272343,
+      314.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_2_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_2_N0.brep",
+    "bbox": [
+      278.36,
+      97.67360474290692,
+      296.8,
+      285.36,
+      105.75650851156169,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_2_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_2_N1.brep",
+    "bbox": [
+      278.36,
+      97.67360474290692,
+      307.5,
+      285.36,
+      105.75650851156169,
+      310.7
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_3.brep",
+    "bbox": [
+      279.86,
+      89.7150566272343,
+      294.0,
+      283.86,
+      93.7150566272343,
+      314.0
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_3_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_3_N0.brep",
+    "bbox": [
+      278.36,
+      87.67360474290692,
+      296.8,
+      285.36,
+      95.75650851156169,
+      300.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_PAN_LUG_3_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/SER0063_PAN_LUG_3_N1.brep",
+    "bbox": [
+      278.36,
+      87.67360474290692,
+      307.5,
+      285.36,
+      95.75650851156169,
+      310.7
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "CUSTOM_TILT_SERVO_MOUNT",
+    "group": "07_CAMERA_SYSTEM",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; SER0063 REVIEW ONLY; 5T PVC stock; drill and horn interfaces require physical check",
+    "fabricate": true,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/CUSTOM_TILT_SERVO_MOUNT.brep",
+    "bbox": [
+      218.0,
+      176.0950566272343,
+      348.38,
+      290.0,
+      181.0950566272343,
+      397.38
+    ],
+    "solids": 1,
+    "faces": 18,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 38 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0.brep",
+    "bbox": [
+      235.0,
+      151.7150566272343,
+      354.38,
+      239.0,
+      189.7150566272343,
+      358.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_W0.brep",
+    "bbox": [
+      232.5,
+      154.91505662723432,
+      351.88,
+      241.5,
+      155.71505662723433,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_W1.brep",
+    "bbox": [
+      232.5,
+      160.7150566272343,
+      351.88,
+      241.5,
+      161.51505662723432,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_W2.brep",
+    "bbox": [
+      232.5,
+      175.2950566272343,
+      351.88,
+      241.5,
+      176.0950566272343,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_W3.brep",
+    "bbox": [
+      232.5,
+      181.0950566272343,
+      351.88,
+      241.5,
+      181.8950566272343,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_N0.brep",
+    "bbox": [
+      232.9585481156726,
+      151.7150566272343,
+      352.88,
+      241.0414518843274,
+      154.91505662723432,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_N1.brep",
+    "bbox": [
+      232.9585481156726,
+      161.5150566272343,
+      352.88,
+      241.0414518843274,
+      164.7150566272343,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_N2.brep",
+    "bbox": [
+      232.9585481156726,
+      172.0950566272343,
+      352.88,
+      241.0414518843274,
+      175.29505662723432,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_0_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_0_N3.brep",
+    "bbox": [
+      232.9585481156726,
+      181.8950566272343,
+      352.88,
+      241.0414518843274,
+      185.09505662723433,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 38 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1.brep",
+    "bbox": [
+      272.0,
+      151.7150566272343,
+      354.38,
+      276.0,
+      189.7150566272343,
+      358.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_W0.brep",
+    "bbox": [
+      269.5,
+      154.91505662723432,
+      351.88,
+      278.5,
+      155.71505662723433,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_W1.brep",
+    "bbox": [
+      269.5,
+      160.7150566272343,
+      351.88,
+      278.5,
+      161.51505662723432,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_W2.brep",
+    "bbox": [
+      269.5,
+      175.2950566272343,
+      351.88,
+      278.5,
+      176.0950566272343,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_W3.brep",
+    "bbox": [
+      269.5,
+      181.0950566272343,
+      351.88,
+      278.5,
+      181.8950566272343,
+      360.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_N0.brep",
+    "bbox": [
+      269.9585481156726,
+      151.7150566272343,
+      352.88,
+      278.0414518843274,
+      154.91505662723432,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_N1.brep",
+    "bbox": [
+      269.9585481156726,
+      161.5150566272343,
+      352.88,
+      278.0414518843274,
+      164.7150566272343,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_N2.brep",
+    "bbox": [
+      269.9585481156726,
+      172.0950566272343,
+      352.88,
+      278.0414518843274,
+      175.29505662723432,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_1_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_1_N3.brep",
+    "bbox": [
+      269.9585481156726,
+      181.8950566272343,
+      352.88,
+      278.0414518843274,
+      185.09505662723433,
+      359.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 38 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2.brep",
+    "bbox": [
+      222.0,
+      151.7150566272343,
+      390.38,
+      226.0,
+      189.7150566272343,
+      394.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_W0.brep",
+    "bbox": [
+      219.5,
+      154.91505662723432,
+      387.88,
+      228.5,
+      155.71505662723433,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_W1.brep",
+    "bbox": [
+      219.5,
+      160.7150566272343,
+      387.88,
+      228.5,
+      161.51505662723432,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_W2.brep",
+    "bbox": [
+      219.5,
+      175.2950566272343,
+      387.88,
+      228.5,
+      176.0950566272343,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_W3.brep",
+    "bbox": [
+      219.5,
+      181.0950566272343,
+      387.88,
+      228.5,
+      181.8950566272343,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_N0.brep",
+    "bbox": [
+      219.9585481156726,
+      151.7150566272343,
+      388.88,
+      228.0414518843274,
+      154.91505662723432,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_N1.brep",
+    "bbox": [
+      219.9585481156726,
+      161.5150566272343,
+      388.88,
+      228.0414518843274,
+      164.7150566272343,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_N2.brep",
+    "bbox": [
+      219.9585481156726,
+      172.0950566272343,
+      388.88,
+      228.0414518843274,
+      175.29505662723432,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_2_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_2_N3.brep",
+    "bbox": [
+      219.9585481156726,
+      181.8950566272343,
+      388.88,
+      228.0414518843274,
+      185.09505662723433,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 38 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3.brep",
+    "bbox": [
+      272.0,
+      151.7150566272343,
+      390.38,
+      276.0,
+      189.7150566272343,
+      394.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_W0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_W0.brep",
+    "bbox": [
+      269.5,
+      154.91505662723432,
+      387.88,
+      278.5,
+      155.71505662723433,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_W1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_W1.brep",
+    "bbox": [
+      269.5,
+      160.7150566272343,
+      387.88,
+      278.5,
+      161.51505662723432,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_W2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_W2.brep",
+    "bbox": [
+      269.5,
+      175.2950566272343,
+      387.88,
+      278.5,
+      176.0950566272343,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_W3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_W3.brep",
+    "bbox": [
+      269.5,
+      181.0950566272343,
+      387.88,
+      278.5,
+      181.8950566272343,
+      396.88
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_N0.brep",
+    "bbox": [
+      269.9585481156726,
+      151.7150566272343,
+      388.88,
+      278.0414518843274,
+      154.91505662723432,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_N1.brep",
+    "bbox": [
+      269.9585481156726,
+      161.5150566272343,
+      388.88,
+      278.0414518843274,
+      164.7150566272343,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_N2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_N2.brep",
+    "bbox": [
+      269.9585481156726,
+      172.0950566272343,
+      388.88,
+      278.0414518843274,
+      175.29505662723432,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_POST_3_N3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_POST_3_N3.brep",
+    "bbox": [
+      269.9585481156726,
+      181.8950566272343,
+      388.88,
+      278.0414518843274,
+      185.09505662723433,
+      395.88
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_0.brep",
+    "bbox": [
+      231.86,
+      169.0950566272343,
+      377.38,
+      235.86,
+      189.0950566272343,
+      381.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_0_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_0_N0.brep",
+    "bbox": [
+      230.36,
+      170.3950566272343,
+      375.3385481156726,
+      237.36,
+      173.59505662723433,
+      383.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_0_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_0_N1.brep",
+    "bbox": [
+      230.36,
+      181.0950566272343,
+      375.3385481156726,
+      237.36,
+      184.29505662723432,
+      383.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_1.brep",
+    "bbox": [
+      231.86,
+      169.0950566272343,
+      367.38,
+      235.86,
+      189.0950566272343,
+      371.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_1_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_1_N0.brep",
+    "bbox": [
+      230.36,
+      170.3950566272343,
+      365.3385481156726,
+      237.36,
+      173.59505662723433,
+      373.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_1_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_1_N1.brep",
+    "bbox": [
+      230.36,
+      181.0950566272343,
+      365.3385481156726,
+      237.36,
+      184.29505662723432,
+      373.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_2.brep",
+    "bbox": [
+      279.86,
+      169.0950566272343,
+      377.38,
+      283.86,
+      189.0950566272343,
+      381.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_2_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_2_N0.brep",
+    "bbox": [
+      278.36,
+      170.3950566272343,
+      375.3385481156726,
+      285.36,
+      173.59505662723433,
+      383.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_2_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_2_N1.brep",
+    "bbox": [
+      278.36,
+      181.0950566272343,
+      375.3385481156726,
+      285.36,
+      184.29505662723432,
+      383.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "M4 all-thread cut to 20 mm from second-order 1 m stock; no helical detail; REVIEW ONLY",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_3.brep",
+    "bbox": [
+      279.86,
+      169.0950566272343,
+      367.38,
+      283.86,
+      189.0950566272343,
+      371.38
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_3_N0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_3_N0.brep",
+    "bbox": [
+      278.36,
+      170.3950566272343,
+      365.3385481156726,
+      285.36,
+      173.59505662723433,
+      373.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  },
+  {
+    "name": "SER0063_TILT_LUG_3_N1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M4 nominal thread, no helical detail; Flats parallel to servo case; plain nut bearing is a REVIEW proposal, verify supplied mounting hardware",
+    "fabricate": false,
+    "moving": "PAN",
+    "source": "",
+    "brep": "cache/SER0063_TILT_LUG_3_N1.brep",
+    "bbox": [
+      278.36,
+      181.0950566272343,
+      365.3385481156726,
+      285.36,
+      184.29505662723432,
+      373.4214518843274
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true
+  }
+]

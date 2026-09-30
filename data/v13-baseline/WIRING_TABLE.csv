@@ -1,0 +1,50 @@
+﻿Route,From -> To,Length_mm,Stock_mm,Reserve_mm,Signal / Note
+BAT_MAIN,BAT_POS -> INLINE0_IN,52.1,-,-,12AWG battery positive main fuse close to terminal
+BAT_RETURN,BAT_NEG -> BUS_NEG0,195.4,-,-,14AWG ground
+MAIN_SWITCH,INLINE0_OUT -> ROCKER_IN,225.7,-,-,14AWG fused12V
+MAIN_BUS,ROCKER_OUT -> BUS_POS0,427.9,-,-,14AWG switched12V
+MAIN_LED_RETURN,ROCKER_GND -> BUS_NEG1,414.8,-,-,22AWG LED return
+MOTOR_BRANCH_FUSE,BUS_POS1 -> INLINE1_IN,70.4,-,-,14AWG motor branch fuse
+MOTOR_RELAY30,INLINE1_OUT -> RELAY_30,111.8,-,-,14AWG contact30 feed
+MOTOR_RELAY87,RELAY_87 -> MDD_POS,476.2,-,-,14AWG switched motor supply
+MOTOR_RETURN,BUS_NEG2 -> MDD_NEG,398.0,-,-,14AWG motor return
+COIL_FEED,BUS_POS2 -> ESTOP_IN,209.4,-,-,22AWG coil feed through NC E-stop
+COIL_NC,ESTOP_OUT -> RELAY_86,101.7,-,-,22AWG E-stop NC to coil86
+COIL_RETURN,RELAY_85 -> BUS_NEG3,139.3,-,-,22AWG coil85 return
+FUSE_INPUT_BOOST,BUS_POS3 -> FUSE_IN0,144.0,-,-,14AWG fused distribution input
+FUSE_INPUT_BUCK,BUS_POS4 -> FUSE_IN1,147.1,-,-,14AWG fused distribution input
+FUSE_INPUT_AUX,BUS_POS5 -> FUSE_IN2,152.2,-,-,14AWG fused distribution input
+FUSE_INPUT_SPARE,BUS_POS6 -> FUSE_IN3,158.4,-,-,14AWG fused distribution input
+BOOST_INPUT,FUSE_OUT0 -> BOOST_IN_POS,233.4,-,-,14AWG boost input
+BOOST_RETURN,BUS_NEG4 -> BOOST_IN_NEG,260.2,-,-,14AWG boost return
+JETSON_19V_PAIR,BOOST_OUT_POS -> JETSON_DC,822.9,-,-,"18AWG pair: BOOST OUT+/OUT- to760K center+/sleeve-; endpoint2 joined pair, no exposed branch"
+BUCK_INPUT,FUSE_OUT1 -> BUCK_IN_POS,237.4,-,-,14AWG5V buck input
+BUCK_RETURN,BUS_NEG5 -> BUCK_IN_NEG,608.3,-,-,14AWG buck return
+5V_STAR,BUCK_OUT_POS -> D5_IN,167.3,-,-,5V paired supply; negative fromBUCK_OUT_NEG in same paired jacket
+5V_HUB,D5_HUB -> HUB_DC,283.4,-,-,5V paired supply; hub jack diameter/polarity to verify
+HUB_UPSTREAM,HUB_UPSTREAM -> JETSON_USB0,239.0,270,31.0,USB3 captive270mm
+C920_USB,C920_USB -> HUB_USB0,396.9,1500,1103.1,USB2 captive1500mm; residual service loop requires routing release
+ESP32_USB,HUB_USB1 -> ESP32_USB,102.6,1000,897.4,ComsABFC100 A-C1000mm; MCU powered only here
+SPEAKER_USB,HUB_USB3 -> SPEAKER_USB,271.8,-,-,USB speaker captive length unspecified
+BNO_SPI_BUNDLE,MCU_SPI_SCK -> BNO_SPI_SCK,64.2,-,-,7coreSPI:3V3/GND/SCK18/MISO19/MOSI23/CS5/INT13. PS0/PS1 straps and reset per Adafruit; exact pin cavities pending
+THERMAL_I2C,MCU_SDA -> THERMAL_I2C,325.5,-,-,4core3V3/GND/I2C GPIO21/22
+PAN_PWM_POWER,D5_PAN -> MG90S_PAN_CABLE,190.2,250,59.8,"Servo JR:power4.8V conditioned,ground,GPIO32; signal joins atstar"
+TILT_PWM_POWER,D5_TILT -> MG90S_TILT_CABLE,130.1,250,119.9,"Servo JR:power4.8V conditioned,ground,GPIO33; flexible movement loop"
+MDD_CONTROL,MCU_PWM_L -> MDD_PWM_L,157.5,-,-,5corePWM25/DIR27/PWM26/DIR14/commonGND; Cytron order verify
+BUMPER_FRONT,MCU_BUMP_F -> BUMPER_FRONT_COM,521.4,-,-,"22AWG NC/COM paired cable; signal GPIO4 with3.3V pullup,NC closed toGND; open=contact or wire break"
+BUMPER_REAR,MCU_BUMP_REAR -> BUMPER_REAR_COM,535.6,-,-,"22AWG NC/COM paired cable; signal GPIO2 with3.3V pullup,NC closed toGND; open=contact or wire break"
+BUMPER_LEFT,MCU_BUMP_LEFT -> BUMPER_LEFT_COM,888.1,-,-,"22AWG NC/COM paired cable; signal GPIO16 with3.3V pullup,NC closed toGND; open=contact or wire break"
+BUMPER_RIGHT,MCU_BUMP_RIGHT -> BUMPER_RIGHT_COM,737.4,-,-,"22AWG NC/COM paired cable; signal GPIO17 with3.3V pullup,NC closed toGND; open=contact or wire break"
+MOTOR_L_M1,MDD_L1 -> MOTOR_L_M1,540.7,-,-,Motor PH6 motor pair; current through PH contacts must fit stall rating
+MOTOR_L_M2,MDD_L2 -> MOTOR_L_M2,547.8,-,-,Motor PH6 motor pair; current through PH contacts must fit stall rating
+ENCODER_L,MOTOR_L_ENC -> ENCODER_IN,719.0,-,-,"4coreencoder VCC,GND,A,B through levelinterface; physical motor cavity mapping pending"
+MOTOR_R_M1,MDD_R1 -> MOTOR_R_M1,677.1,-,-,Motor PH6 motor pair; current through PH contacts must fit stall rating
+MOTOR_R_M2,MDD_R2 -> MOTOR_R_M2,701.8,-,-,Motor PH6 motor pair; current through PH contacts must fit stall rating
+ENCODER_R,MOTOR_R_ENC -> ENCODER_IN,630.8,-,-,"4coreencoder VCC,GND,A,B through levelinterface; physical motor cavity mapping pending"
+ENCODER_MCU,ENCODER_OUT -> MCU_ENC_L,77.3,-,-,4signals GPIO34/35/36/39; additional external input resistors
+VOLTAGE_SENSE,DIVIDER_SIG -> ADC_ANALOG,90.0,-,-,Analog <=3.3V after divider; ADS1115 added
+ADC_I2C,ADC_I2C -> MCU_SCL,299.0,-,-,"3V3,GND,SDA21,SCL22"
+VOLTAGE_POS,BUS_POS6 -> DIVIDER_POS,576.6,-,-,Voltage measurement positive through auxiliary fuse required
+VOLTAGE_NEG,BUS_NEG6 -> DIVIDER_NEG,562.8,-,-,Sense ground
+BOOST_19V_RETURN_TAIL,BOOST_OUT_NEG -> BOOST_OUT_POS,-,-,-,Negative conductor joins insulated19V pair; not an electrical short
+BUCK_5V_RETURN_TAIL,BUCK_OUT_NEG -> BUCK_OUT_POS,-,-,-,Negative conductor enters separate-core5V jacket; not an electrical junction

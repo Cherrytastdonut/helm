@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+downloads/
+build/
+tmp/
+*.partial
+.env
+.env.*
+!.env.example

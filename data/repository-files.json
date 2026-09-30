@@ -1,0 +1,1587 @@
+{
+  "format_version": 1,
+  "created_on": "2026-10-01",
+  "scope": "All tracked deliverables except this catalog itself; SHA-256 of file bytes",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/design-change.md",
+      "size_bytes": 420,
+      "sha256": "e33ec76715ae2bdc78f32bb83bbf979dea169d62e2a8bbbf6b826a11c506dbb6"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 85,
+      "sha256": "4b468cc2a04c62a84aa38603e335a3f8180dc688962643eab5d6a13dc36f1c5b"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 1076,
+      "sha256": "7016415c5f0f36868b7efdc1bc8d0d043e9236436c1a8d9c5e91d55a96f4c0bd"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 881,
+      "sha256": "2b13e1934f7c00ad94e12498c8593995e2fc7118df15b94f749f502a09d679f6"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 1073,
+      "sha256": "eeb9c5226937894eff12f8d1c64a5beb9692ea6fa40a92316302e6aac176cb8d"
+    },
+    {
+      "path": "NOTICE.md",
+      "size_bytes": 516,
+      "sha256": "46c0f24d82e2c84dc627676a8dedb7c8a51484428d8067fb3d422eac166ba05a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2794,
+      "sha256": "b2ff9ffaa2af690141c231c4506a98014fa6bc5eebb516ef419b67315182da44"
+    },
+    {
+      "path": "archives/README.md",
+      "size_bytes": 981,
+      "sha256": "f1ce69bd4b752efe59649b4bb9628a592a1b3b0bbef006695efea9192eff9abd"
+    },
+    {
+      "path": "archives/manifest.json",
+      "size_bytes": 8605,
+      "sha256": "8d9a6c0f54cdfb9673ef2ad452740dd05c7d77075cf11264502fe587d990568a"
+    },
+    {
+      "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-001",
+      "size_bytes": 16777216,
+      "sha256": "1352b0f3a12da5d56f8f2435d561200aa672715b4f76d0669da4a641f4ecad17"
+    },
+    {
+      "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-002",
+      "size_bytes": 16777216,
+      "sha256": "e43c35e7b140adc9022ad82e8f6530c00a58c4d1bd6c0002993e640ef4604c3f"
+    },
+    {
+      "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-003",
+      "size_bytes": 6966505,
+      "sha256": "5ee8a8a1bc8aca176188032f3637b449b4905a24e718205531f9982c50752d34"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-001",
+      "size_bytes": 16777216,
+      "sha256": "0602fcb7fcff9ba490aa089da34a2af270e4d28abf1ea5d4cbebaa2fc43dd00a"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-002",
+      "size_bytes": 16777216,
+      "sha256": "32841d19eedb7adaad75dcbec21c88f4589e7999c922daf93fce82c220bedf3a"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-003",
+      "size_bytes": 16777216,
+      "sha256": "080d3bc62b7b8f6308e1844dd32d3c0aed5d8ee2736ec3cb49356c91f5c413e6"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-004",
+      "size_bytes": 16777216,
+      "sha256": "e4bef3cbaad03f220f80173641c3eafabed9bdae6a4c3570102ac4094289ee1e"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-005",
+      "size_bytes": 16777216,
+      "sha256": "5c6427a5fbbd0fe449ec98bc2b69e8057dcc662128f681bb0ed0063c8cc26fd4"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-006",
+      "size_bytes": 16777216,
+      "sha256": "07d3bbd246109deb3a3198b5abd113e6fa5b8110ce5ea4c820852c097420cee0"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-007",
+      "size_bytes": 16777216,
+      "sha256": "d8aa900ce2ccc6043659e28b96c527f498bc2c6ba09df57c504b1bf9744906e5"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-008",
+      "size_bytes": 16777216,
+      "sha256": "4bbf713ec0ccf35c2fc562c6a71eea99012f092f3518e43992737b0783f6ea73"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-009",
+      "size_bytes": 16777216,
+      "sha256": "9f894dc2d9501f96a6fa26e3f2cbca524d8b6b3c1efd8d7d7f56e9ed6d926b3c"
+    },
+    {
+      "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-010",
+      "size_bytes": 726993,
+      "sha256": "fd93f7ed09ebd2ecd04198b87c830627ac794c1cdc640c1298e56183c701ae09"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-001",
+      "size_bytes": 16777216,
+      "sha256": "030ac72c7279ec09a3478a0638f6884695fc47c6d6952785fb3c0fa871551ba2"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-002",
+      "size_bytes": 16777216,
+      "sha256": "1c55012f9d39e37aea985f45840e03e8afd0841e4c05495ae15f47cbb735a5bc"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-003",
+      "size_bytes": 16777216,
+      "sha256": "ad071f99c7cb2681a663f1170047151906daedf0fcce44ef27744c07240ee7f3"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-004",
+      "size_bytes": 16777216,
+      "sha256": "417c6ebf9155cf2cebbb086e661edf8f38e3c033704c21b9a87ac2c49b6e4783"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-005",
+      "size_bytes": 16777216,
+      "sha256": "3a6ba6950be63def7d9749778fa560c7ca614c0b7279be677d71e2ae1508c0c9"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-006",
+      "size_bytes": 16777216,
+      "sha256": "ba5e5ee8c8629f8b72d7cc523f3b9bd6951766c1da782cb5f3c0b5d68f8a9b08"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-007",
+      "size_bytes": 16777216,
+      "sha256": "175b627ddbf89d44103c645bd1c8092299660f603e667848f068ab1447918d46"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-008",
+      "size_bytes": 16777216,
+      "sha256": "34924da175f83113124905a220d35ddf89679632318bc97c5331a56515901607"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-009",
+      "size_bytes": 16777216,
+      "sha256": "907df948d5b39cc0e8534ff921b9d158a478bc00b7c3efdf9b979c49f70fc47f"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-010",
+      "size_bytes": 16777216,
+      "sha256": "a73ed172a6c146ef6d49d4cddf51b6de3cf86f2f9671db05aa53d8b5505c9be9"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-011",
+      "size_bytes": 16777216,
+      "sha256": "2ecb8f9cbff2054de2b9b2c35472ebc9f28921479b0fdfd0f4b80af98bad321d"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-012",
+      "size_bytes": 16777216,
+      "sha256": "202b790620bcf11ded8b792b8ed3833aa578985388313147681f21043b680163"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-013",
+      "size_bytes": 16777216,
+      "sha256": "80f83c11217002eec77a7fa42bd495eb49e3d069113113cc165140240a016d27"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-014",
+      "size_bytes": 16777216,
+      "sha256": "fc074fdfab67b625145e0ef79a99e20c4cb93f3bbf50f0649a9827b94651e642"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-015",
+      "size_bytes": 16777216,
+      "sha256": "0aed172e385517b258ef6cf122e43a21e51ba8796e9e688a612ec495b3be2dc4"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-016",
+      "size_bytes": 16777216,
+      "sha256": "6c7a518c8795597a03b8a619b2a3c24ca8dc71f4191395b8a5f5306dec1bc156"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-017",
+      "size_bytes": 16777216,
+      "sha256": "31dbdff0c5a993aa94c03f7fab841ffb3b027a50fe697afa3a0e5d4d58a2ce66"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-018",
+      "size_bytes": 16777216,
+      "sha256": "be6c380a4cfd0794338af2aa0161814d2bc042c7bb08f2bec65d4f9b26e520f9"
+    },
+    {
+      "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-019",
+      "size_bytes": 3958509,
+      "sha256": "a6b5fc2d53076ab6bf71429c794fa68d135df5d1c906df31484002b93850ab78"
+    },
+    {
+      "path": "assets/camera_front.png",
+      "size_bytes": 41724,
+      "sha256": "64ca463e28d6468f91bb96942e3e1ac58c79b1b5701bc2b26d01416398a56dd2"
+    },
+    {
+      "path": "assets/camera_iso.png",
+      "size_bytes": 78112,
+      "sha256": "b3b296fe515d4aa45c3f23bb26c7f921c5e8506a13311f3bdad31d3eea2c79ee"
+    },
+    {
+      "path": "assets/camera_side.png",
+      "size_bytes": 32822,
+      "sha256": "5c243261267b6ceeec2fa2af63e4b253d4aa78f4eb112eb34d86b37701f1dc34"
+    },
+    {
+      "path": "assets/full_review.png",
+      "size_bytes": 188791,
+      "sha256": "f0082996e9905dfcce42871900538f407ac4d4c83858e63483dea5cdb7368b84"
+    },
+    {
+      "path": "assets/ser0063_source_views.png",
+      "size_bytes": 373576,
+      "sha256": "91de8bb5b1ef293f4e6c5ed266c64d932fea417bc7170ee9cf35523602e3445b"
+    },
+    {
+      "path": "cad/ser0063-review/README.md",
+      "size_bytes": 239,
+      "sha256": "0889f58de2c236e68bf98f07f7d4564985eed0bfd8b3891a6a30b14b380b6fcd"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_C920_SADDLE.dxf",
+      "size_bytes": 26408,
+      "sha256": "dac4ea131a6639b84100a6713e9b97085a276302debaf84d7746db337df40eb1"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_CAMERA_BASE.dxf",
+      "size_bytes": 22651,
+      "sha256": "1dfa272e8b6b12e9d587e043caf510bc70534b676e8212fabb3791b77bb40186"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_PAN_ARM_LEFT.dxf",
+      "size_bytes": 16759,
+      "sha256": "7395a5da0d4b3724bd468a5cc7de54f540881a1d9fe2d3d5ed5fbf53214cc0eb"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_PAN_SERVO_MOUNT.dxf",
+      "size_bytes": 19179,
+      "sha256": "4ae38c825cd4177208475342d63ece3c3a760ee105ad159b28c8094dd2d9d4ff"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_TILT_CHEEK_LEFT.dxf",
+      "size_bytes": 16817,
+      "sha256": "a1c345d43e1138f2a45043a454a65f68dcfa849f0a7343d50a4327a4f65dfeb0"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_TILT_CHEEK_RIGHT.dxf",
+      "size_bytes": 17445,
+      "sha256": "0e02998bd1a1ec1b109ce7cdc88fbef0b7f87bd07546331d091d84bf93a3eefe"
+    },
+    {
+      "path": "cad/ser0063-review/dxf-review-only/CUSTOM_TILT_SERVO_MOUNT.dxf",
+      "size_bytes": 18596,
+      "sha256": "0ef9a7acab1a397f34ee9b3e18c3386b876395fb334bf825e6428cb77ba5af31"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/APPROX_CAM_L_LEFT.step",
+      "size_bytes": 77295,
+      "sha256": "9a7a162d002902a51b3bd6d995c0f6534f638cba5e952eed4681854ee7c0d1fa"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/APPROX_CAM_L_RIGHT.step",
+      "size_bytes": 72975,
+      "sha256": "213cb777085f5d47b372cd413dcd522da355ebdc81e55c8c9c8216a0f793db1a"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_C920_SADDLE.step",
+      "size_bytes": 228491,
+      "sha256": "a3ed369b8edbd91da7199d50a070f19ae256c32d6718f792a42b673ebae85c1e"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_CAMERA_BASE.step",
+      "size_bytes": 111912,
+      "sha256": "a780cb88a890c1bae580c61fa6ac23835066ea9cdc79031d39b02acfe493f547"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_ELECTRONICS_PLATE.step",
+      "size_bytes": 854517,
+      "sha256": "8a2ff466123282b8a0eeecd46d8b4d85b434fd0ab396604ff29d46d1b87b83ca"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_PAN_ARM_LEFT.step",
+      "size_bytes": 30349,
+      "sha256": "0d87b67f7ebab88746ae7c5f0c351a149b7696b851103aa33bb5746c008a735f"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_PAN_ARM_RIGHT.step",
+      "size_bytes": 92260,
+      "sha256": "42611b9ce3684156b3a1f8b948d155673020b44d9697464c0f567b17860aa324"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_PAN_SERVO_MOUNT.step",
+      "size_bytes": 61411,
+      "sha256": "1d095a03ae9bfc4e8db5ab35a5af4f9d7bfbbd241d1321b8b2f7dbd3346964c9"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_PAN_YOKE.step",
+      "size_bytes": 254304,
+      "sha256": "788b91d9e8f53e2a5f6684f75f34a3f1b467dd7b3b0d8ea09c1480755b24d3f1"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_BUSH_LEFT.step",
+      "size_bytes": 9489,
+      "sha256": "576df01217fb409f23512eb6feafb99a02e47a1bbe6d968248a49c9aa3732d16"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CHEEK_LEFT.step",
+      "size_bytes": 30333,
+      "sha256": "6f0ecace20cfb555326a63685c528e6db7dc8da602dd5a17afb14096f5f308ed"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CHEEK_RIGHT.step",
+      "size_bytes": 39982,
+      "sha256": "49b79997cd96361a5bcfcd47cfbe285c44fb8bbe067d44b79450452046ba9732"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CORNER_LEFT0.step",
+      "size_bytes": 31153,
+      "sha256": "ed6ff0511d91272f9066b558ee9842acd1d5b53483ef6f0de4529de52e1aba74"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CORNER_LEFT1.step",
+      "size_bytes": 31151,
+      "sha256": "458ae692a837ba4915f0b032e7fb5744b13747026d02c44b87dcf49fe091908a"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CORNER_RIGHT0.step",
+      "size_bytes": 31167,
+      "sha256": "ef29b5bc0d4618617d43c23ec9f52812824237f5bd27b85b2d05fd73734ef19a"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_CORNER_RIGHT1.step",
+      "size_bytes": 31167,
+      "sha256": "4f53c7b6da5018e3ae884504bd70d9b93a4919cc93a631348ccfcd332901c64d"
+    },
+    {
+      "path": "cad/ser0063-review/part-step/CUSTOM_TILT_SERVO_MOUNT.step",
+      "size_bytes": 61639,
+      "sha256": "2e61ed21b6b2cb2bd9ea83d0fae576db8c0f35d3c4266c63fea066158d8cb741"
+    },
+    {
+      "path": "cad/ser0063-review/source/SER0063_USER_ORIGINAL.stp",
+      "size_bytes": 2715316,
+      "sha256": "8a5c2e4d926856d640ede908d6d22c4733fdb117f93dee373fe5cfb7cc02eca5"
+    },
+    {
+      "path": "cad/ser0063-review/source/make_review_guide.py",
+      "size_bytes": 20701,
+      "sha256": "5d0fd50e9f868ebd5ac4018007f9c18c6758acf2ef5d6ca928f77108067947d5"
+    },
+    {
+      "path": "cad/ser0063-review/source/package_review.py",
+      "size_bytes": 6034,
+      "sha256": "97585dd72f9f556cb5764cd8c1e7d0de0e4e2478e9148741818a14d8b4436ffa"
+    },
+    {
+      "path": "cad/ser0063-review/source/revise_servo.py",
+      "size_bytes": 13582,
+      "sha256": "2c214e886312fd27b9cc09b051f32a89a5215e061803a665b7e6975d660885e5"
+    },
+    {
+      "path": "cad/ser0063-review/source/validate_full_step.py",
+      "size_bytes": 2108,
+      "sha256": "af7e54ec0ab6ab3281ab9283684d5e9eb4eacc290be0b59b78f5987f4970690a"
+    },
+    {
+      "path": "cad/ser0063-review/source/validate_review.py",
+      "size_bytes": 8039,
+      "sha256": "fc8615425b3832af6f35f36a996093d456348e970fa5c3b4e6e47e126e9e057f"
+    },
+    {
+      "path": "cad/v13-baseline/README.md",
+      "size_bytes": 134,
+      "sha256": "f90a2e284ac4cd3eef72f9dddbbc4d478d9e3ce681ab57a8e705de9b12851e0d"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-101_CUSTOM_BOTTOM_PLATE.dxf",
+      "size_bytes": 80951,
+      "sha256": "4dcd90317784610d22115681e48a7205701243ede07b8e4691fdf83adbaf5f4d"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-102_CUSTOM_BATTERY_PLATE.dxf",
+      "size_bytes": 23803,
+      "sha256": "4852e4f730b57891b4836893b9bb687bba79da2ce25b1e091c13a19a8eb08959"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-104_CUSTOM_CHASSIS_PAD_0_1.dxf",
+      "size_bytes": 16112,
+      "sha256": "3c05bf8b865fa89be87c331520646475d752e85505decef680b33c76654cdeee"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-106_CUSTOM_CHASSIS_PAD_1_1.dxf",
+      "size_bytes": 16112,
+      "sha256": "5cc9d85b5656bb7bd6f50a2045ed754563f536b08818cd596a06a887240dd59a"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-108_CUSTOM_CHASSIS_PAD_2_1.dxf",
+      "size_bytes": 16112,
+      "sha256": "9d185ff9a462eb420d72189beaef32568e0549b2bdc0b00cd50ef9f80f81578d"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-110_CUSTOM_CHASSIS_PAD_3_1.dxf",
+      "size_bytes": 16112,
+      "sha256": "eba2145ed05af65c02d9ec8c874799fb4e9a37a59449fd935f9da45bc8e369ee"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-111_CUSTOM_ELECTRONICS_PLATE.dxf",
+      "size_bytes": 148565,
+      "sha256": "f5e6fc3ac247c7282df8a306699fb1a35333b1ab35ae4e4217b7349f531733fe"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-112_CUSTOM_LEFT_PANEL.dxf",
+      "size_bytes": 101146,
+      "sha256": "434b97e7bdca9ee958a54ecfd711774add9a4d3721e5b45d3d5c7e63d1a16546"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-113_CUSTOM_RIGHT_PANEL.dxf",
+      "size_bytes": 64833,
+      "sha256": "44702b02acb7d91338f2f0e0c33597032854a4c4e002ca4aeb2e42eb1121f1a2"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-115_CUSTOM_FRONT_PANEL.dxf",
+      "size_bytes": 35289,
+      "sha256": "b54ba1805b7302c03fca24e7f5ec83f8e649273c02621a5eb50c84e54679f031"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-116_CUSTOM_LIDAR_BRIDGE.dxf",
+      "size_bytes": 18306,
+      "sha256": "44fb843d6b3986fd97bb81669bf4fdd775102e15718b8d4213e0753d6210b0d1"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-117_CUSTOM_LIDAR_PLATE.dxf",
+      "size_bytes": 19361,
+      "sha256": "7f405d611ab80966a6c5719c1c6b2217858a38a1dbb3491fea7e134ea648d8a0"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-119_CUSTOM_BATTERY_STOP_FRONT.dxf",
+      "size_bytes": 16524,
+      "sha256": "37e5aa9ce6d33007f7ba4ff80252e5445d51ce4563c96a87f47a40659d304c63"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-120_CUSTOM_BATTERY_STOP_REAR.dxf",
+      "size_bytes": 16524,
+      "sha256": "55857d3d9e689d6741c4b42c7eb629937228e14d3c8a881c11cfea7bbe087719"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-121_CUSTOM_BATTERY_STOP_LEFT.dxf",
+      "size_bytes": 16500,
+      "sha256": "eab066527bc82618968edc76a65231bd78154757ad42c3f1bf9fd91b9fc652bf"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-122_CUSTOM_BATTERY_STOP_RIGHT.dxf",
+      "size_bytes": 16500,
+      "sha256": "43718cf765badafe4cd54d042418adac73bd0f6dee35ce562a0286e7e10eb5d3"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-131_CUSTOM_CAMERA_BASE.dxf",
+      "size_bytes": 22851,
+      "sha256": "331c4e64d2d3110b5781709e0bfbf66c618ef788d5d788f7e49d407448dd2742"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-132_CUSTOM_PAN_SERVO_MOUNT.dxf",
+      "size_bytes": 19510,
+      "sha256": "2a7833e2d90ce2e3294b98e6082891a2ccb17a8a1c77c45f54f77a0f07c3cb30"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-134_CUSTOM_PAN_ARM_LEFT.dxf",
+      "size_bytes": 16823,
+      "sha256": "350aef4ace7684f6503e134c5e48d072d10b78eedc69d74465375187c8bebf1a"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-136_CUSTOM_PAN_ARM_RIGHT.dxf",
+      "size_bytes": 19521,
+      "sha256": "1b3fad69c9d3c783e8cfd54ee523cbe9e13743cc79c1ec8e22cb693b5e528321"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-138_CUSTOM_TILT_SERVO_MOUNT.dxf",
+      "size_bytes": 18260,
+      "sha256": "2933d5ef07406579f196fc79902b6b7bbff47b17f886c9a88c131ee2f364942d"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-139_CUSTOM_TILT_CHEEK_LEFT.dxf",
+      "size_bytes": 16881,
+      "sha256": "f3280e356cfe062b6a346591b11ec22fd317d02d370fb2afb5f8ab3759ab6f54"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-140_CUSTOM_TILT_CHEEK_RIGHT.dxf",
+      "size_bytes": 17565,
+      "sha256": "0306c668878ee09c688f14eb67d4af46f81fa6a8fc4360d6931aeaa82cd53d50"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-141_CUSTOM_C920_SADDLE.dxf",
+      "size_bytes": 26882,
+      "sha256": "47aa7a0dba5822388b2ef65115a25492a7e6348e9e3dc973e43aa3d49d20fddc"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-150_CUSTOM_THERMAL_EDGE_0.dxf",
+      "size_bytes": 15795,
+      "sha256": "f2f4e00b1618a6bcdece96ba486624d49ab34ec69ca5cc2c3a4b977c314add78"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-151_CUSTOM_THERMAL_EDGE_1.dxf",
+      "size_bytes": 15795,
+      "sha256": "92caac47d99b82d2867a0c30f1b14d2df35a2629d05a10d72aecda1c75aac8b8"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-152_CUSTOM_FRONT_BUMPER.dxf",
+      "size_bytes": 17031,
+      "sha256": "e41c8c225a545bc99a0ccc34186e72953db12cafa0954f305511ed26466b0905"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-154_CUSTOM_FRONT_GUIDE_FOOT_0.dxf",
+      "size_bytes": 17739,
+      "sha256": "04218382a50c0568a844021ffcaf5f7f03665d8e5fc2d55354fc0388c8f300fe"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-155_CUSTOM_FRONT_GUIDE_HANGER_0.dxf",
+      "size_bytes": 17356,
+      "sha256": "723ead45d20712a49b5d28b9fd76628c0cd18f49bb4f2c1232891be34b02835f"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-159_CUSTOM_FRONT_GUIDE_FOOT_1.dxf",
+      "size_bytes": 17733,
+      "sha256": "a625306a8425551b1e10e0f95eb100c52847d1391437544abe2f8d1fa6185750"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-160_CUSTOM_FRONT_GUIDE_HANGER_1.dxf",
+      "size_bytes": 17390,
+      "sha256": "504788768571528194611952e02256bc1f4bb312e68c1782cd4e217d82ace4aa"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-169_CUSTOM_REAR_BUMPER.dxf",
+      "size_bytes": 17005,
+      "sha256": "ce3f54837a965188b2045fb39835614096f6e78726ef67934e27ca9affd9bf42"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-171_CUSTOM_REAR_GUIDE_FOOT_0.dxf",
+      "size_bytes": 17723,
+      "sha256": "1b3b932bdb3bb10255f31151ba2775fa5e1c521effd51aeeb936ac8a07405b2f"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-172_CUSTOM_REAR_GUIDE_HANGER_0.dxf",
+      "size_bytes": 17000,
+      "sha256": "9b85b54c3a7ed26d5c6a0a2be4e76f6c7c095c50a3d8a87ef8b90c92409c8282"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-177_CUSTOM_REAR_GUIDE_HANGER_1.dxf",
+      "size_bytes": 17379,
+      "sha256": "02eeb7fef36584f14d739d7ca0a811065cec0f217e597c8e143a7d15df26e946"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-186_CUSTOM_LEFT_BUMPER.dxf",
+      "size_bytes": 17027,
+      "sha256": "73c36c5fac94f6f542f78faade90a38a43249367fd9ab71c49bb7bdfec7f33e6"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-189_CUSTOM_LEFT_GUIDE_HANGER_0.dxf",
+      "size_bytes": 17394,
+      "sha256": "44fe20d9e92da9c73d08d223ab0967435996b94b7f88e1c4e40b322d5faa27d2"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-194_CUSTOM_LEFT_GUIDE_HANGER_1.dxf",
+      "size_bytes": 17384,
+      "sha256": "3e68e192630de17cff417f8478d60058219d139acfa1137a1343db5b4260e2a6"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-198_CUSTOM_LEFT_SWITCH_BRACKET.dxf",
+      "size_bytes": 17664,
+      "sha256": "99c3b813cb9be98677d5a779a904e9b0c0357a668384e50568bf64f6050519c8"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-199_CUSTOM_LEFT_SWITCH_FOOT.dxf",
+      "size_bytes": 17330,
+      "sha256": "04869db04271b590948e21f39c72ca804dfdce055a3dcaf1dee502e73bd44d9f"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-204_CUSTOM_RIGHT_GUIDE_HANGER_0.dxf",
+      "size_bytes": 16989,
+      "sha256": "5e9763a6969ce0e45ad7b7b02472b27046004a2041d2107d9075cf99b3a64044"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-209_CUSTOM_RIGHT_GUIDE_HANGER_1.dxf",
+      "size_bytes": 17403,
+      "sha256": "41250fdd0667c8efaadf78b71d0f75ee4f8c02e16f6e9b14c4cb2396a1f03f2c"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-213_CUSTOM_RIGHT_SWITCH_BRACKET.dxf",
+      "size_bytes": 17736,
+      "sha256": "a69d1b7ca1149017ddaba5dbf654c24327c9eb4b7fe3683ad65f775ed7b496e9"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-214_CUSTOM_RIGHT_SWITCH_FOOT.dxf",
+      "size_bytes": 17396,
+      "sha256": "a74b5c4c9a27d54e16ec792fccf2fd396a2300a9608a6039e0bf49cccfca7fdc"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-217_CUSTOM_ESTOP_ADAPTER_RING.dxf",
+      "size_bytes": 15987,
+      "sha256": "9fc9e6e0f4c0b6af0cf61bbcad96cfee0fa2d2f2bed887c5076400223fbe583b"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-218_CUSTOM_SPEAKER_MOUNT_0.dxf",
+      "size_bytes": 16597,
+      "sha256": "9a0648108c1d90bf05dc9b2c558ec845484b9760ab5519b50d2f214c4eb76fbf"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-220_CUSTOM_5V_DISTRIBUTOR.dxf",
+      "size_bytes": 17171,
+      "sha256": "23bd84bdc3d68516057a7d877d24925626efd58da51eb9fec6b394fd05875bda"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-221_CUSTOM_ADC_CARRIER.dxf",
+      "size_bytes": 18702,
+      "sha256": "d9d60c76cfbc1677f11dd2bfb5339d23e89ea9bfc9d502879583a6a42fa9322d"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-224_CUSTOM_HARNESS_CLAMP_2.dxf",
+      "size_bytes": 16701,
+      "sha256": "73e3292a6310aca0e44cc139f092e230557a2df2840fc721f306fa649af79384"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-225_CUSTOM_HARNESS_CLAMP_3.dxf",
+      "size_bytes": 16701,
+      "sha256": "9feb202ea5b016271a59b09cf04fa3b3ff4be6383f7d0c0664350a60a98d7d97"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-226_CUSTOM_HARNESS_CLAMP_4.dxf",
+      "size_bytes": 18430,
+      "sha256": "ff511cc4007b0efbe89d56c796611cb49e6234e1d723e66bdcf321405b21d0a2"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-228_CUSTOM_HARNESS_CLAMP_6.dxf",
+      "size_bytes": 16701,
+      "sha256": "e941b41dcb180e42221836bff8d704101c3949fc27d8703c92ff088fc16503ba"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-229_CUSTOM_HARNESS_CLAMP_7.dxf",
+      "size_bytes": 16701,
+      "sha256": "1155d020c1a589b92c8e71d75870354e298a904a11d70633a36e16be9870c4a2"
+    },
+    {
+      "path": "cad/v13-baseline/dxf/F-230_CUSTOM_TILT_HORN_COUPLER.dxf",
+      "size_bytes": 17044,
+      "sha256": "58345fb2383420903a68c3eebc4d0aa1f6f99d597a371ad628714306b808c468"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-101_CUSTOM_BOTTOM_PLATE.step",
+      "size_bytes": 1295276,
+      "sha256": "0da294aba71123da1906266b757c12353322d60c5ad2c9d87846f606bbd1f637"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-102_CUSTOM_BATTERY_PLATE.step",
+      "size_bytes": 131391,
+      "sha256": "b0b362e28b1a1b80f4335c5d429fa8de1c39e1e444b98bdd3dcb51417ffc826b"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-103_CUSTOM_CHASSIS_PAD_0_0.step",
+      "size_bytes": 23723,
+      "sha256": "0faa903c11bb705bba53fb4d297ae61b96c21be2212973e92b585a26f98f38e7"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-104_CUSTOM_CHASSIS_PAD_0_1.step",
+      "size_bytes": 19713,
+      "sha256": "83a5f884a85c91c805caba63e71c8f0b06c441685acf0dd8056facd9c9fad7c0"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-105_CUSTOM_CHASSIS_PAD_1_0.step",
+      "size_bytes": 23762,
+      "sha256": "1144831bfeac1ec726638cb7e5c5a184f2c4fc87b22239a12355b672cfd710a2"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-106_CUSTOM_CHASSIS_PAD_1_1.step",
+      "size_bytes": 19745,
+      "sha256": "b6e00139ca143c4b6ed46be8c1c32597f593ac6f9bd3d33211174dee1f33640b"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-107_CUSTOM_CHASSIS_PAD_2_0.step",
+      "size_bytes": 23723,
+      "sha256": "16408e1e9e78435ca94e31a314157ba59a393322784a6bad5b01d1e4dd4d32ec"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-108_CUSTOM_CHASSIS_PAD_2_1.step",
+      "size_bytes": 19713,
+      "sha256": "bdae8d85ea24535202569a3d1d8946e13f76541e2d27d413f856c394d3b0b325"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-109_CUSTOM_CHASSIS_PAD_3_0.step",
+      "size_bytes": 23800,
+      "sha256": "a4e950b8f352482b5b937fc3be663f4f024b26d53f386915d47f672324673fc3"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-110_CUSTOM_CHASSIS_PAD_3_1.step",
+      "size_bytes": 19779,
+      "sha256": "09dce500b78ed594abf3154ad049fb4adc2364c2fc1bca1c5a770240d31f7f32"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-111_CUSTOM_ELECTRONICS_PLATE.step",
+      "size_bytes": 833977,
+      "sha256": "3ed4baf7f332604b24c46e9369ef4c7e1a30b977058598b35f22e57ae6882e7f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-112_CUSTOM_LEFT_PANEL.step",
+      "size_bytes": 1279911,
+      "sha256": "df1917d6b2a2677fed64148e9059824cf93fa5cbb7cb22542291114ad3734fcd"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-113_CUSTOM_RIGHT_PANEL.step",
+      "size_bytes": 547678,
+      "sha256": "c17698281a8f9a296e679fc12951d67714a9384d32af8b85bdd92a195611b1e5"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-114_CUSTOM_REAR_PANEL.step",
+      "size_bytes": 127412,
+      "sha256": "70f3f2ac9ada359d8b1607e0c7d419368042292199a3e22c119015f4dfb5db32"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-115_CUSTOM_FRONT_PANEL.step",
+      "size_bytes": 319094,
+      "sha256": "becfa6e3d5d7897218d18037365ba48f6b21ac44cc67b4920b16f3f2b5f6ed68"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-116_CUSTOM_LIDAR_BRIDGE.step",
+      "size_bytes": 53330,
+      "sha256": "337d70d12090f5864594aa3aba321e1b0f181d884c5ddad3330bef9f879f350f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-117_CUSTOM_LIDAR_PLATE.step",
+      "size_bytes": 61096,
+      "sha256": "f67424f0a74c37a652ea51c2c7adff31d22b5380420c166c9557fb51e59ffad1"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-118_CUSTOM_JETSON_CRADLE.step",
+      "size_bytes": 243222,
+      "sha256": "bb04ecaaa338177578fc9d6a2e82d78e34dfd429c7e8b993dbce04297470e2e8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-119_CUSTOM_BATTERY_STOP_FRONT.step",
+      "size_bytes": 23206,
+      "sha256": "7cd5727c66aaf967f9f5c67f426b03c9e8780c474cd0cb6f6a540bfdbdf25d51"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-120_CUSTOM_BATTERY_STOP_REAR.step",
+      "size_bytes": 23168,
+      "sha256": "a1a2bf34b019cd975ea6cf4beedad53a8c7ec91304394ca3a7e91a3c937e2ef9"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-121_CUSTOM_BATTERY_STOP_LEFT.step",
+      "size_bytes": 23180,
+      "sha256": "678b8bbec498bae6fe1b60cf09de1c812c22734378041ded1d5a98eade2889a8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-122_CUSTOM_BATTERY_STOP_RIGHT.step",
+      "size_bytes": 23218,
+      "sha256": "b2efab6a7649548fe915d8af02924a257e78b3edf7834e29c2ec16eb025510c4"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-123_CUSTOM_HUB_TRAY.step",
+      "size_bytes": 258672,
+      "sha256": "f922db15fe72a43b91cb7695d04d53602218cbb310979c9e3d363f3bbe4f7675"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-124_CUSTOM_POWER_BACKPLANE.step",
+      "size_bytes": 255210,
+      "sha256": "491eab195468cb72bbc7db5df585e3838be352b22ef1fff6049969a17f82ea8a"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-125_CUSTOM_FUSE_SHELF.step",
+      "size_bytes": 331319,
+      "sha256": "fd230de0c0de0aad692382fefde649d005ba286f8fdff11d1c06821debe99142"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-126_CUSTOM_BOOST_BASE.step",
+      "size_bytes": 303002,
+      "sha256": "2f8ed80c0e5e3939ae42be86d67f06006778db0045e3e31b8ec27ac341c2f713"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-127_CUSTOM_FUSEBLOCK_TRAY.step",
+      "size_bytes": 213789,
+      "sha256": "e201f4a3612a7a1baa14ba3bb8315aba9d619830063cb5bdf9430a5d0fb48689"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-128_CUSTOM_JETSON_BASE_RETAINER_LEFT.step",
+      "size_bytes": 69036,
+      "sha256": "b78ea9870d3982db90c197f6afa428543b7aa9f320201bfbe10cf0207a2c6bd6"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-129_CUSTOM_JETSON_BASE_RETAINER_RIGHT.step",
+      "size_bytes": 206438,
+      "sha256": "c235b6f9e24de91f26e7c8e4d8351302139508fbee051ab29e94ae189babd8f7"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-130_CUSTOM_RELAY_TRAY.step",
+      "size_bytes": 362354,
+      "sha256": "1bccd43f7190d64933629951e1fcdc887d186889fdb49dddf8e1f8df4161dc30"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-131_CUSTOM_CAMERA_BASE.step",
+      "size_bytes": 107973,
+      "sha256": "a30d10c2fe985e0bb884390661f6a743727646ab3e0f0eade796553302cb4bfa"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-132_CUSTOM_PAN_SERVO_MOUNT.step",
+      "size_bytes": 89901,
+      "sha256": "6d8c0f93e6fc140fcab3de8e39fe01de9b1867e1265594a2183c0b4a4675d956"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-133_CUSTOM_PAN_YOKE.step",
+      "size_bytes": 256430,
+      "sha256": "28fcddfa270aa0d776da7a93efc383ab18852e9945aea5651193f2657e22b3ca"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-134_CUSTOM_PAN_ARM_LEFT.step",
+      "size_bytes": 30278,
+      "sha256": "d3c463201e183ab8aa3f1e47a61fa82151b8f9ae8e8d03887436124ecb2f0d46"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-135_APPROX_CAM_L_LEFT.step",
+      "size_bytes": 78241,
+      "sha256": "820894d18c8a6bf9c24cb6087bf872d2151aa5808b5dc952a3610fcdf69d0912"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-136_CUSTOM_PAN_ARM_RIGHT.step",
+      "size_bytes": 76847,
+      "sha256": "545f62307bb538f56d9dd8b243ea4f3526c927d44e2febde8f472f7d43239dd8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-137_APPROX_CAM_L_RIGHT.step",
+      "size_bytes": 73713,
+      "sha256": "31ce24e8a9ae63cd596e128165b6e3f93bf252291ef09b19f8b63abf6a0f3a77"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-138_CUSTOM_TILT_SERVO_MOUNT.step",
+      "size_bytes": 53540,
+      "sha256": "858125871832a941488225dfefa316f66ebf8e5cd21721fdf8ce46f72857f1d5"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-139_CUSTOM_TILT_CHEEK_LEFT.step",
+      "size_bytes": 30254,
+      "sha256": "216b42e23d12ed9a054ad3a61dd54e7117aa327ee54f23fc3422c22f83dea8ed"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-140_CUSTOM_TILT_CHEEK_RIGHT.step",
+      "size_bytes": 39885,
+      "sha256": "9e2447d5856cc93bc38fcc56a378500caef92ae46b54ec5477bc04f28eb37f6b"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-141_CUSTOM_C920_SADDLE.step",
+      "size_bytes": 244704,
+      "sha256": "34898c870ccfc0844a7db28029021c7b5210e3cceb7ab1bd8024ff9a8c71eba1"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-142_CUSTOM_TILT_CORNER_LEFT0.step",
+      "size_bytes": 31067,
+      "sha256": "a3b3e8da601cad77408833455e848cd748a175835d2cb52b0f3976b589945631"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-143_CUSTOM_TILT_CORNER_LEFT1.step",
+      "size_bytes": 31065,
+      "sha256": "05d7f0de0668fe80d6f668211e27705fceaa1eadffb3397744c78608aa96310f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-144_CUSTOM_TILT_CORNER_RIGHT0.step",
+      "size_bytes": 31081,
+      "sha256": "cb8c7198d79380b9924eda3a24f8651c2d8a830c59a0d3404c38eaa360f5b8df"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-145_CUSTOM_TILT_CORNER_RIGHT1.step",
+      "size_bytes": 31081,
+      "sha256": "2768d588443f317e34387acbf6eff7e8586b78b794c97d610607e1c85bacb1ab"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-146_CUSTOM_TILT_BUSH_LEFT.step",
+      "size_bytes": 9467,
+      "sha256": "794d3542220aecc522d63e20c38938fa21fe0e0ba17af7b7cc8e6a272df2d324"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-147_CUSTOM_THERMAL_MOUNT.step",
+      "size_bytes": 62760,
+      "sha256": "bf72e6901af1021d71ffbafd186f138fd8bf47ac0d59e3eb64a5cb4e9d76a4b0"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-148_CUSTOM_THERMAL_ANGLE_0.step",
+      "size_bytes": 49773,
+      "sha256": "3ca07b4f064c0b49231b81677e5214a0caa7f2c9debe971f97713933256452a2"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-149_CUSTOM_THERMAL_ANGLE_1.step",
+      "size_bytes": 49773,
+      "sha256": "bd2b5606fc6dfdd1200601ca2ecdb3060c730c5e4ed34c5d061a9b8936ea3a5c"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-150_CUSTOM_THERMAL_EDGE_0.step",
+      "size_bytes": 15825,
+      "sha256": "541e1d4ce9992747ecbcd0b5b0d02338371d08d8e7d3f37c0140e781aef59760"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-151_CUSTOM_THERMAL_EDGE_1.step",
+      "size_bytes": 15825,
+      "sha256": "6be9bcb32cf6e0b312bdd5a7ef92b8ffb64a1f39d87b6d1c73b9251be2375dc8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-152_CUSTOM_FRONT_BUMPER.step",
+      "size_bytes": 37418,
+      "sha256": "82c6f0db322a893440f43b594f8c15c60676d0c4feadf4c9703b047cf103b210"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-153_CUSTOM_FRONT_STRIKER.step",
+      "size_bytes": 20857,
+      "sha256": "1143c501b9224c40651b22ddc1633041a547ee844d004eb34c351d4161b2d157"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-154_CUSTOM_FRONT_GUIDE_FOOT_0.step",
+      "size_bytes": 115379,
+      "sha256": "5845fcc79a62ab367de8ccc620cb9c853b80d6f1f438fafcb97b656d856ea825"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-155_CUSTOM_FRONT_GUIDE_HANGER_0.step",
+      "size_bytes": 100531,
+      "sha256": "462e1c5ad13705a0be7c3141a95dac3b017eec9d94b9097dd52f15571acbe85e"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-156_CUSTOM_FRONT_GUIDE_ANGLE_0.step",
+      "size_bytes": 204897,
+      "sha256": "219f33e92638e66667d32e588efca90d8b39b8af5d5d7a6b6d40fcc25700f7e6"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-157_CUSTOM_FRONT_GUIDE_BUSH_0.step",
+      "size_bytes": 19598,
+      "sha256": "7ed89a9065a9ba0772849fc60d21c1417f069da113642df8dffba0178beea2af"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-158_CUSTOM_FRONT_STOPPER_0.step",
+      "size_bytes": 19484,
+      "sha256": "82d0153d19f10ab8df79b34a3a0aeb3c3df58fe58d1353a6d046fe08fcaf7d59"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-159_CUSTOM_FRONT_GUIDE_FOOT_1.step",
+      "size_bytes": 115344,
+      "sha256": "45030ee23e2365e02a331662ec9b7e60da1c9491c5753e758423580e182305f7"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-160_CUSTOM_FRONT_GUIDE_HANGER_1.step",
+      "size_bytes": 100504,
+      "sha256": "46e259074884383a4b32ae54a772d009df7e33f0b2e9cf42d8452b33105a9486"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-161_CUSTOM_FRONT_GUIDE_ANGLE_1.step",
+      "size_bytes": 211192,
+      "sha256": "bee6af3fcc6f39b4ffdf64849fdfcfc827f19caad8dfb45cefc78d7d9c254bb6"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-162_CUSTOM_FRONT_GUIDE_BUSH_1.step",
+      "size_bytes": 19649,
+      "sha256": "beeceaf4f87497e5a4d969bad775c75e969ebc1b60c53d17b23375c8e6869d7a"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-163_CUSTOM_FRONT_STOPPER_1.step",
+      "size_bytes": 19509,
+      "sha256": "40ff4ebe9c3d693f4039cbc369eb397d2afc90ea35c75a32ef9a9691ff602a71"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-164_CUSTOM_FRONT_SWITCH_BRACKET.step",
+      "size_bytes": 195695,
+      "sha256": "4ca2237406fdb258065604cfdf78b70b0b22db15d3a3ce7a3988fa6c58234b3a"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-165_CUSTOM_FRONT_SWITCH_FOOT.step",
+      "size_bytes": 121737,
+      "sha256": "7128a58a75bbcfa58d9f67817239a1117942582daa22e6161a9aeaab5e738384"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-166_CUSTOM_FRONT_SWITCH_ANGLE.step",
+      "size_bytes": 138023,
+      "sha256": "b67a1606673965eb41e76302e870c3708e78709aab9c3195e544bfdd594b1125"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-167_CUSTOM_FRONT_CORNER_NOSE_-1.step",
+      "size_bytes": 24283,
+      "sha256": "bc2956e5540b5f37814d296635c6fa647fb736171c03212692b240d642cae43b"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-168_CUSTOM_FRONT_CORNER_NOSE_1.step",
+      "size_bytes": 24999,
+      "sha256": "fa1b0073b508a1507a990e9aacf9e82735a581df18ebb37d4fb123b7d870f1e0"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-169_CUSTOM_REAR_BUMPER.step",
+      "size_bytes": 36218,
+      "sha256": "34801e33016711e612c42d71313cad3c6ebe4d381fca7087e8dfdfbcfddb1ed4"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-170_CUSTOM_REAR_STRIKER.step",
+      "size_bytes": 20297,
+      "sha256": "bb7f764eb28ee9b8ef3c06fa708b7cd59e7964ab79cf3e9d4b4322ae76137271"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-171_CUSTOM_REAR_GUIDE_FOOT_0.step",
+      "size_bytes": 132415,
+      "sha256": "b96803d796f81c226420790f5acff2b60f9115298d654751c5b9160411551fba"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-172_CUSTOM_REAR_GUIDE_HANGER_0.step",
+      "size_bytes": 62187,
+      "sha256": "c46f53968540bf0c8af83c27b4e589ec66329881633e920bcb75de8bbe49d203"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-173_CUSTOM_REAR_GUIDE_ANGLE_0.step",
+      "size_bytes": 418918,
+      "sha256": "4a1c3d43554ca13d412e6d73d406906f5af1e6561c59f13befb8f62bbf6599c2"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-174_CUSTOM_REAR_GUIDE_BUSH_0.step",
+      "size_bytes": 18886,
+      "sha256": "023a7b280fdff410d4fe5992a9f888e6f8a92363b415f49500738483f2f968b4"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-175_CUSTOM_REAR_STOPPER_0.step",
+      "size_bytes": 18772,
+      "sha256": "868e9086d916774294e3fc4fa62f8af0cbb7c0f77ba3719096fc18ef393ef829"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-176_CUSTOM_REAR_GUIDE_FOOT_1.step",
+      "size_bytes": 168019,
+      "sha256": "251a7f7c740ee842f9ff06904038803d8232577b7765e3e6c1b3c7d53564b355"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-177_CUSTOM_REAR_GUIDE_HANGER_1.step",
+      "size_bytes": 93741,
+      "sha256": "c62160e740e55652c0109b350fea7979c944b04061a9aaecfe07fc0e4dc4c98b"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-178_CUSTOM_REAR_GUIDE_ANGLE_1.step",
+      "size_bytes": 396455,
+      "sha256": "64492602e40b57e6032d2d256443261f24a376fa9bd5b9e6728633a69cb0bc09"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-179_CUSTOM_REAR_GUIDE_BUSH_1.step",
+      "size_bytes": 18921,
+      "sha256": "ed950cde883fe432bed4c4171c01acf0dc4a960ca79bc82c74c3901b8de5df7c"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-180_CUSTOM_REAR_STOPPER_1.step",
+      "size_bytes": 18781,
+      "sha256": "4046bb988a821f56603e838c6a9d50d79fa9e7b2159eb1bc5c87f5d96672d5b8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-181_CUSTOM_REAR_SWITCH_BRACKET.step",
+      "size_bytes": 145716,
+      "sha256": "3643c42fc90559476d66031827e6d8e491c4cbad509442de15d896b4cdb9f479"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-182_CUSTOM_REAR_SWITCH_FOOT.step",
+      "size_bytes": 123395,
+      "sha256": "99b14c2c95f2ebc9abef855ca7300ee6b32323bbc73441097042ade6e4b69407"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-183_CUSTOM_REAR_SWITCH_ANGLE.step",
+      "size_bytes": 251510,
+      "sha256": "06af4cddf07fc464478e14498a79e7b0858bae376adf6601b9b9e04fa57f049e"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-184_CUSTOM_REAR_CORNER_NOSE_-1.step",
+      "size_bytes": 24307,
+      "sha256": "fd090d7e221019aa9ec2b7e0238489c882a94c4f22833c10e58ddb034ad9d7d0"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-185_CUSTOM_REAR_CORNER_NOSE_1.step",
+      "size_bytes": 23615,
+      "sha256": "c5840453735736a3937fc4266e1450ae0a72fdf17250183d97b7e0a0aa9a8415"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-186_CUSTOM_LEFT_BUMPER.step",
+      "size_bytes": 36195,
+      "sha256": "c9622073c852525a3b6031950d9e31189d258c19245ac570757508dac5f5b426"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-187_CUSTOM_LEFT_STRIKER.step",
+      "size_bytes": 20297,
+      "sha256": "231b5ebc1827c04d1d28bce6c7131000fb7f7d0cfbf4fc12f8465a67243b2459"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-188_CUSTOM_LEFT_GUIDE_FOOT_0.step",
+      "size_bytes": 163035,
+      "sha256": "00e3a50e4efbba0e9e58088c1c7fb47e2cb565b15072e83a52bb738cce858690"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-189_CUSTOM_LEFT_GUIDE_HANGER_0.step",
+      "size_bytes": 110153,
+      "sha256": "748018afb55c2dbc54c9ab25393f44bde49a6cefc2f2bdff5a9da33645c80d05"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-190_CUSTOM_LEFT_GUIDE_ANGLE_0.step",
+      "size_bytes": 175443,
+      "sha256": "cbb2b71c419d663b8f5a3632048a38df4f1f0b0a4b2a884cc08533c16008032e"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-191_CUSTOM_LEFT_GUIDE_BUSH_0.step",
+      "size_bytes": 18890,
+      "sha256": "e28026571f46ed17b29092152a5f9d046b3241f2897f8d0cf10ba1ab1b915653"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-192_CUSTOM_LEFT_STOPPER_0.step",
+      "size_bytes": 18781,
+      "sha256": "bb1385e791f760dafe18d7a778b10f4f3324fb7a1cdf367011e099000bbed4b4"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-193_CUSTOM_LEFT_GUIDE_FOOT_1.step",
+      "size_bytes": 233333,
+      "sha256": "d805716f7352ce0eff033cc301acb1b48cffb3c0b8b78fddb8fe97ca2fcfd427"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-194_CUSTOM_LEFT_GUIDE_HANGER_1.step",
+      "size_bytes": 93792,
+      "sha256": "98cc6040b197aa46c04f9fc01ba65bad4610522b7d90433531bd5e197c881cf3"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-195_CUSTOM_LEFT_GUIDE_ANGLE_1.step",
+      "size_bytes": 175399,
+      "sha256": "1fed5dd25a26aa49d0e56f85c46071207ebc4632f7944d94e6c1f815ba3db247"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-196_CUSTOM_LEFT_GUIDE_BUSH_1.step",
+      "size_bytes": 18944,
+      "sha256": "5001e2a03dbd597bfc5ba8efa61e271bb57fd0b6bda9da823b87b2a8b634cf76"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-197_CUSTOM_LEFT_STOPPER_1.step",
+      "size_bytes": 18827,
+      "sha256": "1f63a09dfe4a1755791fe93949912afe115019b124d140a735358427e0720a9c"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-198_CUSTOM_LEFT_SWITCH_BRACKET.step",
+      "size_bytes": 55288,
+      "sha256": "851632498dd660db67ba4e98c3edfc06c6e81f61f20fa202873518f14d854568"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-199_CUSTOM_LEFT_SWITCH_FOOT.step",
+      "size_bytes": 77441,
+      "sha256": "1649da079dad547238a5d83443916ad3cd9222426d22c8c6f37d9ecb03772ce8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-200_CUSTOM_LEFT_SWITCH_ANGLE.step",
+      "size_bytes": 110229,
+      "sha256": "65e1eda0c820b93c4611119b8c8c8ecf2e4ae24ee0687efd2d1361c07ad51f4f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-201_CUSTOM_RIGHT_BUMPER.step",
+      "size_bytes": 218366,
+      "sha256": "31ff2f46420373d386ca886c3fed4db6011402430de76d394ea6220292abfb11"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-202_CUSTOM_RIGHT_STRIKER.step",
+      "size_bytes": 20915,
+      "sha256": "f44bf525caebed3297983436e613969eeb80054aea496d9fb050c0a4dd5fc4cf"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-203_CUSTOM_RIGHT_GUIDE_FOOT_0.step",
+      "size_bytes": 208204,
+      "sha256": "1651bad405f849712195d3039519fd63cbb65686d7d855e7cc64e023fa35b0f8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-204_CUSTOM_RIGHT_GUIDE_HANGER_0.step",
+      "size_bytes": 64387,
+      "sha256": "39767962e3ac9e093d89a7602e254fbf9ed4827d1746ab9ef8af81d9a1878793"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-205_CUSTOM_RIGHT_GUIDE_ANGLE_0.step",
+      "size_bytes": 160233,
+      "sha256": "0d0273193a6adc74b130f53974262afb389e46bf0e5236f868bb6c8861c15ddd"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-206_CUSTOM_RIGHT_GUIDE_BUSH_0.step",
+      "size_bytes": 19692,
+      "sha256": "5e76600a153f4a4b6fc6de8e6ef11eb34bcee4b495cfd348dc6322876129ff47"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-207_CUSTOM_RIGHT_STOPPER_0.step",
+      "size_bytes": 19583,
+      "sha256": "c3adaadf3186f4167fb70e29f9b99cf07bbb87b561825d48acaab7cbc3671b58"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-208_CUSTOM_RIGHT_GUIDE_FOOT_1.step",
+      "size_bytes": 168079,
+      "sha256": "e6fc55b74c617d88181c1e8455921dae0b7336b45e9d37887826beabe0b2bc0d"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-209_CUSTOM_RIGHT_GUIDE_HANGER_1.step",
+      "size_bytes": 100960,
+      "sha256": "478bc8a0b6d561c6ce9de20615dae2eca8e07b67e3282bee3c359299928719d3"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-210_CUSTOM_RIGHT_GUIDE_ANGLE_1.step",
+      "size_bytes": 191016,
+      "sha256": "450e594d57f71fd7e905bf84b0f7730beb97a33364c9c7243de9c273dd0ed16f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-211_CUSTOM_RIGHT_GUIDE_BUSH_1.step",
+      "size_bytes": 19730,
+      "sha256": "4c697176163418903671e4e65658a438d0f0db86b2e83de27a46477ce9bfc88a"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-212_CUSTOM_RIGHT_STOPPER_1.step",
+      "size_bytes": 19613,
+      "sha256": "570b67d91b52c19660b58b31fa54e3816610a013cf9a9b83c2728ffdc8f8cdc6"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-213_CUSTOM_RIGHT_SWITCH_BRACKET.step",
+      "size_bytes": 57062,
+      "sha256": "3a0a5cc85f2ed182b47f0235034631092074515403d6435e0b5b39ae7611ad99"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-214_CUSTOM_RIGHT_SWITCH_FOOT.step",
+      "size_bytes": 73719,
+      "sha256": "8bd8644dee49f82fb43ed8a9a6cda7314fe272eebece57a3fa4f20d1586cfaa0"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-215_CUSTOM_RIGHT_SWITCH_ANGLE.step",
+      "size_bytes": 114745,
+      "sha256": "790bd81c81d985fc9bbb4e3024b25e93d90cdd00888ff133fc3bc5e92781dbeb"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-216_CUSTOM_ESP32_CARRIER.step",
+      "size_bytes": 1098596,
+      "sha256": "b862da0f730ae71eb18ea0ca74267ac4c322c1f6a99c5accad3f9cc54a4a4e09"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-217_CUSTOM_ESTOP_ADAPTER_RING.step",
+      "size_bytes": 9299,
+      "sha256": "0c0bbf0c8e8b72ad1b66fe2597411cf5acdca48ca0d8377022fdf95d4cfa0858"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-218_CUSTOM_SPEAKER_MOUNT_0.step",
+      "size_bytes": 22825,
+      "sha256": "d5348fd836d6b47f4c2fd19b56538a7b624c253be7d4a5f1ab1df29b81c4a244"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-219_CUSTOM_SPEAKER_MOUNT_1.step",
+      "size_bytes": 33275,
+      "sha256": "afc04160d8c024d82a97f03cc1c0b475a43618fee862d79a9d1201fa8ed89d72"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-220_CUSTOM_5V_DISTRIBUTOR.step",
+      "size_bytes": 30115,
+      "sha256": "e696468d01fda093a8d293965ccf36f2c8cc466b7443bae4dbd36f65b45fdd46"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-221_CUSTOM_ADC_CARRIER.step",
+      "size_bytes": 44902,
+      "sha256": "f405f6e06d17a0e8c94468b6acb7995ba0b340602e9f7dd16cfdf6c63077eb5a"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-222_CUSTOM_HARNESS_CLAMP_0.step",
+      "size_bytes": 430550,
+      "sha256": "5b9fac244d9c3f58d8a1402e975ef362b6ebeacb9f65ccf4b3ff4ad83e04139f"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-223_CUSTOM_HARNESS_CLAMP_1.step",
+      "size_bytes": 32220,
+      "sha256": "c95003219d73fec5d737b1f281030773a1fa5c92b6108d8df55ccf3240f4d8ed"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-224_CUSTOM_HARNESS_CLAMP_2.step",
+      "size_bytes": 26489,
+      "sha256": "89dbfe1091c8712be30507601e4b37e7cb1c2dc983c59d605cd856e050a69823"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-225_CUSTOM_HARNESS_CLAMP_3.step",
+      "size_bytes": 26489,
+      "sha256": "1a14f842390c59ca30aa94aa07a776adbb63087e097423dd2104eaa26cdd3dc8"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-226_CUSTOM_HARNESS_CLAMP_4.step",
+      "size_bytes": 43908,
+      "sha256": "86a262a3079306d7387a544d09f2201eb26fe0378ee0e49f25162fb2034c6489"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-227_CUSTOM_HARNESS_CLAMP_5.step",
+      "size_bytes": 121121,
+      "sha256": "4fa8ffc27ca865d1c5169588506003bf4bf783407081837c174d7217ba7da613"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-228_CUSTOM_HARNESS_CLAMP_6.step",
+      "size_bytes": 26474,
+      "sha256": "c0d87cdd38dfa117c7b440a8bcb35e7134a0fdfcde95063dbef4e82f11e3ef14"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-229_CUSTOM_HARNESS_CLAMP_7.step",
+      "size_bytes": 26474,
+      "sha256": "1493ce01f01dfce28490a4c7e51f4586498d97d95691216d8a354044f51923da"
+    },
+    {
+      "path": "cad/v13-baseline/part-step/F-230_CUSTOM_TILT_HORN_COUPLER.step",
+      "size_bytes": 30718,
+      "sha256": "c80960a2194c3bb90f95d0ee2a71b3af19083af837a07d6b65bf1a5e0c2d0460"
+    },
+    {
+      "path": "data/project-status.json",
+      "size_bytes": 952,
+      "sha256": "f035c8c09f01e4db7de29f82c22e7ba3e729ac1bb83f6343dbe0aa0e5f837e5a"
+    },
+    {
+      "path": "data/purchases/source-rows.json",
+      "size_bytes": 32097,
+      "sha256": "763a2bb6d3f3178c682399f10f3ffd9d3f023aebcaa73ac0d70b3098429dcc34"
+    },
+    {
+      "path": "data/ser0063-review/BASELINE_MANIFEST.json",
+      "size_bytes": 1883096,
+      "sha256": "4ae9df282ef1c7a1d012ab8eb7df054eda736aa65b1ae227b130a953f53d965d"
+    },
+    {
+      "path": "data/ser0063-review/CHANGED_PARTS.json",
+      "size_bytes": 81540,
+      "sha256": "4621e7d346b065074775fbfa510c07b83577144df35d46222d41f0084ac8cd97"
+    },
+    {
+      "path": "data/ser0063-review/EXTENDED_VALIDATION.json",
+      "size_bytes": 14963,
+      "sha256": "086c99afcfffc0a6b68b490baa007390a6858d8233f8c7880b17d0e1eebd39ee"
+    },
+    {
+      "path": "data/ser0063-review/FULL_STEP_READBACK.json",
+      "size_bytes": 1180,
+      "sha256": "088e1f5919b5a50b303130b221bb39383cbd18ee48b88b5ec60cf80774119e71"
+    },
+    {
+      "path": "data/ser0063-review/PREVIEW_PROVENANCE.json",
+      "size_bytes": 178,
+      "sha256": "0dc59a54cbf3b82f0ba265fc4876e33dc9fee01272b901ec17afa651a0ea43e6"
+    },
+    {
+      "path": "data/ser0063-review/PURCHASE_SOURCE_ROWS.json",
+      "size_bytes": 32097,
+      "sha256": "763a2bb6d3f3178c682399f10f3ffd9d3f023aebcaa73ac0d70b3098429dcc34"
+    },
+    {
+      "path": "data/ser0063-review/REMOVED_OLD_ROUTES.json",
+      "size_bytes": 3155,
+      "sha256": "be291d6cb1f1b6c2a3a483b3ae15bfb6b23d0c6a72804eab2a86a5b6971f91f0"
+    },
+    {
+      "path": "data/ser0063-review/REVISION_AND_VALIDATION.json",
+      "size_bytes": 13799,
+      "sha256": "1e04f62067f00bb6a072bbb12fda4733e0ee1be60431d7e3389a6d15566a4622"
+    },
+    {
+      "path": "data/ser0063-review/joints.json",
+      "size_bytes": 2876,
+      "sha256": "3b53c7a5dac8f703b4a33ea445d53df71182eee9847640a7c68d1a910e39eab8"
+    },
+    {
+      "path": "data/ser0063-review/manifest.json",
+      "size_bytes": 2422296,
+      "sha256": "0b7b8cb640d072559c6d5957bcc3574d5be0e502dfbf6f83cc1efa5b37bced69"
+    },
+    {
+      "path": "data/ser0063-review/plates.json",
+      "size_bytes": 84288,
+      "sha256": "968b9bb461ada2ab4a77573655608ba7bb6822b5ff5ca73347745c0b3b0b362d"
+    },
+    {
+      "path": "data/ser0063-review/ports.json",
+      "size_bytes": 51064,
+      "sha256": "d1303de01face6f37c38e410b902bffe70efe7dfe2d0ca7fcfcab82508f36634"
+    },
+    {
+      "path": "data/ser0063-review/wires.json",
+      "size_bytes": 40603,
+      "sha256": "97aa3dc47709b516e5aa6696f44b0d82f1d55c521ed7a98fa1dbc5edaff4c094"
+    },
+    {
+      "path": "data/v13-baseline/BOM_DRAWING.csv",
+      "size_bytes": 29882,
+      "sha256": "96c5f518875314ae296d1c3aa01109ad3eee1b21d63a2a0d3abaf559bed4bc1a"
+    },
+    {
+      "path": "data/v13-baseline/DRAWING_INDEX.csv",
+      "size_bytes": 23785,
+      "sha256": "0c3a281cff1f99616c83a38a0beec8fd31c0b0df4aa5b9fa7b0de2d35cdda177"
+    },
+    {
+      "path": "data/v13-baseline/FASTENER_LIST.csv",
+      "size_bytes": 4979,
+      "sha256": "12164ffb8cf2712908944dae90421a8de804d568721eaafb33f93b75733d1201"
+    },
+    {
+      "path": "data/v13-baseline/HOLE_COORDINATES.csv",
+      "size_bytes": 65387,
+      "sha256": "4ce395a76565740969cf1d8a8872281ad606cd9cb2d3ee8d116eda1b731d74e5"
+    },
+    {
+      "path": "data/v13-baseline/PART_NODE_MAPPING.csv",
+      "size_bytes": 247871,
+      "sha256": "32edd5087ed3c8029595fefa486b977237e4d2d6c02cc5f38a86421fe7e789ce"
+    },
+    {
+      "path": "data/v13-baseline/README.md",
+      "size_bytes": 132,
+      "sha256": "c1d940ffb7c0be1d3551b0113cef1ef9baa509b8b0674a61813dc7429cc1f52f"
+    },
+    {
+      "path": "data/v13-baseline/WIRING_TABLE.csv",
+      "size_bytes": 4851,
+      "sha256": "ad39afcddea4d01bee26da75dfdff0d9799f6a361a7982499bde8e145ad25437"
+    },
+    {
+      "path": "docs/00-status.md",
+      "size_bytes": 1787,
+      "sha256": "cf987c405a9723bca6fd6b71f3d811c04cf338b0fe56a1f98ded405ef8b464c5"
+    },
+    {
+      "path": "docs/01-overview.md",
+      "size_bytes": 1356,
+      "sha256": "3f6af3cc596ab25e4ddd635a335a83da26aba4ab66542455cecac7e86eaf1d77"
+    },
+    {
+      "path": "docs/02-parts.md",
+      "size_bytes": 2454,
+      "sha256": "45ef7d7edffa2bb81518312c9b5697d7ea94f94990f456c13e5755965341d1a3"
+    },
+    {
+      "path": "docs/03-cad.md",
+      "size_bytes": 2077,
+      "sha256": "0e6364b29fe1ec324bd9710a7e47bb143b898aaeecf5f3502f4718b20e4b8913"
+    },
+    {
+      "path": "docs/04-fabrication.md",
+      "size_bytes": 2048,
+      "sha256": "6bf7bfe4124144baaadd1f813f2f24a4449beb66a242052924d53294b7cb6465"
+    },
+    {
+      "path": "docs/05-assembly.md",
+      "size_bytes": 1651,
+      "sha256": "7428d470a061902ee755303021e721993e2a931c6c5d0e35e0e9bdae1c9fb168"
+    },
+    {
+      "path": "docs/06-electrical.md",
+      "size_bytes": 2239,
+      "sha256": "24e6f6bead0757fb34cc84da8cb811a34819a5d005fe46dbc89b7e7315aa250c"
+    },
+    {
+      "path": "docs/07-software.md",
+      "size_bytes": 1453,
+      "sha256": "9cfd49ceb0326baed4d4f91b145d43097b451dde30385bf423a5e4e63bafdc04"
+    },
+    {
+      "path": "docs/08-validation.md",
+      "size_bytes": 1646,
+      "sha256": "28c2b3999cb6447743a01c178cd90cc8e378711e07cfac9a087eb64793aa71cd"
+    },
+    {
+      "path": "docs/09-history.md",
+      "size_bytes": 1280,
+      "sha256": "699be72d80b1f27127da66eca58d06fa0277fa7a0bf1f8436609232f1fdb77a1"
+    },
+    {
+      "path": "docs/10-open-items.md",
+      "size_bytes": 5543,
+      "sha256": "c9d168edf6abb467738bf74ad30e70506bdbeb412d61718df456dcdba230ba1a"
+    },
+    {
+      "path": "docs/11-artifacts.md",
+      "size_bytes": 2052,
+      "sha256": "f3a0324fe2a3a1ed8516fba73fd7ce6d387d64654098b12ca9f4900046889ca4"
+    },
+    {
+      "path": "docs/12-reproduce.md",
+      "size_bytes": 2241,
+      "sha256": "32eca830e2b9cc58a0c5bfcee8dca22b06825c92f7e8b305417be17e2dce8082"
+    },
+    {
+      "path": "docs/13-flutterflow-ai.md",
+      "size_bytes": 3050,
+      "sha256": "1e00d9c50944bb8998fda4fda2cf1714900064b43e9ce0044610ea9fb23e66c6"
+    },
+    {
+      "path": "docs/parts/first-purchase.md",
+      "size_bytes": 2789,
+      "sha256": "f002f95817b22197a695fadfeb30992a3260e6ab424bea1a95d15ef7bad5efb6"
+    },
+    {
+      "path": "docs/parts/second-purchase.md",
+      "size_bytes": 8525,
+      "sha256": "61ece988bba8dd8e4cc1c90428eb2b5fb8949ef407f04d1ba76e0753a2ed5524"
+    },
+    {
+      "path": "drawings/README.md",
+      "size_bytes": 141,
+      "sha256": "3c19cbc53a90034fb4e9659befc0d0e65a1a7e02ab73e04d58c7524c7b2dfd35"
+    },
+    {
+      "path": "drawings/ser0063-review/HELM_SER0063_CHANGE_GUIDE_KO.pdf",
+      "size_bytes": 569937,
+      "sha256": "e12391c280d943787feb491e4d39de1179d3740802dab61b2be484b6429b3591"
+    },
+    {
+      "path": "drawings/v13-baseline/HELM_FULL_FABRICATION_AND_ASSEMBLY_DRAWING.pdf",
+      "size_bytes": 3585111,
+      "sha256": "fb1144bef82c466c8826ebd84203491135ca084694bc93670a23394a3aa206f6"
+    },
+    {
+      "path": "history/ser0063-review-20260930/DELIVERY_README_KO.md",
+      "size_bytes": 4888,
+      "sha256": "34d29c8636ba08b61b58a90f6b793ebf927d93a53bf5ffb4774364e243ed3ae1"
+    },
+    {
+      "path": "history/v13-reissue-20260929/BUILD_SEQUENCE_KO.md",
+      "size_bytes": 1664,
+      "sha256": "ed19cd3d46a80b0d522d26752a6a6709cd3ec4bce1ae8572b6ac4e274a57b1e9"
+    },
+    {
+      "path": "history/v13-reissue-20260929/GENERATION_RECORD.json",
+      "size_bytes": 8574,
+      "sha256": "c66c7b2e4b591152db66bfe5e8b82878c5a453efc1bbb9e5b2b97e98ff77e742"
+    },
+    {
+      "path": "history/v13-reissue-20260929/HELM_V13_DERIVATION_AND_VERIFICATION_KO.md",
+      "size_bytes": 5702,
+      "sha256": "34131837d28982e290191202901418e7d4468b181bf1c1bad49a6f7da8ca9ba2"
+    },
+    {
+      "path": "history/v13-reissue-20260929/METADATA_REFRESH.json",
+      "size_bytes": 1849,
+      "sha256": "08788f695621c05600c3248146baefd218c754a2b2fc44f7800c962aeb634af5"
+    },
+    {
+      "path": "records/build-and-commissioning-template.md",
+      "size_bytes": 779,
+      "sha256": "91de34fbef1adb6b86b73822242d9e8c63dd03d3f707025b610c961b659bf25f"
+    },
+    {
+      "path": "records/hardware-measurements-template.md",
+      "size_bytes": 640,
+      "sha256": "b76be6ccebf9346e4088fc5e51cf2625c7ab204d0cfea8a6f78be1faecdd1b81"
+    },
+    {
+      "path": "tools/README.md",
+      "size_bytes": 934,
+      "sha256": "e21c85594551a07bd7be4d11c0fe699b01d1dfd2574c1982526e524fed55599c"
+    },
+    {
+      "path": "tools/check_repository.py",
+      "size_bytes": 3823,
+      "sha256": "72f3935d9bebd8b75cef5d28ade0f508c152d862101988634513e0f172542317"
+    },
+    {
+      "path": "tools/restore_archives.py",
+      "size_bytes": 5318,
+      "sha256": "c704dada27c55afa44523c9802d164b6d68b96cd497b0e3d365ba6f31ec84d88"
+    },
+    {
+      "path": "validation/v13-baseline/FINAL_MOTION_BASELINE.json",
+      "size_bytes": 16580,
+      "sha256": "7e8c6a4b29368a99c1ffca212f14369bf8576298e6cd77773cf4134d748c8bba"
+    },
+    {
+      "path": "validation/v13-baseline/PREVIOUS_FINAL_STEP_VALIDATION.json",
+      "size_bytes": 3995,
+      "sha256": "872d4b0eb0a49d2a73a6e9dfa07c6ea9c8c50b8095cd17652e2f5dd6599d044f"
+    },
+    {
+      "path": "validation/v13-baseline/STEP_VALIDATION.json",
+      "size_bytes": 3996,
+      "sha256": "c6294e28912211f7810d77930cdd29f2fc00ca4caa7fb6f78da3d735783591ee"
+    }
+  ]
+}

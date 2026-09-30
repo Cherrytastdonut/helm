@@ -1,0 +1,167 @@
+[
+  {
+    "name": "C920_USB",
+    "from_port": "C920_USB",
+    "to_port": "HUB_USB0",
+    "signal": "USB2 captive1500mm; residual service loop requires routing release",
+    "od_mm": 4.5,
+    "points": [
+      [
+        263,
+        132,
+        333.5
+      ],
+      [
+        193,
+        132,
+        333.5
+      ],
+      [
+        170,
+        96.7150566272343,
+        290
+      ],
+      [
+        160,
+        215,
+        290
+      ],
+      [
+        43.25,
+        215,
+        320
+      ],
+      [
+        43.25,
+        165.5,
+        315.0
+      ]
+    ],
+    "stock_length_mm": 1500,
+    "status": "CAD_SERVICE_LOOP; verify captive exit, physical flex and strain relief",
+    "from_status": "COMMUNITY_CAD_CABLE_EXIT_REVIEW",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 396.8573820204946,
+    "min_bend_radius_mm": 9.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": 1103.1426179795053,
+    "motion_point_groups": [
+      "TILT",
+      "TILT",
+      "PAN",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "PAN_PWM_POWER",
+    "from_port": "D5_PAN",
+    "to_port": "MG90S_PAN_CABLE",
+    "signal": "Servo JR:power4.8V conditioned,ground,GPIO32; signal joins atstar",
+    "od_mm": 3,
+    "points": [
+      [
+        246,
+        195,
+        283
+      ],
+      [
+        246,
+        214,
+        283
+      ],
+      [
+        215,
+        214,
+        283
+      ],
+      [
+        215,
+        214,
+        265
+      ],
+      [
+        215,
+        96.6150566272343,
+        265
+      ],
+      [
+        215,
+        96.6150566272343,
+        268.025
+      ],
+      [
+        225.625,
+        96.6150566272343,
+        268.025
+      ]
+    ],
+    "stock_length_mm": 250,
+    "status": "CAD_ROUTE; verify physical terminal cavities and pinout during wiring",
+    "from_status": "APPROX_POSITION",
+    "to_status": "COMMUNITY_CAD_LEAD_EXIT",
+    "length_mm": 190.19270389923074,
+    "min_bend_radius_mm": 1.3007499999999905,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": 59.807296100769264
+  },
+  {
+    "name": "TILT_PWM_POWER",
+    "from_port": "D5_TILT",
+    "to_port": "MG90S_TILT_CABLE",
+    "signal": "Servo JR:power4.8V conditioned,ground,GPIO33; flexible movement loop",
+    "od_mm": 3,
+    "points": [
+      [
+        253,
+        195,
+        283
+      ],
+      [
+        253,
+        216,
+        300
+      ],
+      [
+        218,
+        216,
+        320
+      ],
+      [
+        205,
+        188.6900566272343,
+        340
+      ],
+      [
+        205,
+        188.6900566272343,
+        349.9
+      ],
+      [
+        225.625,
+        188.6900566272343,
+        349.9
+      ]
+    ],
+    "stock_length_mm": 250,
+    "status": "CAD_SERVICE_LOOP; verify captive exit, physical flex and strain relief",
+    "from_status": "APPROX_POSITION",
+    "to_status": "COMMUNITY_CAD_LEAD_EXIT",
+    "length_mm": 130.12319008596654,
+    "min_bend_radius_mm": 4.256999999999991,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": 119.87680991403346,
+    "motion_point_groups": [
+      "",
+      "",
+      "",
+      "PAN",
+      "PAN",
+      "PAN"
+    ]
+  }
+]

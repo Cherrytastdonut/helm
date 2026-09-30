@@ -1,0 +1,191 @@
+{
+  "format_version": 1,
+  "hash_algorithm": "sha256",
+  "part_size_bytes": 16777216,
+  "archives": [
+    {
+      "id": "v13-reissue-20260929",
+      "filename": "HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip",
+      "size_bytes": 305948397,
+      "sha256": "45da7ab9ee8f9bfcd0c07e39f022130386c571c70f52bd2d50c9376c73ad57bd",
+      "parts": [
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-001",
+          "size_bytes": 16777216,
+          "sha256": "030ac72c7279ec09a3478a0638f6884695fc47c6d6952785fb3c0fa871551ba2"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-002",
+          "size_bytes": 16777216,
+          "sha256": "1c55012f9d39e37aea985f45840e03e8afd0841e4c05495ae15f47cbb735a5bc"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-003",
+          "size_bytes": 16777216,
+          "sha256": "ad071f99c7cb2681a663f1170047151906daedf0fcce44ef27744c07240ee7f3"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-004",
+          "size_bytes": 16777216,
+          "sha256": "417c6ebf9155cf2cebbb086e661edf8f38e3c033704c21b9a87ac2c49b6e4783"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-005",
+          "size_bytes": 16777216,
+          "sha256": "3a6ba6950be63def7d9749778fa560c7ca614c0b7279be677d71e2ae1508c0c9"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-006",
+          "size_bytes": 16777216,
+          "sha256": "ba5e5ee8c8629f8b72d7cc523f3b9bd6951766c1da782cb5f3c0b5d68f8a9b08"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-007",
+          "size_bytes": 16777216,
+          "sha256": "175b627ddbf89d44103c645bd1c8092299660f603e667848f068ab1447918d46"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-008",
+          "size_bytes": 16777216,
+          "sha256": "34924da175f83113124905a220d35ddf89679632318bc97c5331a56515901607"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-009",
+          "size_bytes": 16777216,
+          "sha256": "907df948d5b39cc0e8534ff921b9d158a478bc00b7c3efdf9b979c49f70fc47f"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-010",
+          "size_bytes": 16777216,
+          "sha256": "a73ed172a6c146ef6d49d4cddf51b6de3cf86f2f9671db05aa53d8b5505c9be9"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-011",
+          "size_bytes": 16777216,
+          "sha256": "2ecb8f9cbff2054de2b9b2c35472ebc9f28921479b0fdfd0f4b80af98bad321d"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-012",
+          "size_bytes": 16777216,
+          "sha256": "202b790620bcf11ded8b792b8ed3833aa578985388313147681f21043b680163"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-013",
+          "size_bytes": 16777216,
+          "sha256": "80f83c11217002eec77a7fa42bd495eb49e3d069113113cc165140240a016d27"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-014",
+          "size_bytes": 16777216,
+          "sha256": "fc074fdfab67b625145e0ef79a99e20c4cb93f3bbf50f0649a9827b94651e642"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-015",
+          "size_bytes": 16777216,
+          "sha256": "0aed172e385517b258ef6cf122e43a21e51ba8796e9e688a612ec495b3be2dc4"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-016",
+          "size_bytes": 16777216,
+          "sha256": "6c7a518c8795597a03b8a619b2a3c24ca8dc71f4191395b8a5f5306dec1bc156"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-017",
+          "size_bytes": 16777216,
+          "sha256": "31dbdff0c5a993aa94c03f7fab841ffb3b027a50fe697afa3a0e5d4d58a2ce66"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-018",
+          "size_bytes": 16777216,
+          "sha256": "be6c380a4cfd0794338af2aa0161814d2bc042c7bb08f2bec65d4f9b26e520f9"
+        },
+        {
+          "path": "archives/v13-reissue-20260929/HELM_V13_CAD_DRAWINGS_FINAL_20260928.zip.part-019",
+          "size_bytes": 3958509,
+          "sha256": "a6b5fc2d53076ab6bf71429c794fa68d135df5d1c906df31484002b93850ab78"
+        }
+      ]
+    },
+    {
+      "id": "ser0063-review-20260930",
+      "filename": "HELM_SER0063_CAD_REVIEW_20260930.zip",
+      "size_bytes": 151721937,
+      "sha256": "a51d47c2f159d4b2f9c46a0012ee79954463824e391c198d37cb8b8ac8ae1367",
+      "parts": [
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-001",
+          "size_bytes": 16777216,
+          "sha256": "0602fcb7fcff9ba490aa089da34a2af270e4d28abf1ea5d4cbebaa2fc43dd00a"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-002",
+          "size_bytes": 16777216,
+          "sha256": "32841d19eedb7adaad75dcbec21c88f4589e7999c922daf93fce82c220bedf3a"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-003",
+          "size_bytes": 16777216,
+          "sha256": "080d3bc62b7b8f6308e1844dd32d3c0aed5d8ee2736ec3cb49356c91f5c413e6"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-004",
+          "size_bytes": 16777216,
+          "sha256": "e4bef3cbaad03f220f80173641c3eafabed9bdae6a4c3570102ac4094289ee1e"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-005",
+          "size_bytes": 16777216,
+          "sha256": "5c6427a5fbbd0fe449ec98bc2b69e8057dcc662128f681bb0ed0063c8cc26fd4"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-006",
+          "size_bytes": 16777216,
+          "sha256": "07d3bbd246109deb3a3198b5abd113e6fa5b8110ce5ea4c820852c097420cee0"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-007",
+          "size_bytes": 16777216,
+          "sha256": "d8aa900ce2ccc6043659e28b96c527f498bc2c6ba09df57c504b1bf9744906e5"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-008",
+          "size_bytes": 16777216,
+          "sha256": "4bbf713ec0ccf35c2fc562c6a71eea99012f092f3518e43992737b0783f6ea73"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-009",
+          "size_bytes": 16777216,
+          "sha256": "9f894dc2d9501f96a6fa26e3f2cbca524d8b6b3c1efd8d7d7f56e9ed6d926b3c"
+        },
+        {
+          "path": "archives/ser0063-review-20260930/HELM_SER0063_CAD_REVIEW_20260930.zip.part-010",
+          "size_bytes": 726993,
+          "sha256": "fd93f7ed09ebd2ecd04198b87c830627ac794c1cdc640c1298e56183c701ae09"
+        }
+      ]
+    },
+    {
+      "id": "purchase-inputs-20260930",
+      "filename": "HELM_PURCHASE_INPUTS_20260930.zip",
+      "size_bytes": 40520937,
+      "sha256": "af49b9360dca691791d69505f065f6217ac415ad678a566b464bdb9b1030478e",
+      "parts": [
+        {
+          "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-001",
+          "size_bytes": 16777216,
+          "sha256": "1352b0f3a12da5d56f8f2435d561200aa672715b4f76d0669da4a641f4ecad17"
+        },
+        {
+          "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-002",
+          "size_bytes": 16777216,
+          "sha256": "e43c35e7b140adc9022ad82e8f6530c00a58c4d1bd6c0002993e640ef4604c3f"
+        },
+        {
+          "path": "archives/purchase-inputs-20260930/HELM_PURCHASE_INPUTS_20260930.zip.part-003",
+          "size_bytes": 6966505,
+          "sha256": "5ee8a8a1bc8aca176188032f3637b449b4905a24e718205531f9982c50752d34"
+        }
+      ]
+    }
+  ]
+}

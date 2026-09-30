@@ -1,0 +1,89 @@
+{
+  "correction_count": 3,
+  "corrections": [
+    {
+      "name": "CUSTOM_THERMAL_MOUNT",
+      "prior": {
+        "bbox": [
+          299.99999999999545,
+          80.7150566272343,
+          215.0,
+          305.0,
+          112.71505662723487,
+          266.0
+        ],
+        "solids": 1,
+        "faces": 20
+      },
+      "actual": {
+        "bbox": [
+          299.99999999999545,
+          80.7150566272343,
+          215.0,
+          305.0,
+          112.71505662723487,
+          266.0
+        ],
+        "solids": 1,
+        "faces": 17
+      }
+    },
+    {
+      "name": "CUSTOM_THERMAL_ANGLE_0",
+      "prior": {
+        "bbox": [
+          295.0,
+          81.7,
+          230.0,
+          300.0,
+          89.7,
+          248.0
+        ],
+        "solids": 1,
+        "faces": 8
+      },
+      "actual": {
+        "bbox": [
+          284.0,
+          81.7150566272343,
+          220.0,
+          300.0,
+          96.7150566272343,
+          245.0
+        ],
+        "solids": 1,
+        "faces": 18
+      }
+    },
+    {
+      "name": "CUSTOM_THERMAL_ANGLE_1",
+      "prior": {
+        "bbox": [
+          295.0,
+          101.7,
+          230.0,
+          300.0,
+          109.7,
+          248.0
+        ],
+        "solids": 1,
+        "faces": 8
+      },
+      "actual": {
+        "bbox": [
+          284.0,
+          97.7150566272343,
+          220.0,
+          300.0,
+          112.7150566272343,
+          245.0
+        ],
+        "solids": 1,
+        "faces": 18
+      }
+    }
+  ],
+  "geometry_changed": false,
+  "scope": "All 4102 BREP bounds/counts were checked in the previous run on this identical source ZIP. That scan found only these three stale entries; these three were recomputed and corrected after workspace recovery.",
+  "source_archive_sha256": "c6202395d2b4ee8a20a1ddaa2a8f011f7c34759a12899a0ce946a68d56464560"
+}

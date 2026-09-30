@@ -1,0 +1,203 @@
+﻿Sheet,Drawing No.,Drawing Name,Revision,Source Part,Status
+1,A-000,Cover / source / drawing index,V13-REISSUE-20260929,HELM_V13_LATEST.step,CAD geometry / hardware notes apply
+2,A-000-I1,Complete drawing index,V13-REISSUE-20260929,All sheets,Index
+3,A-000-I2,Complete drawing index,V13-REISSUE-20260929,All sheets,Index
+4,A-000-I3,Complete drawing index,V13-REISSUE-20260929,All sheets,Index
+5,A-000-I4,Complete drawing index,V13-REISSUE-20260929,All sheets,Index
+6,A-000-I5,Complete drawing index,V13-REISSUE-20260929,All sheets,Index
+7,A-001,General assembly - major item balloons,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+8,A-002,Orthographic - FRONT / REAR,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+9,A-003,Orthographic - LEFT / RIGHT,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+10,A-004,Orthographic - TOP / BOTTOM,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+11,A-005-1,Major component positions / global coordinates,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+12,A-005-2,Major component positions / global coordinates,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+13,A-005-3,Major component positions / global coordinates,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+14,A-006,Exploded assembly - nine groups,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+15,A-007-1,Assembly groups 1 to 3,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+16,A-007-2,Assembly groups 4 to 6,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+17,A-007-3,Assembly groups 7 to 9,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+18,A-008,Frame assembly / rods / brackets,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+19,F-101,Fabrication - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD NOMINAL; through profile
+20,F-101-H1,Coordinate schedule - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD geometry / hardware notes apply
+21,F-101-H2,Coordinate schedule - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD geometry / hardware notes apply
+22,F-101-H3,Coordinate schedule - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD geometry / hardware notes apply
+23,F-101-H4,Coordinate schedule - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD geometry / hardware notes apply
+24,F-101-H5,Coordinate schedule - BOTTOM_PLATE,V13-REISSUE-20260929,CUSTOM_BOTTOM_PLATE,CAD geometry / hardware notes apply
+25,F-102,Fabrication - BATTERY_PLATE,V13-REISSUE-20260929,CUSTOM_BATTERY_PLATE,CAD NOMINAL; through profile
+26,F-103,Fabrication - CHASSIS_PAD_0_0,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_0_0,CAD NOMINAL; 3D relief / hardware adjustment
+27,F-104,Fabrication - CHASSIS_PAD_0_1,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_0_1,CAD NOMINAL; through profile
+28,F-105,Fabrication - CHASSIS_PAD_1_0,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_1_0,CAD NOMINAL; 3D relief / hardware adjustment
+29,F-106,Fabrication - CHASSIS_PAD_1_1,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_1_1,CAD NOMINAL; through profile
+30,F-107,Fabrication - CHASSIS_PAD_2_0,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_2_0,CAD NOMINAL; 3D relief / hardware adjustment
+31,F-108,Fabrication - CHASSIS_PAD_2_1,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_2_1,CAD NOMINAL; through profile
+32,F-109,Fabrication - CHASSIS_PAD_3_0,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_3_0,CAD NOMINAL; 3D relief / hardware adjustment
+33,F-110,Fabrication - CHASSIS_PAD_3_1,V13-REISSUE-20260929,CUSTOM_CHASSIS_PAD_3_1,CAD NOMINAL; through profile
+34,F-111,Fabrication - ELECTRONICS_PLATE,V13-REISSUE-20260929,CUSTOM_ELECTRONICS_PLATE,CAD NOMINAL; through profile
+35,F-111-H1,Coordinate schedule - ELECTRONICS_PLATE,V13-REISSUE-20260929,CUSTOM_ELECTRONICS_PLATE,CAD geometry / hardware notes apply
+36,F-111-H2,Coordinate schedule - ELECTRONICS_PLATE,V13-REISSUE-20260929,CUSTOM_ELECTRONICS_PLATE,CAD geometry / hardware notes apply
+37,F-111-H3,Coordinate schedule - ELECTRONICS_PLATE,V13-REISSUE-20260929,CUSTOM_ELECTRONICS_PLATE,CAD geometry / hardware notes apply
+38,F-111-H4,Coordinate schedule - ELECTRONICS_PLATE,V13-REISSUE-20260929,CUSTOM_ELECTRONICS_PLATE,CAD geometry / hardware notes apply
+39,F-112,Fabrication - LEFT_PANEL,V13-REISSUE-20260929,CUSTOM_LEFT_PANEL,CAD NOMINAL; through profile
+40,F-112-H1,Coordinate schedule - LEFT_PANEL,V13-REISSUE-20260929,CUSTOM_LEFT_PANEL,CAD geometry / hardware notes apply
+41,F-112-H2,Coordinate schedule - LEFT_PANEL,V13-REISSUE-20260929,CUSTOM_LEFT_PANEL,CAD geometry / hardware notes apply
+42,F-113,Fabrication - RIGHT_PANEL,V13-REISSUE-20260929,CUSTOM_RIGHT_PANEL,CAD NOMINAL; through profile
+43,F-113-H1,Coordinate schedule - RIGHT_PANEL,V13-REISSUE-20260929,CUSTOM_RIGHT_PANEL,CAD geometry / hardware notes apply
+44,F-113-H2,Coordinate schedule - RIGHT_PANEL,V13-REISSUE-20260929,CUSTOM_RIGHT_PANEL,CAD geometry / hardware notes apply
+45,F-114,Fabrication - REAR_PANEL,V13-REISSUE-20260929,CUSTOM_REAR_PANEL,CAD NOMINAL; 3D relief / hardware adjustment
+46,F-115,Fabrication - FRONT_PANEL,V13-REISSUE-20260929,CUSTOM_FRONT_PANEL,CAD NOMINAL; through profile
+47,F-116,Fabrication - LIDAR_BRIDGE,V13-REISSUE-20260929,CUSTOM_LIDAR_BRIDGE,CAD NOMINAL; through profile
+48,F-117,Fabrication - LIDAR_PLATE,V13-REISSUE-20260929,CUSTOM_LIDAR_PLATE,CAD NOMINAL; through profile
+49,F-118,Fabrication - JETSON_CRADLE,V13-REISSUE-20260929,CUSTOM_JETSON_CRADLE,CAD NOMINAL; 3D relief / hardware adjustment
+50,F-119,Fabrication - BATTERY_STOP_FRONT,V13-REISSUE-20260929,CUSTOM_BATTERY_STOP_FRONT,CAD NOMINAL; through profile
+51,F-120,Fabrication - BATTERY_STOP_REAR,V13-REISSUE-20260929,CUSTOM_BATTERY_STOP_REAR,CAD NOMINAL; through profile
+52,F-121,Fabrication - BATTERY_STOP_LEFT,V13-REISSUE-20260929,CUSTOM_BATTERY_STOP_LEFT,CAD NOMINAL; through profile
+53,F-122,Fabrication - BATTERY_STOP_RIGHT,V13-REISSUE-20260929,CUSTOM_BATTERY_STOP_RIGHT,CAD NOMINAL; through profile
+54,F-123,Fabrication - HUB_TRAY,V13-REISSUE-20260929,CUSTOM_HUB_TRAY,CAD NOMINAL; 3D relief / hardware adjustment
+55,F-124,Fabrication - POWER_BACKPLANE,V13-REISSUE-20260929,CUSTOM_POWER_BACKPLANE,CAD NOMINAL; 3D relief / hardware adjustment
+56,F-125,Fabrication - FUSE_SHELF,V13-REISSUE-20260929,CUSTOM_FUSE_SHELF,CAD NOMINAL; 3D relief / hardware adjustment
+57,F-125-H1,Coordinate schedule - FUSE_SHELF,V13-REISSUE-20260929,CUSTOM_FUSE_SHELF,CAD geometry / hardware notes apply
+58,F-126,Fabrication - BOOST_BASE,V13-REISSUE-20260929,CUSTOM_BOOST_BASE,CAD NOMINAL; 3D relief / hardware adjustment
+59,F-127,Fabrication - FUSEBLOCK_TRAY,V13-REISSUE-20260929,CUSTOM_FUSEBLOCK_TRAY,CAD NOMINAL; 3D relief / hardware adjustment
+60,F-128,Fabrication - JETSON_BASE_RETAINER_LEFT,V13-REISSUE-20260929,CUSTOM_JETSON_BASE_RETAINER_LEFT,CAD NOMINAL; 3D relief / hardware adjustment
+61,F-129,Fabrication - JETSON_BASE_RETAINER_RIGHT,V13-REISSUE-20260929,CUSTOM_JETSON_BASE_RETAINER_RIGHT,CAD NOMINAL; 3D relief / hardware adjustment
+62,F-130,Fabrication - RELAY_TRAY,V13-REISSUE-20260929,CUSTOM_RELAY_TRAY,CAD NOMINAL; 3D relief / hardware adjustment
+63,F-131,Fabrication - CAMERA_BASE,V13-REISSUE-20260929,CUSTOM_CAMERA_BASE,CAD NOMINAL; through profile
+64,F-132,Fabrication - PAN_SERVO_MOUNT,V13-REISSUE-20260929,CUSTOM_PAN_SERVO_MOUNT,CAD NOMINAL; through profile
+65,F-133,Fabrication - PAN_YOKE,V13-REISSUE-20260929,CUSTOM_PAN_YOKE,CAD NOMINAL; 3D relief / hardware adjustment
+66,F-134,Fabrication - PAN_ARM_LEFT,V13-REISSUE-20260929,CUSTOM_PAN_ARM_LEFT,CAD NOMINAL; through profile
+67,F-135,Fabrication - CAM_L_LEFT,V13-REISSUE-20260929,APPROX_CAM_L_LEFT,CAD NOMINAL; 3D relief / hardware adjustment
+68,F-136,Fabrication - PAN_ARM_RIGHT,V13-REISSUE-20260929,CUSTOM_PAN_ARM_RIGHT,CAD NOMINAL; through profile
+69,F-137,Fabrication - CAM_L_RIGHT,V13-REISSUE-20260929,APPROX_CAM_L_RIGHT,CAD NOMINAL; 3D relief / hardware adjustment
+70,F-138,Fabrication - TILT_SERVO_MOUNT,V13-REISSUE-20260929,CUSTOM_TILT_SERVO_MOUNT,CAD NOMINAL; through profile
+71,F-139,Fabrication - TILT_CHEEK_LEFT,V13-REISSUE-20260929,CUSTOM_TILT_CHEEK_LEFT,CAD NOMINAL; through profile
+72,F-140,Fabrication - TILT_CHEEK_RIGHT,V13-REISSUE-20260929,CUSTOM_TILT_CHEEK_RIGHT,CAD NOMINAL; through profile
+73,F-141,Fabrication - C920_SADDLE,V13-REISSUE-20260929,CUSTOM_C920_SADDLE,CAD NOMINAL; through profile
+74,F-142,Fabrication - TILT_CORNER_LEFT0,V13-REISSUE-20260929,CUSTOM_TILT_CORNER_LEFT0,CAD NOMINAL; 3D relief / hardware adjustment
+75,F-143,Fabrication - TILT_CORNER_LEFT1,V13-REISSUE-20260929,CUSTOM_TILT_CORNER_LEFT1,CAD NOMINAL; 3D relief / hardware adjustment
+76,F-144,Fabrication - TILT_CORNER_RIGHT0,V13-REISSUE-20260929,CUSTOM_TILT_CORNER_RIGHT0,CAD NOMINAL; 3D relief / hardware adjustment
+77,F-145,Fabrication - TILT_CORNER_RIGHT1,V13-REISSUE-20260929,CUSTOM_TILT_CORNER_RIGHT1,CAD NOMINAL; 3D relief / hardware adjustment
+78,F-146,Fabrication - TILT_BUSH_LEFT,V13-REISSUE-20260929,CUSTOM_TILT_BUSH_LEFT,CAD NOMINAL; through profile
+79,F-147,Fabrication - THERMAL_MOUNT,V13-REISSUE-20260929,CUSTOM_THERMAL_MOUNT,CAD NOMINAL; 3D relief / hardware adjustment
+80,F-148,Fabrication - THERMAL_ANGLE_0,V13-REISSUE-20260929,CUSTOM_THERMAL_ANGLE_0,CAD NOMINAL; 3D relief / hardware adjustment
+81,F-149,Fabrication - THERMAL_ANGLE_1,V13-REISSUE-20260929,CUSTOM_THERMAL_ANGLE_1,CAD NOMINAL; 3D relief / hardware adjustment
+82,F-150,Fabrication - THERMAL_EDGE_0,V13-REISSUE-20260929,CUSTOM_THERMAL_EDGE_0,CAD NOMINAL; through profile
+83,F-151,Fabrication - THERMAL_EDGE_1,V13-REISSUE-20260929,CUSTOM_THERMAL_EDGE_1,CAD NOMINAL; through profile
+84,F-152,Fabrication - FRONT_BUMPER,V13-REISSUE-20260929,CUSTOM_FRONT_BUMPER,CAD NOMINAL; through profile
+85,F-153,Fabrication - FRONT_STRIKER,V13-REISSUE-20260929,CUSTOM_FRONT_STRIKER,CAD NOMINAL; 3D relief / hardware adjustment
+86,F-154,Fabrication - FRONT_GUIDE_FOOT_0,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_FOOT_0,CAD NOMINAL; through profile
+87,F-155,Fabrication - FRONT_GUIDE_HANGER_0,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_HANGER_0,CAD NOMINAL; through profile
+88,F-156,Fabrication - FRONT_GUIDE_ANGLE_0,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_ANGLE_0,CAD NOMINAL; 3D relief / hardware adjustment
+89,F-157,Fabrication - FRONT_GUIDE_BUSH_0,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_BUSH_0,CAD NOMINAL; 3D relief / hardware adjustment
+90,F-158,Fabrication - FRONT_STOPPER_0,V13-REISSUE-20260929,CUSTOM_FRONT_STOPPER_0,CAD NOMINAL; 3D relief / hardware adjustment
+91,F-159,Fabrication - FRONT_GUIDE_FOOT_1,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_FOOT_1,CAD NOMINAL; through profile
+92,F-160,Fabrication - FRONT_GUIDE_HANGER_1,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_HANGER_1,CAD NOMINAL; through profile
+93,F-161,Fabrication - FRONT_GUIDE_ANGLE_1,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_ANGLE_1,CAD NOMINAL; 3D relief / hardware adjustment
+94,F-162,Fabrication - FRONT_GUIDE_BUSH_1,V13-REISSUE-20260929,CUSTOM_FRONT_GUIDE_BUSH_1,CAD NOMINAL; 3D relief / hardware adjustment
+95,F-163,Fabrication - FRONT_STOPPER_1,V13-REISSUE-20260929,CUSTOM_FRONT_STOPPER_1,CAD NOMINAL; 3D relief / hardware adjustment
+96,F-164,Fabrication - FRONT_SWITCH_BRACKET,V13-REISSUE-20260929,CUSTOM_FRONT_SWITCH_BRACKET,CAD NOMINAL; 3D relief / hardware adjustment
+97,F-165,Fabrication - FRONT_SWITCH_FOOT,V13-REISSUE-20260929,CUSTOM_FRONT_SWITCH_FOOT,CAD NOMINAL; 3D relief / hardware adjustment
+98,F-166,Fabrication - FRONT_SWITCH_ANGLE,V13-REISSUE-20260929,CUSTOM_FRONT_SWITCH_ANGLE,CAD NOMINAL; 3D relief / hardware adjustment
+99,F-167,Fabrication - FRONT_CORNER_NOSE_-1,V13-REISSUE-20260929,CUSTOM_FRONT_CORNER_NOSE_-1,CAD NOMINAL; 3D relief / hardware adjustment
+100,F-168,Fabrication - FRONT_CORNER_NOSE_1,V13-REISSUE-20260929,CUSTOM_FRONT_CORNER_NOSE_1,CAD NOMINAL; 3D relief / hardware adjustment
+101,F-169,Fabrication - REAR_BUMPER,V13-REISSUE-20260929,CUSTOM_REAR_BUMPER,CAD NOMINAL; through profile
+102,F-170,Fabrication - REAR_STRIKER,V13-REISSUE-20260929,CUSTOM_REAR_STRIKER,CAD NOMINAL; 3D relief / hardware adjustment
+103,F-171,Fabrication - REAR_GUIDE_FOOT_0,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_FOOT_0,CAD NOMINAL; through profile
+104,F-172,Fabrication - REAR_GUIDE_HANGER_0,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_HANGER_0,CAD NOMINAL; through profile
+105,F-173,Fabrication - REAR_GUIDE_ANGLE_0,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_ANGLE_0,CAD NOMINAL; 3D relief / hardware adjustment
+106,F-174,Fabrication - REAR_GUIDE_BUSH_0,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_BUSH_0,CAD NOMINAL; 3D relief / hardware adjustment
+107,F-175,Fabrication - REAR_STOPPER_0,V13-REISSUE-20260929,CUSTOM_REAR_STOPPER_0,CAD NOMINAL; 3D relief / hardware adjustment
+108,F-176,Fabrication - REAR_GUIDE_FOOT_1,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_FOOT_1,CAD NOMINAL; 3D relief / hardware adjustment
+109,F-177,Fabrication - REAR_GUIDE_HANGER_1,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_HANGER_1,CAD NOMINAL; through profile
+110,F-178,Fabrication - REAR_GUIDE_ANGLE_1,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_ANGLE_1,CAD NOMINAL; 3D relief / hardware adjustment
+111,F-179,Fabrication - REAR_GUIDE_BUSH_1,V13-REISSUE-20260929,CUSTOM_REAR_GUIDE_BUSH_1,CAD NOMINAL; 3D relief / hardware adjustment
+112,F-180,Fabrication - REAR_STOPPER_1,V13-REISSUE-20260929,CUSTOM_REAR_STOPPER_1,CAD NOMINAL; 3D relief / hardware adjustment
+113,F-181,Fabrication - REAR_SWITCH_BRACKET,V13-REISSUE-20260929,CUSTOM_REAR_SWITCH_BRACKET,CAD NOMINAL; 3D relief / hardware adjustment
+114,F-182,Fabrication - REAR_SWITCH_FOOT,V13-REISSUE-20260929,CUSTOM_REAR_SWITCH_FOOT,CAD NOMINAL; 3D relief / hardware adjustment
+115,F-183,Fabrication - REAR_SWITCH_ANGLE,V13-REISSUE-20260929,CUSTOM_REAR_SWITCH_ANGLE,CAD NOMINAL; 3D relief / hardware adjustment
+116,F-184,Fabrication - REAR_CORNER_NOSE_-1,V13-REISSUE-20260929,CUSTOM_REAR_CORNER_NOSE_-1,CAD NOMINAL; 3D relief / hardware adjustment
+117,F-185,Fabrication - REAR_CORNER_NOSE_1,V13-REISSUE-20260929,CUSTOM_REAR_CORNER_NOSE_1,CAD NOMINAL; 3D relief / hardware adjustment
+118,F-186,Fabrication - LEFT_BUMPER,V13-REISSUE-20260929,CUSTOM_LEFT_BUMPER,CAD NOMINAL; through profile
+119,F-187,Fabrication - LEFT_STRIKER,V13-REISSUE-20260929,CUSTOM_LEFT_STRIKER,CAD NOMINAL; 3D relief / hardware adjustment
+120,F-188,Fabrication - LEFT_GUIDE_FOOT_0,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_FOOT_0,CAD NOMINAL; 3D relief / hardware adjustment
+121,F-189,Fabrication - LEFT_GUIDE_HANGER_0,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_HANGER_0,CAD NOMINAL; through profile
+122,F-190,Fabrication - LEFT_GUIDE_ANGLE_0,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_ANGLE_0,CAD NOMINAL; 3D relief / hardware adjustment
+123,F-191,Fabrication - LEFT_GUIDE_BUSH_0,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_BUSH_0,CAD NOMINAL; 3D relief / hardware adjustment
+124,F-192,Fabrication - LEFT_STOPPER_0,V13-REISSUE-20260929,CUSTOM_LEFT_STOPPER_0,CAD NOMINAL; 3D relief / hardware adjustment
+125,F-193,Fabrication - LEFT_GUIDE_FOOT_1,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_FOOT_1,CAD NOMINAL; 3D relief / hardware adjustment
+126,F-194,Fabrication - LEFT_GUIDE_HANGER_1,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_HANGER_1,CAD NOMINAL; through profile
+127,F-195,Fabrication - LEFT_GUIDE_ANGLE_1,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_ANGLE_1,CAD NOMINAL; 3D relief / hardware adjustment
+128,F-196,Fabrication - LEFT_GUIDE_BUSH_1,V13-REISSUE-20260929,CUSTOM_LEFT_GUIDE_BUSH_1,CAD NOMINAL; 3D relief / hardware adjustment
+129,F-197,Fabrication - LEFT_STOPPER_1,V13-REISSUE-20260929,CUSTOM_LEFT_STOPPER_1,CAD NOMINAL; 3D relief / hardware adjustment
+130,F-198,Fabrication - LEFT_SWITCH_BRACKET,V13-REISSUE-20260929,CUSTOM_LEFT_SWITCH_BRACKET,CAD NOMINAL; through profile
+131,F-199,Fabrication - LEFT_SWITCH_FOOT,V13-REISSUE-20260929,CUSTOM_LEFT_SWITCH_FOOT,CAD NOMINAL; through profile
+132,F-200,Fabrication - LEFT_SWITCH_ANGLE,V13-REISSUE-20260929,CUSTOM_LEFT_SWITCH_ANGLE,CAD NOMINAL; 3D relief / hardware adjustment
+133,F-201,Fabrication - RIGHT_BUMPER,V13-REISSUE-20260929,CUSTOM_RIGHT_BUMPER,CAD NOMINAL; 3D relief / hardware adjustment
+134,F-202,Fabrication - RIGHT_STRIKER,V13-REISSUE-20260929,CUSTOM_RIGHT_STRIKER,CAD NOMINAL; 3D relief / hardware adjustment
+135,F-203,Fabrication - RIGHT_GUIDE_FOOT_0,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_FOOT_0,CAD NOMINAL; 3D relief / hardware adjustment
+136,F-204,Fabrication - RIGHT_GUIDE_HANGER_0,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_HANGER_0,CAD NOMINAL; through profile
+137,F-205,Fabrication - RIGHT_GUIDE_ANGLE_0,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_ANGLE_0,CAD NOMINAL; 3D relief / hardware adjustment
+138,F-206,Fabrication - RIGHT_GUIDE_BUSH_0,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_BUSH_0,CAD NOMINAL; 3D relief / hardware adjustment
+139,F-207,Fabrication - RIGHT_STOPPER_0,V13-REISSUE-20260929,CUSTOM_RIGHT_STOPPER_0,CAD NOMINAL; 3D relief / hardware adjustment
+140,F-208,Fabrication - RIGHT_GUIDE_FOOT_1,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_FOOT_1,CAD NOMINAL; 3D relief / hardware adjustment
+141,F-209,Fabrication - RIGHT_GUIDE_HANGER_1,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_HANGER_1,CAD NOMINAL; through profile
+142,F-210,Fabrication - RIGHT_GUIDE_ANGLE_1,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_ANGLE_1,CAD NOMINAL; 3D relief / hardware adjustment
+143,F-211,Fabrication - RIGHT_GUIDE_BUSH_1,V13-REISSUE-20260929,CUSTOM_RIGHT_GUIDE_BUSH_1,CAD NOMINAL; 3D relief / hardware adjustment
+144,F-212,Fabrication - RIGHT_STOPPER_1,V13-REISSUE-20260929,CUSTOM_RIGHT_STOPPER_1,CAD NOMINAL; 3D relief / hardware adjustment
+145,F-213,Fabrication - RIGHT_SWITCH_BRACKET,V13-REISSUE-20260929,CUSTOM_RIGHT_SWITCH_BRACKET,CAD NOMINAL; through profile
+146,F-214,Fabrication - RIGHT_SWITCH_FOOT,V13-REISSUE-20260929,CUSTOM_RIGHT_SWITCH_FOOT,CAD NOMINAL; through profile
+147,F-215,Fabrication - RIGHT_SWITCH_ANGLE,V13-REISSUE-20260929,CUSTOM_RIGHT_SWITCH_ANGLE,CAD NOMINAL; 3D relief / hardware adjustment
+148,F-216,Fabrication - ESP32_CARRIER,V13-REISSUE-20260929,CUSTOM_ESP32_CARRIER,CAD NOMINAL; 3D relief / hardware adjustment
+149,F-217,Fabrication - ESTOP_ADAPTER_RING,V13-REISSUE-20260929,CUSTOM_ESTOP_ADAPTER_RING,CAD NOMINAL; through profile
+150,F-218,Fabrication - SPEAKER_MOUNT_0,V13-REISSUE-20260929,CUSTOM_SPEAKER_MOUNT_0,CAD NOMINAL; through profile
+151,F-219,Fabrication - SPEAKER_MOUNT_1,V13-REISSUE-20260929,CUSTOM_SPEAKER_MOUNT_1,CAD NOMINAL; 3D relief / hardware adjustment
+152,F-220,Fabrication - 5V_DISTRIBUTOR,V13-REISSUE-20260929,CUSTOM_5V_DISTRIBUTOR,CAD NOMINAL; through profile
+153,F-221,Fabrication - ADC_CARRIER,V13-REISSUE-20260929,CUSTOM_ADC_CARRIER,CAD NOMINAL; through profile
+154,F-222,Fabrication - HARNESS_CLAMP_0,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_0,CAD NOMINAL; 3D relief / hardware adjustment
+155,F-223,Fabrication - HARNESS_CLAMP_1,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_1,CAD NOMINAL; 3D relief / hardware adjustment
+156,F-224,Fabrication - HARNESS_CLAMP_2,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_2,CAD NOMINAL; through profile
+157,F-225,Fabrication - HARNESS_CLAMP_3,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_3,CAD NOMINAL; through profile
+158,F-226,Fabrication - HARNESS_CLAMP_4,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_4,CAD NOMINAL; through profile
+159,F-227,Fabrication - HARNESS_CLAMP_5,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_5,CAD NOMINAL; 3D relief / hardware adjustment
+160,F-228,Fabrication - HARNESS_CLAMP_6,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_6,CAD NOMINAL; through profile
+161,F-229,Fabrication - HARNESS_CLAMP_7,V13-REISSUE-20260929,CUSTOM_HARNESS_CLAMP_7,CAD NOMINAL; through profile
+162,F-230,Fabrication - TILT_HORN_COUPLER,V13-REISSUE-20260929,CUSTOM_TILT_HORN_COUPLER,CAD NOMINAL; through profile
+163,D-001,Detail A - upper deck / M4 posts,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+164,D-001-A,Detail A1 - deck clamp stack / rod cut lengths,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+165,D-002,Detail B - camera support fastening,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+166,D-003,Camera / thermal / Pan-Tilt - three views,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+167,D-004,Camera service loops / USB path,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+168,D-005,Detail C - LiDAR tower and scan reference,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+169,D-006,Detail D - FRONT limit switch / bumper,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+170,D-007,Detail D - REAR limit switch / bumper,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+171,D-008,Detail D - LEFT limit switch / bumper,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+172,D-009,Detail D - RIGHT limit switch / bumper,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+173,D-010,Detail E - battery mounting / removal,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+174,E-201,Power distribution component layout,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+175,E-202,Control / sensor component layout,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+176,E-203,Busbar / covered fuse box / rocker,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+177,E-204,Functional power diagram,V13-REISSUE-20260929,,Functional reference from current project net table
+178,E-205,Functional control / signal diagram,V13-REISSUE-20260929,,Functional reference; physical pin cavities VERIFY
+179,E-206,Physical cable routing - TOP,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+180,E-207,Physical cable routing - SIDE,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+181,E-208,Connector service access directions,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+182,E-209,Maintenance / service access,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+183,E-211,Electrical interface verification / open hardware items,V13-REISSUE-20260929,,VERIFY ON HARDWARE; known unmodeled interfaces
+184,E-210-1,Cable / connection schedule,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+185,E-210-2,Cable / connection schedule,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+186,E-210-3,Cable / connection schedule,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+187,B-001-1,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+188,B-001-2,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+189,B-001-3,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+190,B-001-4,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+191,B-001-5,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+192,B-001-6,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+193,B-001-7,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+194,B-001-8,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+195,B-001-9,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+196,B-001-10,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+197,B-001-11,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+198,B-001-12,BOM / drawing references,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+199,B-002-1,Fastener list / model counts,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+200,B-002-2,Fastener list / model counts,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+201,Q-001,Fabrication and assembly sequence,V13-REISSUE-20260929,,CAD geometry / hardware notes apply
+202,Q-002,Pre-fabrication / commissioning checklist,V13-REISSUE-20260929,,CAD geometry / hardware notes apply

@@ -1,0 +1,147 @@
+{
+  "passed": true,
+  "sha256": "6942914ab1ea14b2dece5bdde453c85a6a909255873ff5ab9afa32673fce11da",
+  "baseline_sha256": "432b9fac0e22cdb9e6e246553f5e163fc6b1d032034b17f2c5f79321086290c4",
+  "validation_mode": "Complete validated baseline + unchanged BREP hashes + local STEP reimport; no repeated whole-assembly analysis.",
+  "step_read_success": true,
+  "leaf_products": 4102,
+  "unchanged_products": 4090,
+  "changed_products": [
+    "APPROX_CAM_L_LEFT",
+    "APPROX_CAM_L_RIGHT",
+    "CUSTOM_BOTTOM_PLATE",
+    "CUSTOM_CABLE_C920_USB",
+    "CUSTOM_CABLE_ENCODER_L",
+    "CUSTOM_CABLE_HUB_UPSTREAM",
+    "CUSTOM_CABLE_MOTOR_L_M1",
+    "CUSTOM_CABLE_MOTOR_L_M2",
+    "CUSTOM_CABLE_PAN_PWM_POWER",
+    "CUSTOM_CABLE_TILT_PWM_POWER",
+    "CUSTOM_LEFT_PANEL",
+    "CUSTOM_PAN_YOKE"
+  ],
+  "named_product_checks": {
+    "APPROX_BACKPLANE_L_0": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 6.30961949354969e-12
+    },
+    "APPROX_BACKPLANE_L_1": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 6.30961949354969e-12
+    },
+    "APPROX_CAM_L_LEFT": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.9895196601282805e-12
+    },
+    "APPROX_CAM_L_RIGHT": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 4.291678123991005e-12
+    },
+    "CUSTOM_BOTTOM_PLATE": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 6.0254023992456496e-12
+    },
+    "CUSTOM_C920_STRAP_1": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 0.0
+    },
+    "CUSTOM_CABLE_C920_USB": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.0000002248489182e-07
+    },
+    "CUSTOM_CABLE_ENCODER_L": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 3.240074875066057e-12
+    },
+    "CUSTOM_CABLE_HUB_UPSTREAM": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.0000001537946446e-07
+    },
+    "CUSTOM_CABLE_MOTOR_L_M1": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.000000082740371e-07
+    },
+    "CUSTOM_CABLE_MOTOR_L_M2": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.0000001537946446e-07
+    },
+    "CUSTOM_CABLE_PAN_PWM_POWER": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.0000002248489182e-07
+    },
+    "CUSTOM_CABLE_TILT_PWM_POWER": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 9.999999406318238e-08
+    },
+    "CUSTOM_HARNESS_CLAMP_0": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 5.958553686014056e-07
+    },
+    "CUSTOM_HARNESS_CLAMP_4": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 3.552713678800501e-15
+    },
+    "CUSTOM_HARNESS_CLAMP_5": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 1.7479351299698465e-12
+    },
+    "CUSTOM_LEFT_PANEL": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 5.863928915772476e-07
+    },
+    "CUSTOM_PAN_YOKE": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 4.291678123991005e-12
+    },
+    "CUSTOM_RIGHT_PANEL": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 5.999995380534529e-07
+    },
+    "DRAWING_BASED_MOTOR_PH6_L": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 0.0
+    },
+    "OFFICIAL_CHASSIS_0000_Solid": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 2.0037305148434825e-12
+    },
+    "OFFICIAL_MDD10A_0163_Solid": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 5.9685589803848416e-12
+    },
+    "PHOTO_BASED_NEXT505UHP": {
+      "valid": true,
+      "solid_count": 1,
+      "bbox_error_mm": 0.0
+    }
+  },
+  "shape_solid_validity": "All imported changed and neighboring products pass; unchanged products retain fully validated baseline.",
+  "imported_local_contacts": {
+    "pairs": 27,
+    "threshold_mm3": 0.5,
+    "hits": []
+  },
+  "elapsed_seconds": 52.503088049999974
+}

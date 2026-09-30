@@ -1,0 +1,562 @@
+{
+  "scope": "New servo bodies and new hardware versus rigid model; nine discrete camera poses; 17 exported part roundtrips and camera STEP roundtrip. No continuous sweep, strength, horn fit or flexible routing validation.",
+  "intersection_threshold_mm3": 0.5,
+  "new_hardware_pairs": 136,
+  "new_hardware_hits": [],
+  "motion_samples": [
+    {
+      "pan_deg": -45,
+      "tilt_deg": -20,
+      "pairs": 117,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_FN0",
+          "volume_mm3": 2.4494637499362844
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 0.5482150216325549
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 12.242590566235922
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307794
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 41.43020452428064
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.99065189751223
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651897512475
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086435
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.704866970864266
+        }
+      ]
+    },
+    {
+      "pan_deg": -45,
+      "tilt_deg": 0,
+      "pairs": 83,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 30.32889365142658
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 27.92031701257078
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307778
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 40.50665203279013
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 3.0242143167307964
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 15.910660756671067
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_F1",
+          "volume_mm3": 15.705586470436687
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_FN1",
+          "volume_mm3": 5.3177163648244
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 53.17493501820991
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086432
+        }
+      ]
+    },
+    {
+      "pan_deg": -45,
+      "tilt_deg": 20,
+      "pairs": 124,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307796
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 44.80331125661661
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651896948805
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086421
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651896948624
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086418
+        }
+      ]
+    },
+    {
+      "pan_deg": 0,
+      "tilt_deg": -20,
+      "pairs": 26,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_FN0",
+          "volume_mm3": 2.4494637499362573
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 0.5482150216326206
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 12.242590566236181
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307771
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 41.430204524281606
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651897505565
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.99065189749566
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086424
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086419
+        }
+      ]
+    },
+    {
+      "pan_deg": 0,
+      "tilt_deg": 0,
+      "pairs": 24,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 30.328893651425076
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 27.920317012563416
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307771
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 40.50665203279112
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 3.024214316728296
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 15.910660756674172
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_F1",
+          "volume_mm3": 15.70558647043825
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_FN1",
+          "volume_mm3": 5.317716364822819
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 53.17493501819999
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086419
+        }
+      ]
+    },
+    {
+      "pan_deg": 0,
+      "tilt_deg": 20,
+      "pairs": 34,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307771
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 44.8033112566176
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.99065189694962
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086419
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651896949853
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.704866970864046
+        }
+      ]
+    },
+    {
+      "pan_deg": 45,
+      "tilt_deg": -20,
+      "pairs": 117,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_FN0",
+          "volume_mm3": 2.449463749936216
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 0.548215021632479
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 12.242590566235872
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307781
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 41.430204524281784
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651897512805
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.99065189750173
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086424
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086408
+        }
+      ]
+    },
+    {
+      "pan_deg": 45,
+      "tilt_deg": 0,
+      "pairs": 83,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V0",
+          "volume_mm3": 30.328893651426544
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN0",
+          "volume_mm3": 27.9203170125787
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.69911184307775
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 40.50665203279019
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 3.024214316728299
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT0_V",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 15.910660756671291
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_F1",
+          "volume_mm3": 15.705586470437892
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_F",
+          "b": "CAM_L_RIGHT_FN1",
+          "volume_mm3": 5.317716364822887
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 53.17493501820963
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086427
+        }
+      ]
+    },
+    {
+      "pan_deg": 45,
+      "tilt_deg": 20,
+      "pairs": 124,
+      "hits": [
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_V1",
+          "volume_mm3": 37.699111843077816
+        },
+        {
+          "a": "CUSTOM_TILT_CHEEK_LEFT",
+          "b": "CAM_L_LEFT_VN1",
+          "volume_mm3": 44.80331125661687
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_LEFT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651896949636
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT0_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.704866970864025
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_F",
+          "b": "CUSTOM_PAN_YOKE",
+          "volume_mm3": 16.990651896948783
+        },
+        {
+          "a": "CUSTOM_TILT_CORNER_RIGHT1_V",
+          "b": "CUSTOM_PAN_ARM_RIGHT",
+          "volume_mm3": 57.70486697086384
+        }
+      ]
+    }
+  ],
+  "part_step_roundtrips": [
+    {
+      "part": "APPROX_CAM_L_LEFT",
+      "valid": true,
+      "bbox_max_error_mm": 1.9895196601282805e-12,
+      "volume_error_mm3": 1.454054654459469e-10
+    },
+    {
+      "part": "APPROX_CAM_L_RIGHT",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 9.231371222995222e-11
+    },
+    {
+      "part": "CUSTOM_C920_SADDLE",
+      "valid": true,
+      "bbox_max_error_mm": 3.524291969370097e-12,
+      "volume_error_mm3": 1.0040821507573128e-09
+    },
+    {
+      "part": "CUSTOM_CAMERA_BASE",
+      "valid": true,
+      "bbox_max_error_mm": 0.0,
+      "volume_error_mm3": 6.912159733474255e-10
+    },
+    {
+      "part": "CUSTOM_ELECTRONICS_PLATE",
+      "valid": true,
+      "bbox_max_error_mm": 4.718003765447065e-12,
+      "volume_error_mm3": 0.006808292760979384
+    },
+    {
+      "part": "CUSTOM_PAN_ARM_LEFT",
+      "valid": true,
+      "bbox_max_error_mm": 2.984279490192421e-13,
+      "volume_error_mm3": 1.0186340659856796e-10
+    },
+    {
+      "part": "CUSTOM_PAN_ARM_RIGHT",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 9.022187441587448e-10
+    },
+    {
+      "part": "CUSTOM_PAN_SERVO_MOUNT",
+      "valid": true,
+      "bbox_max_error_mm": 4.305888978706207e-12,
+      "volume_error_mm3": 6.257323548197746e-10
+    },
+    {
+      "part": "CUSTOM_PAN_YOKE",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 3.650347935035825e-08
+    },
+    {
+      "part": "CUSTOM_TILT_BUSH_LEFT",
+      "valid": true,
+      "bbox_max_error_mm": 3.055333763768431e-13,
+      "volume_error_mm3": 9.379164112033322e-12
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_LEFT",
+      "valid": true,
+      "bbox_max_error_mm": 2.984279490192421e-13,
+      "volume_error_mm3": 4.3655745685100555e-11
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_RIGHT",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 3.637978807091713e-11
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_LEFT0",
+      "valid": true,
+      "bbox_max_error_mm": 3.055333763768431e-13,
+      "volume_error_mm3": 1.1276802069914993e-07
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_LEFT1",
+      "valid": true,
+      "bbox_max_error_mm": 3.055333763768431e-13,
+      "volume_error_mm3": 1.1276961231487803e-07
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_RIGHT0",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 1.1275619726802688e-07
+    },
+    {
+      "part": "CUSTOM_TILT_CORNER_RIGHT1",
+      "valid": true,
+      "bbox_max_error_mm": 4.291678123991005e-12,
+      "volume_error_mm3": 1.127452833316056e-07
+    },
+    {
+      "part": "CUSTOM_TILT_SERVO_MOUNT",
+      "valid": true,
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 5.4569682106375694e-12
+    }
+  ],
+  "camera_step_roundtrip": {
+    "valid": true,
+    "solids": 150,
+    "bounds": [
+      -10.0000001,
+      -15.0000001,
+      249.0,
+      290.0000001,
+      208.09505662723,
+      397.38
+    ]
+  }
+}

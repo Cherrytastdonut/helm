@@ -1,0 +1,238 @@
+﻿ITEM,PART NAME,QTY,TYPE,SOURCE,DRAWING No.,NOTE
+001,Hiwonder tracked chassis,1,PURCHASED,MANUFACTURER_CAD / MANUFACTURER_DRAWING / REPAIRED_MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+002,NVIDIA Jetson Orin Nano,1,PURCHASED,MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+003,Logitech C920,1,PURCHASED,COMMUNITY_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+004,MLX90640 Thermal Camera HAT,1,PURCHASED,MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+005,RPLIDAR A2M12,1,PURCHASED,MANUFACTURER_DRAWING / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+006,ESP32 DevKit 38-pin,1,PURCHASED,ADAPTED_COMMUNITY_CAD / STANDARD_RECONSTRUCTION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+007,Cytron MDD10A Rev2,1,PURCHASED,MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+008,Adafruit BNO085,1,PURCHASED,MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+009,ROCKET ES7-12 AGM battery,1,PURCHASED,DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+010,SZH-JA020 covered fuse box,1,PURCHASED,DATASHEET / PHOTO_ESTIMATE / SELLER_DIMENSION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+011,FHAC main fuse holder,1,PURCHASED,MANUFACTURER_DRAWING / PHOTO_ESTIMATE / STANDARD_RECONSTRUCTION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+012,FHAC motor fuse holder,1,PURCHASED,MANUFACTURER_DRAWING / PHOTO_ESTIMATE / STANDARD_RECONSTRUCTION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+013,12V relay / socket,1,PURCHASED,DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+014,Positive busbar,1,PURCHASED,ASSUMED,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+015,Negative busbar,1,PURCHASED,ASSUMED,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+016,SZH-EK366 5V converter,1,PURCHASED,ASSUMED / PHOTO_ESTIMATE / SELLER_DIMENSION / STANDARD_RECONSTRUCTION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+017,12V to19V boost converter,1,PURCHASED,PHOTO_ESTIMATE / SELLER_DIMENSION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+018,KGE-N&H E-STOP,1,PURCHASED,MANUFACTURER_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+019,Main rocker switch,1,PURCHASED,PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+020,USB speaker SP001 envelope,1,PURCHASED,ASSUMED / PHOTO_ESTIMATE / STANDARD_RECONSTRUCTION,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+021,Battery voltage divider,1,PURCHASED,ASSUMED,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+022,NEXT505UHP USB hub,1,PURCHASED,DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+023,MG90S pan servo,1,PURCHASED,COMMUNITY_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+024,MG90S tilt servo,1,PURCHASED,COMMUNITY_CAD,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+025,Pan horn,1,PURCHASED,PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+026,Tilt horn,1,PURCHASED,PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+027,LS-F FRONT V-J166,1,PURCHASED,ASSUMED / DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+028,LS-R REAR V-J166,1,PURCHASED,ASSUMED / DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+029,LS-L LEFT V-J166,1,PURCHASED,ASSUMED / DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+030,LS-Rt RIGHT V-J166,1,PURCHASED,ASSUMED / DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,CAD placement / envelope; actual mating features: VERIFY ON HARDWARE
+031,WD SN530 2242 SSD,1,PURCHASED,DATASHEET / PHOTO_ESTIMATE,A-001 / A-005,Existing provision. Verify hardware compatibility / procurement / electrical interface.
+032,ADC carrier / hardware VERIFY,1,FABRICATED,CUSTOM,F-221,Existing provision. Verify hardware compatibility / procurement / electrical interface.
+033,Encoder level interface,1,PURCHASED,ASSUMED / DATASHEET,A-001 / A-005,Existing provision. Verify hardware compatibility / procurement / electrical interface.
+101,CUSTOM_BOTTOM_PLATE,1,FABRICATED,CUSTOM,F-101,PVC foam / Fomex; through profile
+102,CUSTOM_BATTERY_PLATE,1,FABRICATED,CUSTOM,F-102,PVC foam / Fomex; through profile
+103,CUSTOM_CHASSIS_PAD_0_0,1,FABRICATED,CUSTOM,F-103,PVC foam / Fomex; 3D relief - STEP controls
+104,CUSTOM_CHASSIS_PAD_0_1,1,FABRICATED,CUSTOM,F-104,PVC foam / Fomex; through profile
+105,CUSTOM_CHASSIS_PAD_1_0,1,FABRICATED,CUSTOM,F-105,PVC foam / Fomex; 3D relief - STEP controls
+106,CUSTOM_CHASSIS_PAD_1_1,1,FABRICATED,CUSTOM,F-106,PVC foam / Fomex; through profile
+107,CUSTOM_CHASSIS_PAD_2_0,1,FABRICATED,CUSTOM,F-107,PVC foam / Fomex; 3D relief - STEP controls
+108,CUSTOM_CHASSIS_PAD_2_1,1,FABRICATED,CUSTOM,F-108,PVC foam / Fomex; through profile
+109,CUSTOM_CHASSIS_PAD_3_0,1,FABRICATED,CUSTOM,F-109,PVC foam / Fomex; 3D relief - STEP controls
+110,CUSTOM_CHASSIS_PAD_3_1,1,FABRICATED,CUSTOM,F-110,PVC foam / Fomex; through profile
+111,CUSTOM_ELECTRONICS_PLATE,1,FABRICATED,CUSTOM,F-111,PVC foam / Fomex; through profile
+112,CUSTOM_LEFT_PANEL,1,FABRICATED,CUSTOM,F-112,PVC foam / Fomex; through profile
+113,CUSTOM_RIGHT_PANEL,1,FABRICATED,CUSTOM,F-113,PVC foam / Fomex; through profile
+114,CUSTOM_REAR_PANEL,1,FABRICATED,CUSTOM,F-114,PVC foam / Fomex; 3D relief - STEP controls
+115,CUSTOM_FRONT_PANEL,1,FABRICATED,CUSTOM,F-115,PVC foam / Fomex; through profile
+116,CUSTOM_LIDAR_BRIDGE,1,FABRICATED,CUSTOM,F-116,PVC foam / Fomex; through profile
+117,CUSTOM_LIDAR_PLATE,1,FABRICATED,CUSTOM,F-117,PVC foam / Fomex; through profile
+118,CUSTOM_JETSON_CRADLE,1,FABRICATED,CUSTOM,F-118,PVC foam / Fomex; 3D relief - STEP controls
+119,CUSTOM_BATTERY_STOP_FRONT,1,FABRICATED,CUSTOM,F-119,PVC foam / Fomex; through profile
+120,CUSTOM_BATTERY_STOP_REAR,1,FABRICATED,CUSTOM,F-120,PVC foam / Fomex; through profile
+121,CUSTOM_BATTERY_STOP_LEFT,1,FABRICATED,CUSTOM,F-121,PVC foam / Fomex; through profile
+122,CUSTOM_BATTERY_STOP_RIGHT,1,FABRICATED,CUSTOM,F-122,PVC foam / Fomex; through profile
+123,CUSTOM_HUB_TRAY,1,FABRICATED,CUSTOM,F-123,PVC foam / Fomex; 3D relief - STEP controls
+124,CUSTOM_POWER_BACKPLANE,1,FABRICATED,CUSTOM,F-124,PVC foam / Fomex; 3D relief - STEP controls
+125,CUSTOM_FUSE_SHELF,1,FABRICATED,CUSTOM,F-125,PVC foam / Fomex; 3D relief - STEP controls
+126,CUSTOM_BOOST_BASE,1,FABRICATED,CUSTOM,F-126,PVC foam / Fomex; 3D relief - STEP controls
+127,CUSTOM_FUSEBLOCK_TRAY,1,FABRICATED,CUSTOM,F-127,PVC foam / Fomex; 3D relief - STEP controls
+128,CUSTOM_JETSON_BASE_RETAINER_LEFT,1,FABRICATED,CUSTOM,F-128,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+129,CUSTOM_JETSON_BASE_RETAINER_RIGHT,1,FABRICATED,CUSTOM,F-129,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+130,CUSTOM_RELAY_TRAY,1,FABRICATED,CUSTOM,F-130,PVC foam / Fomex; 3D relief - STEP controls
+131,CUSTOM_CAMERA_BASE,1,FABRICATED,CUSTOM,F-131,PVC foam / Fomex; through profile
+132,CUSTOM_PAN_SERVO_MOUNT,1,FABRICATED,CUSTOM,F-132,PVC foam / Fomex; through profile
+133,CUSTOM_PAN_YOKE,1,FABRICATED,CUSTOM,F-133,PVC foam / Fomex; 3D relief - STEP controls
+134,CUSTOM_PAN_ARM_LEFT,1,FABRICATED,CUSTOM,F-134,PVC foam / Fomex; through profile
+135,APPROX_CAM_L_LEFT,1,FABRICATED,MODIFIED_STOCK_BRACKET,F-135,Modified stock metal L bracket; 3D relief - STEP controls
+136,CUSTOM_PAN_ARM_RIGHT,1,FABRICATED,CUSTOM,F-136,PVC foam / Fomex; through profile
+137,APPROX_CAM_L_RIGHT,1,FABRICATED,MODIFIED_STOCK_BRACKET,F-137,Modified stock metal L bracket; 3D relief - STEP controls
+138,CUSTOM_TILT_SERVO_MOUNT,1,FABRICATED,CUSTOM,F-138,PVC foam / Fomex; through profile
+139,CUSTOM_TILT_CHEEK_LEFT,1,FABRICATED,CUSTOM,F-139,PVC foam / Fomex; through profile
+140,CUSTOM_TILT_CHEEK_RIGHT,1,FABRICATED,CUSTOM,F-140,PVC foam / Fomex; through profile
+141,CUSTOM_C920_SADDLE,1,FABRICATED,CUSTOM,F-141,PVC foam / Fomex; through profile
+142,CUSTOM_TILT_CORNER_LEFT0,1,FABRICATED,CUSTOM,F-142,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+143,CUSTOM_TILT_CORNER_LEFT1,1,FABRICATED,CUSTOM,F-143,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+144,CUSTOM_TILT_CORNER_RIGHT0,1,FABRICATED,CUSTOM,F-144,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+145,CUSTOM_TILT_CORNER_RIGHT1,1,FABRICATED,CUSTOM,F-145,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+146,CUSTOM_TILT_BUSH_LEFT,1,FABRICATED,CUSTOM,F-146,Stock material - VERIFY ON HARDWARE; through profile
+147,CUSTOM_THERMAL_MOUNT,1,FABRICATED,CUSTOM,F-147,PVC foam / Fomex; 3D relief - STEP controls
+148,CUSTOM_THERMAL_ANGLE_0,1,FABRICATED,CUSTOM,F-148,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+149,CUSTOM_THERMAL_ANGLE_1,1,FABRICATED,CUSTOM,F-149,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+150,CUSTOM_THERMAL_EDGE_0,1,FABRICATED,CUSTOM,F-150,Stock material - VERIFY ON HARDWARE; through profile
+151,CUSTOM_THERMAL_EDGE_1,1,FABRICATED,CUSTOM,F-151,Stock material - VERIFY ON HARDWARE; through profile
+152,CUSTOM_FRONT_BUMPER,1,FABRICATED,CUSTOM,F-152,PVC foam / Fomex; through profile
+153,CUSTOM_FRONT_STRIKER,1,FABRICATED,CUSTOM,F-153,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+154,CUSTOM_FRONT_GUIDE_FOOT_0,1,FABRICATED,CUSTOM,F-154,PVC foam / Fomex; through profile
+155,CUSTOM_FRONT_GUIDE_HANGER_0,1,FABRICATED,CUSTOM,F-155,PVC foam / Fomex; through profile
+156,CUSTOM_FRONT_GUIDE_ANGLE_0,1,FABRICATED,CUSTOM,F-156,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+157,CUSTOM_FRONT_GUIDE_BUSH_0,1,FABRICATED,CUSTOM,F-157,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+158,CUSTOM_FRONT_STOPPER_0,1,FABRICATED,CUSTOM,F-158,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+159,CUSTOM_FRONT_GUIDE_FOOT_1,1,FABRICATED,CUSTOM,F-159,PVC foam / Fomex; through profile
+160,CUSTOM_FRONT_GUIDE_HANGER_1,1,FABRICATED,CUSTOM,F-160,PVC foam / Fomex; through profile
+161,CUSTOM_FRONT_GUIDE_ANGLE_1,1,FABRICATED,CUSTOM,F-161,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+162,CUSTOM_FRONT_GUIDE_BUSH_1,1,FABRICATED,CUSTOM,F-162,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+163,CUSTOM_FRONT_STOPPER_1,1,FABRICATED,CUSTOM,F-163,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+164,CUSTOM_FRONT_SWITCH_BRACKET,1,FABRICATED,CUSTOM,F-164,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+165,CUSTOM_FRONT_SWITCH_FOOT,1,FABRICATED,CUSTOM,F-165,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+166,CUSTOM_FRONT_SWITCH_ANGLE,1,FABRICATED,CUSTOM,F-166,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+167,CUSTOM_FRONT_CORNER_NOSE_-1,1,FABRICATED,CUSTOM,F-167,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+168,CUSTOM_FRONT_CORNER_NOSE_1,1,FABRICATED,CUSTOM,F-168,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+169,CUSTOM_REAR_BUMPER,1,FABRICATED,CUSTOM,F-169,PVC foam / Fomex; through profile
+170,CUSTOM_REAR_STRIKER,1,FABRICATED,CUSTOM,F-170,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+171,CUSTOM_REAR_GUIDE_FOOT_0,1,FABRICATED,CUSTOM,F-171,PVC foam / Fomex; through profile
+172,CUSTOM_REAR_GUIDE_HANGER_0,1,FABRICATED,CUSTOM,F-172,PVC foam / Fomex; through profile
+173,CUSTOM_REAR_GUIDE_ANGLE_0,1,FABRICATED,CUSTOM,F-173,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+174,CUSTOM_REAR_GUIDE_BUSH_0,1,FABRICATED,CUSTOM,F-174,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+175,CUSTOM_REAR_STOPPER_0,1,FABRICATED,CUSTOM,F-175,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+176,CUSTOM_REAR_GUIDE_FOOT_1,1,FABRICATED,CUSTOM,F-176,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+177,CUSTOM_REAR_GUIDE_HANGER_1,1,FABRICATED,CUSTOM,F-177,PVC foam / Fomex; through profile
+178,CUSTOM_REAR_GUIDE_ANGLE_1,1,FABRICATED,CUSTOM,F-178,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+179,CUSTOM_REAR_GUIDE_BUSH_1,1,FABRICATED,CUSTOM,F-179,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+180,CUSTOM_REAR_STOPPER_1,1,FABRICATED,CUSTOM,F-180,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+181,CUSTOM_REAR_SWITCH_BRACKET,1,FABRICATED,CUSTOM,F-181,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+182,CUSTOM_REAR_SWITCH_FOOT,1,FABRICATED,CUSTOM,F-182,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+183,CUSTOM_REAR_SWITCH_ANGLE,1,FABRICATED,CUSTOM,F-183,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+184,CUSTOM_REAR_CORNER_NOSE_-1,1,FABRICATED,CUSTOM,F-184,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+185,CUSTOM_REAR_CORNER_NOSE_1,1,FABRICATED,CUSTOM,F-185,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+186,CUSTOM_LEFT_BUMPER,1,FABRICATED,CUSTOM,F-186,PVC foam / Fomex; through profile
+187,CUSTOM_LEFT_STRIKER,1,FABRICATED,CUSTOM,F-187,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+188,CUSTOM_LEFT_GUIDE_FOOT_0,1,FABRICATED,CUSTOM,F-188,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+189,CUSTOM_LEFT_GUIDE_HANGER_0,1,FABRICATED,CUSTOM,F-189,PVC foam / Fomex; through profile
+190,CUSTOM_LEFT_GUIDE_ANGLE_0,1,FABRICATED,CUSTOM,F-190,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+191,CUSTOM_LEFT_GUIDE_BUSH_0,1,FABRICATED,CUSTOM,F-191,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+192,CUSTOM_LEFT_STOPPER_0,1,FABRICATED,CUSTOM,F-192,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+193,CUSTOM_LEFT_GUIDE_FOOT_1,1,FABRICATED,CUSTOM,F-193,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+194,CUSTOM_LEFT_GUIDE_HANGER_1,1,FABRICATED,CUSTOM,F-194,PVC foam / Fomex; through profile
+195,CUSTOM_LEFT_GUIDE_ANGLE_1,1,FABRICATED,CUSTOM,F-195,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+196,CUSTOM_LEFT_GUIDE_BUSH_1,1,FABRICATED,CUSTOM,F-196,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+197,CUSTOM_LEFT_STOPPER_1,1,FABRICATED,CUSTOM,F-197,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+198,CUSTOM_LEFT_SWITCH_BRACKET,1,FABRICATED,CUSTOM,F-198,PVC foam / Fomex; through profile
+199,CUSTOM_LEFT_SWITCH_FOOT,1,FABRICATED,CUSTOM,F-199,PVC foam / Fomex; through profile
+200,CUSTOM_LEFT_SWITCH_ANGLE,1,FABRICATED,CUSTOM,F-200,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+201,CUSTOM_RIGHT_BUMPER,1,FABRICATED,CUSTOM,F-201,PVC foam / Fomex; 3D relief - STEP controls
+202,CUSTOM_RIGHT_STRIKER,1,FABRICATED,CUSTOM,F-202,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+203,CUSTOM_RIGHT_GUIDE_FOOT_0,1,FABRICATED,CUSTOM,F-203,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+204,CUSTOM_RIGHT_GUIDE_HANGER_0,1,FABRICATED,CUSTOM,F-204,PVC foam / Fomex; through profile
+205,CUSTOM_RIGHT_GUIDE_ANGLE_0,1,FABRICATED,CUSTOM,F-205,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+206,CUSTOM_RIGHT_GUIDE_BUSH_0,1,FABRICATED,CUSTOM,F-206,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+207,CUSTOM_RIGHT_STOPPER_0,1,FABRICATED,CUSTOM,F-207,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+208,CUSTOM_RIGHT_GUIDE_FOOT_1,1,FABRICATED,CUSTOM,F-208,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+209,CUSTOM_RIGHT_GUIDE_HANGER_1,1,FABRICATED,CUSTOM,F-209,PVC foam / Fomex; through profile
+210,CUSTOM_RIGHT_GUIDE_ANGLE_1,1,FABRICATED,CUSTOM,F-210,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+211,CUSTOM_RIGHT_GUIDE_BUSH_1,1,FABRICATED,CUSTOM,F-211,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+212,CUSTOM_RIGHT_STOPPER_1,1,FABRICATED,CUSTOM,F-212,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+213,CUSTOM_RIGHT_SWITCH_BRACKET,1,FABRICATED,CUSTOM,F-213,PVC foam / Fomex; through profile
+214,CUSTOM_RIGHT_SWITCH_FOOT,1,FABRICATED,CUSTOM,F-214,PVC foam / Fomex; through profile
+215,CUSTOM_RIGHT_SWITCH_ANGLE,1,FABRICATED,CUSTOM,F-215,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+216,CUSTOM_ESP32_CARRIER,1,FABRICATED,CUSTOM,F-216,PVC foam / Fomex; 3D relief - STEP controls
+217,CUSTOM_ESTOP_ADAPTER_RING,1,FABRICATED,CUSTOM,F-217,Stock material - VERIFY ON HARDWARE; through profile
+218,CUSTOM_SPEAKER_MOUNT_0,1,FABRICATED,CUSTOM,F-218,Stock material - VERIFY ON HARDWARE; through profile
+219,CUSTOM_SPEAKER_MOUNT_1,1,FABRICATED,CUSTOM,F-219,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+220,CUSTOM_5V_DISTRIBUTOR,1,FABRICATED,CUSTOM,F-220,PVC foam / Fomex; through profile
+222,CUSTOM_HARNESS_CLAMP_0,1,FABRICATED,CUSTOM,F-222,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+223,CUSTOM_HARNESS_CLAMP_1,1,FABRICATED,CUSTOM,F-223,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+224,CUSTOM_HARNESS_CLAMP_2,1,FABRICATED,CUSTOM,F-224,Stock material - VERIFY ON HARDWARE; through profile
+225,CUSTOM_HARNESS_CLAMP_3,1,FABRICATED,CUSTOM,F-225,Stock material - VERIFY ON HARDWARE; through profile
+226,CUSTOM_HARNESS_CLAMP_4,1,FABRICATED,CUSTOM,F-226,Stock material - VERIFY ON HARDWARE; through profile
+227,CUSTOM_HARNESS_CLAMP_5,1,FABRICATED,CUSTOM,F-227,Stock material - VERIFY ON HARDWARE; 3D relief - STEP controls
+228,CUSTOM_HARNESS_CLAMP_6,1,FABRICATED,CUSTOM,F-228,Stock material - VERIFY ON HARDWARE; through profile
+229,CUSTOM_HARNESS_CLAMP_7,1,FABRICATED,CUSTOM,F-229,Stock material - VERIFY ON HARDWARE; through profile
+230,CUSTOM_TILT_HORN_COUPLER,1,FABRICATED,CUSTOM,F-230,Stock material - VERIFY ON HARDWARE; through profile
+501,Custom-length insulating spacer 11.610; add-required if kit cannot stack to length,4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+502,Custom-length insulating spacer 40.610; add-required if kit cannot stack to length,4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+503,"M2 nominal thread, no helical detail",4,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+504,"M2.5 nominal thread, no helical detail",12,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+505,M2.5 spacer L10; verify stock kit length,4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+506,"M2.5x10; symbolic head, verify actual tool/head",8,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+507,"M2.5x18; symbolic head, verify actual tool/head",8,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+508,"M2.5x8; symbolic head, verify actual tool/head",4,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+509,"M2x10; symbolic head, verify actual tool/head",6,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+510,"M2x12; symbolic head, verify actual tool/head",20,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+511,"M2x6; symbolic head, verify actual tool/head",2,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+512,"M3 nominal thread, no helical detail",68,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+513,M3 spacer L10; verify stock kit length,20,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+514,M3 spacer L3; verify stock kit length,4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+515,M3 spacer L6; verify stock kit length,4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+516,"M3x10; symbolic head, verify actual tool/head",72,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+517,"M3x12; symbolic head, verify actual tool/head",48,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+518,"M3x14; symbolic head, verify actual tool/head",8,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+519,"M3x16; symbolic head, verify actual tool/head",36,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+520,"M3x30; symbolic head, verify actual tool/head",4,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+521,"M3x8; symbolic head, verify actual tool/head",20,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+522,"M4 nominal thread, no helical detail",128,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+523,"M4x12; symbolic head, verify actual tool/head",80,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+524,"M4x15; symbolic head, verify actual tool/head",1,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+525,"M4x16; symbolic head, verify actual tool/head",16,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+526,"M4x25; symbolic head, verify actual tool/head",4,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+527,"Modeled hardware [0.8, 12.0, 12.0] mm envelope",48,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+528,"Modeled hardware [0.8, 7.0, 7.0] mm envelope",8,FASTENER,DATASHEET,B-001 / D series,Quantity = modeled instances; verify stock specification
+529,"Modeled hardware [6.0, 6.0, 13.9] mm envelope",4,FASTENER,CUSTOM,B-001 / D series,Quantity = modeled instances; verify stock specification
+530,"Official2.5mm hole, additionalM2 fastening",4,FASTENER,CUSTOM,B-001 / D series,Quantity = modeled instances; verify stock specification
+531,"Sleeve or spacer stack L16.000, additional when absent from kit",4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+532,"Sleeve or spacer stack L39.610, additional when absent from kit",4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+533,"Sleeve or spacer stack L75.610, additional when absent from kit",4,FASTENER,ASSUMED,B-001 / D series,Quantity = modeled instances; verify stock specification
+534,APPROX_BACKPLANE_L,2,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+535,APPROX_FDFD,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+536,APPROX_FDFD_5p5,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+537,APPROX_FRONT_RETURN_SPRING,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+538,APPROX_LEFT_RETURN_SPRING,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+539,APPROX_MEDIUM_L,4,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+540,APPROX_REAR_RETURN_SPRING,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+541,APPROX_RIGHT_RETURN_SPRING,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+542,APPROX_SMALL_L_0_23_LEFT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+543,APPROX_SMALL_L_0_23_RIGHT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+544,APPROX_SMALL_L_0_245_LEFT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+545,APPROX_SMALL_L_0_245_RIGHT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+546,APPROX_SMALL_L_1_23_LEFT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+547,APPROX_SMALL_L_1_23_RIGHT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+548,APPROX_SMALL_L_1_245_LEFT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+549,APPROX_SMALL_L_1_245_RIGHT,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+550,CUSTOM_BATTERY_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+551,CUSTOM_BOOST_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+552,CUSTOM_C920_PAD,1,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+553,CUSTOM_C920_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+554,CUSTOM_ESP32_SOCKET_RAIL,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+555,CUSTOM_FUSEBLOCK_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+556,CUSTOM_FUSE_TIE,4,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+557,CUSTOM_HUB_PAD,1,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+558,CUSTOM_HUB_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+559,CUSTOM_LIDAR_RISER,4,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+560,CUSTOM_RELAY_STRAP,2,PURCHASED,CUSTOM,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+561,DRAWING_BASED_760K_BARREL,1,PURCHASED,DATASHEET,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+562,DRAWING_BASED_760K_HANDLE,1,PURCHASED,DATASHEET,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+563,DRAWING_BASED_760K_NECK,1,PURCHASED,MANUFACTURER_DRAWING,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+564,DRAWING_BASED_FRONT_GUIDE_ROD,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+565,DRAWING_BASED_LEFT_GUIDE_ROD,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+566,DRAWING_BASED_M4_ROD,6,PURCHASED,DATASHEET,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+567,DRAWING_BASED_REAR_GUIDE_ROD,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+568,DRAWING_BASED_RIGHT_GUIDE_ROD,2,PURCHASED,ASSUMED,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+569,OFFICIAL_ADS1115_ADDED,27,PURCHASED,MANUFACTURER_CAD,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+570,OFFICIAL_TE187_FRONT,2,PURCHASED,MANUFACTURER_CAD,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+571,OFFICIAL_TE187_LEFT,2,PURCHASED,MANUFACTURER_CAD,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+572,OFFICIAL_TE187_REAR,2,PURCHASED,MANUFACTURER_CAD,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+573,OFFICIAL_TE187_RIGHT,2,PURCHASED,MANUFACTURER_CAD,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+574,PHOTO_BASED_760K_RING,1,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
+575,PHOTO_BASED_STRAP_BUCKLE,2,PURCHASED,PHOTO_ESTIMATE,B-001 / D series,Model-derived item/group; purchased contour and mounting details may be approximate
