@@ -1,10 +1,11 @@
 {
   "revision": "PROCUREMENT_REVIEW_20261001",
   "zip_filename": "HELM_PROCUREMENT_CAD_REVIEW_20261001.zip",
-  "zip_bytes": 233290269,
-  "zip_sha256": "875fb27a94f58d6384b80adb49d326424e81bd211489b413c557da1b61761048",
+  "zip_bytes": 233289242,
+  "zip_sha256": "12390393ead32219a6b898b747dd1469170536a5e1e0bfa7ac7cbfdf60cd4690",
   "zip_crc": "PASS",
   "zip_file_count": 4301,
-  "split_parts": 14,
-  "manufacturing_release": false
+  "split_parts": 56,
+  "manufacturing_release": false,
+  "split_max_bytes": 4194304
 }

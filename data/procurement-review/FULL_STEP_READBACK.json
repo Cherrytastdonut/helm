@@ -1,7 +1,7 @@
 {
   "scope": "Full STEP syntax/entity parse and all model names; shape transfers limited to four changed parts, not full-assembly geometry certification.",
   "bytes": 736858268,
-  "sha256": "59dae776eee5a5ab6d9a2e8dd73c76218d120d65de6b8b9400560a960cbb6b20",
+  "sha256": "8af0a50c6bf97a05a127af1865c4698c0fc9eda920c50f60a70cecd9397b7645",
   "entities": 10336848,
   "product_definitions": 4089,
   "expected_model_nodes": 4078,
@@ -36,5 +36,5 @@
       "volume_mm3": 2111.399999999986
     }
   ],
-  "seconds": 51.312984715000084
+  "seconds": 67.94588534100012
 }

@@ -4,9 +4,9 @@
   "profile_pages": 20,
   "all_pages_visually_reviewed": true,
   "render_tool": "pdftoppm",
-  "guide_render_dpi": 110,
-  "profile_render_dpi": 75,
-  "review_method": "All 26 rendered pages visually inspected in contact sheets; text blocks checked against page/footer bounds; profile outlines and current CAD views checked",
+  "guide_render_dpi": 80,
+  "profile_render_dpi": 60,
+  "review_method": "All 26 regenerated pages visually inspected in contact sheets; final page 2 re-rendered at 110 dpi and visually inspected after removing an occluding cradle from the SSD preview. Text blocks checked against page/footer bounds.",
   "scale": "All 20 A3 sheets use 1 mm CAD = 1 mm paper and include a 100 mm check line; printer scaling must still be checked",
   "manufacturing_release": false
 }
