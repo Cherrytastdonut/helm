@@ -103,8 +103,8 @@ def restore(entry, output_dir, verify_only=False, extract=False):
 def main():
     p = argparse.ArgumentParser(description=__doc__)
     select = p.add_mutually_exclusive_group()
-    select.add_argument('--all', action='store_true', help='Restore all three archives')
-    select.add_argument('--archive', default='ser0063-review-20260930', help='Archive id in manifest.json')
+    select.add_argument('--all', action='store_true', help='Restore all registered archives')
+    select.add_argument('--archive', default='procurement-review-20261001', help='Archive id in manifest.json')
     p.add_argument('--output-dir', type=Path, default=ROOT / 'downloads')
     p.add_argument('--verify-only', action='store_true', help='Check all parts without creating output')
     p.add_argument('--extract', action='store_true', help='Also extract into an empty per-archive directory')

@@ -1,0 +1,40 @@
+{
+  "scope": "Full STEP syntax/entity parse and all model names; shape transfers limited to four changed parts, not full-assembly geometry certification.",
+  "bytes": 736858268,
+  "sha256": "59dae776eee5a5ab6d9a2e8dd73c76218d120d65de6b8b9400560a960cbb6b20",
+  "entities": 10336848,
+  "product_definitions": 4089,
+  "expected_model_nodes": 4078,
+  "missing_model_nodes": [],
+  "replacement_roundtrips": [
+    {
+      "name": "CUSTOM_POWER_BACKPLANE",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 1.1999999705025743e-06,
+      "volume_mm3": 82078.94150637774
+    },
+    {
+      "name": "PURCHASE_SZH_CP003_OUTLINE",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 0.0,
+      "volume_mm3": 148500.0
+    },
+    {
+      "name": "PURCHASE_C715_512GB_PCB",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.0254023992456496e-12,
+      "volume_mm3": 1390.9075489993725
+    },
+    {
+      "name": "PURCHASE_C715_COMPONENT_ENVELOPE",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.0254023992456496e-12,
+      "volume_mm3": 2111.399999999986
+    }
+  ],
+  "seconds": 51.312984715000084
+}

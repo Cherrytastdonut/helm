@@ -1,0 +1,2081 @@
+[
+  {
+    "name": "OFFICIAL_JETSON_1897_Solid",
+    "group": "04_COMPUTE",
+    "color": [
+      166,
+      184,
+      199
+    ],
+    "status": "MANUFACTURER_CAD",
+    "note": "Native geometry, rigid placement only; source validity retained",
+    "fabricate": false,
+    "moving": "",
+    "source": "project_sources/14-P3766-P3768SKU4-P3767ENVELOPE.stp",
+    "brep": "cache/OFFICIAL_JETSON_1897_Solid.brep",
+    "bbox": [
+      63.92100009999999,
+      76.55187500000001,
+      271.093821523386,
+      93.9210001,
+      98.55187500000001,
+      273.353821523386
+    ],
+    "solids": 1,
+    "faces": 33,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "OFFICIAL_JETSON_1898_Solid",
+    "group": "04_COMPUTE",
+    "color": [
+      166,
+      184,
+      199
+    ],
+    "status": "MANUFACTURER_CAD",
+    "note": "Native geometry, rigid placement only; source validity retained",
+    "fabricate": false,
+    "moving": "",
+    "source": "project_sources/14-P3766-P3768SKU4-P3767ENVELOPE.stp",
+    "brep": "cache/OFFICIAL_JETSON_1898_Solid.brep",
+    "bbox": [
+      91.3450001,
+      85.077875,
+      271.543821523386,
+      96.3450001,
+      90.077875,
+      275.543821623386
+    ],
+    "solids": 1,
+    "faces": 38,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "DRAWING_BASED_SN530_M2_2242",
+    "group": "04_COMPUTE",
+    "color": [
+      25,
+      130,
+      90
+    ],
+    "status": "DATASHEET",
+    "note": "Purchased outline basis; free component contours and mounting pattern recorded separately",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/DRAWING_BASED_SN530_M2_2242.brep",
+    "bbox": [
+      48.0,
+      63.0,
+      268.0,
+      70.0,
+      105.0,
+      269.6
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "PHOTO_BASED_SN530_NAND",
+    "group": "04_COMPUTE",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "PHOTO_ESTIMATE",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/PHOTO_BASED_SN530_NAND.brep",
+    "bbox": [
+      50.0,
+      70.0,
+      269.6,
+      68.0,
+      86.0,
+      270.70000000000005
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "PHOTO_BASED_SN530_IC_0",
+    "group": "04_COMPUTE",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "PHOTO_ESTIMATE",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/PHOTO_BASED_SN530_IC_0.brep",
+    "bbox": [
+      51.0,
+      88.0,
+      269.6,
+      57.0,
+      90.0,
+      270.6
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "PHOTO_BASED_SN530_IC_1",
+    "group": "04_COMPUTE",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "PHOTO_ESTIMATE",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/PHOTO_BASED_SN530_IC_1.brep",
+    "bbox": [
+      51.0,
+      91.0,
+      269.6,
+      57.0,
+      93.0,
+      270.6
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "PHOTO_BASED_SN530_IC_2",
+    "group": "04_COMPUTE",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "PHOTO_ESTIMATE",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/PHOTO_BASED_SN530_IC_2.brep",
+    "bbox": [
+      51.0,
+      94.0,
+      269.6,
+      57.0,
+      96.0,
+      270.6
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "PHOTO_BASED_SN530_IC_3",
+    "group": "04_COMPUTE",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "PHOTO_ESTIMATE",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/PHOTO_BASED_SN530_IC_3.brep",
+    "bbox": [
+      51.0,
+      97.0,
+      269.6,
+      57.0,
+      99.0,
+      270.6
+    ],
+    "solids": 1,
+    "faces": 6,
+    "valid": true,
+    "removal_reason": "Replaced by one purchased C715 512GB 2280 card; optional 2230 SSD and its screw are not installed"
+  },
+  {
+    "name": "APPROX_BUS_POS",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "ASSUMED",
+    "note": "Exact busbar seller model absent; outline allocated, rated current not inferred",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS.brep",
+    "bbox": [
+      70.0,
+      10.0,
+      148.0,
+      168.0,
+      18.0,
+      165.0
+    ],
+    "solids": 1,
+    "faces": 8,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_0",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_0.brep",
+    "bbox": [
+      76.0,
+      18.0,
+      154.5,
+      80.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_1",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_1.brep",
+    "bbox": [
+      89.0,
+      18.0,
+      154.5,
+      93.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_2",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_2.brep",
+    "bbox": [
+      102.0,
+      18.0,
+      154.5,
+      106.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_3",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_3.brep",
+    "bbox": [
+      115.0,
+      18.0,
+      154.5,
+      119.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_4",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_4.brep",
+    "bbox": [
+      128.0,
+      18.0,
+      154.5,
+      132.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_5",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_5.brep",
+    "bbox": [
+      141.0,
+      18.0,
+      154.5,
+      145.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_POS_SCREW_6",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_POS_SCREW_6.brep",
+    "bbox": [
+      154.0,
+      18.0,
+      154.5,
+      158.0,
+      21.0,
+      158.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "ASSUMED",
+    "note": "Exact busbar seller model absent; outline allocated, rated current not inferred",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG.brep",
+    "bbox": [
+      70.0,
+      10.0,
+      177.0,
+      168.0,
+      18.0,
+      194.0
+    ],
+    "solids": 1,
+    "faces": 8,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_0",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_0.brep",
+    "bbox": [
+      76.0,
+      18.0,
+      183.5,
+      80.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_1",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_1.brep",
+    "bbox": [
+      89.0,
+      18.0,
+      183.5,
+      93.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_2",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_2.brep",
+    "bbox": [
+      102.0,
+      18.0,
+      183.5,
+      106.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_3",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_3.brep",
+    "bbox": [
+      115.0,
+      18.0,
+      183.5,
+      119.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_4",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_4.brep",
+    "bbox": [
+      128.0,
+      18.0,
+      183.5,
+      132.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_5",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_5.brep",
+    "bbox": [
+      141.0,
+      18.0,
+      183.5,
+      145.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "APPROX_BUS_NEG_SCREW_6",
+    "group": "03_POWER_SYSTEM",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "ASSUMED",
+    "note": "",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/APPROX_BUS_NEG_SCREW_6.brep",
+    "bbox": [
+      154.0,
+      18.0,
+      183.5,
+      158.0,
+      21.0,
+      187.5
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_POS_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_POS_0.brep",
+    "bbox": [
+      71.0,
+      3.0,
+      149.0,
+      77.0,
+      21.0,
+      155.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_N_POS_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_N_POS_0.brep",
+    "bbox": [
+      70.82457351945706,
+      19.0,
+      149.25,
+      77.17542648054294,
+      21.4,
+      154.75
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_POS_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_POS_1.brep",
+    "bbox": [
+      161.0,
+      3.0,
+      149.0,
+      167.0,
+      21.0,
+      155.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_N_POS_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_N_POS_1.brep",
+    "bbox": [
+      160.82457351945703,
+      19.0,
+      149.25,
+      167.17542648054294,
+      21.4,
+      154.75
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_NEG_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_NEG_0.brep",
+    "bbox": [
+      71.0,
+      3.0,
+      178.0,
+      77.0,
+      21.0,
+      184.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_N_NEG_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_N_NEG_0.brep",
+    "bbox": [
+      70.82457351945706,
+      19.0,
+      178.25,
+      77.17542648054294,
+      21.4,
+      183.75
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_NEG_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_NEG_1.brep",
+    "bbox": [
+      161.0,
+      3.0,
+      178.0,
+      167.0,
+      21.0,
+      184.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "BUS_FIX_N_NEG_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/BUS_FIX_N_NEG_1.brep",
+    "bbox": [
+      160.82457351945703,
+      19.0,
+      178.25,
+      167.17542648054294,
+      21.4,
+      183.75
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old thin busbar approximation and mounting superseded by purchased CP003 envelope"
+  },
+  {
+    "name": "CUSTOM_CABLE_BAT_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG ground; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_BAT_RETURN.brep",
+    "bbox": [
+      20.599999899999997,
+      21.0,
+      184.0999999,
+      79.4000001,
+      120.4000001,
+      237.8000001
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_MAIN_BUS",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG switched12V; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_MAIN_BUS.brep",
+    "bbox": [
+      76.59999990000003,
+      -29.4000001,
+      144.5999999,
+      321.4000001,
+      36.40000010000004,
+      231.4000001
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_MAIN_LED_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "22AWG LED return; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_MAIN_LED_RETURN.brep",
+    "bbox": [
+      90.19999990000002,
+      -33.80000009999999,
+      184.69999989999997,
+      325.80000010000003,
+      47.80000010000001,
+      230.8000001
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_MOTOR_BRANCH_FUSE",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG motor branch fuse; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_MOTOR_BRANCH_FUSE.brep",
+    "bbox": [
+      89.71546927472396,
+      19.601831259350185,
+      155.93865786859394,
+      120.2845307252763,
+      25.998168740649927,
+      221.56134213140595
+    ],
+    "solids": 1,
+    "faces": 3,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_MOTOR_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG motor return; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_MOTOR_RETURN.brep",
+    "bbox": [
+      13.599999899999988,
+      -31.400000100000014,
+      184.5275676808206,
+      138.14532352068517,
+      66.80000009999998,
+      281.4000001000001
+    ],
+    "solids": 1,
+    "faces": 13,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_COIL_FEED",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "22AWG coil feed through NC E-stop; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_COIL_FEED.brep",
+    "bbox": [
+      103.19999990000001,
+      15.199999900000009,
+      155.6999999,
+      240.0,
+      43.80000010000001,
+      220.8000001
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_COIL_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "22AWG coil85 return; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_COIL_RETURN.brep",
+    "bbox": [
+      116.19999990000002,
+      20.365900808716457,
+      163.20011488475689,
+      235.01355737483465,
+      36.80000010000001,
+      185.98776860867986
+    ],
+    "solids": 1,
+    "faces": 5,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_FUSE_INPUT_BOOST",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG fused distribution input; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_FUSE_INPUT_BOOST.brep",
+    "bbox": [
+      116.8114425545709,
+      19.612755937200216,
+      155.0999999,
+      223.89776550436946,
+      66.99937719825083,
+      188.9836141572847
+    ],
+    "solids": 1,
+    "faces": 5,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_FUSE_INPUT_BUCK",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG fused distribution input; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_FUSE_INPUT_BUCK.brep",
+    "bbox": [
+      129.78481019120537,
+      19.616636943463163,
+      155.09999989999997,
+      223.8987840253413,
+      86.73736238860147,
+      189.19151162744097
+    ],
+    "solids": 1,
+    "faces": 5,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_FUSE_INPUT_AUX",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG fused distribution input; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_FUSE_INPUT_AUX.brep",
+    "bbox": [
+      142.74956038652002,
+      19.62258212586013,
+      155.09999989999997,
+      223.89927541477638,
+      106.56924808394473,
+      189.2798378539982
+    ],
+    "solids": 1,
+    "faces": 5,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_FUSE_INPUT_SPARE",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG fused distribution input; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_FUSE_INPUT_SPARE.brep",
+    "bbox": [
+      155.7008243696724,
+      19.632339975645227,
+      155.0999999,
+      223.89952845121874,
+      126.45924007820707,
+      189.32303388648882
+    ],
+    "solids": 1,
+    "faces": 5,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_BOOST_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG boost return; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_BOOST_RETURN.brep",
+    "bbox": [
+      128.5999999,
+      21.0,
+      184.0999999,
+      186.40000010000003,
+      164.90179004409586,
+      246.4000001
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_BUCK_RETURN",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "14AWG buck return; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_BUCK_RETURN.brep",
+    "bbox": [
+      18.599999900000007,
+      21.0,
+      184.09999990000003,
+      196.9400000999999,
+      217.4000001,
+      295.40000010000006
+    ],
+    "solids": 1,
+    "faces": 15,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_VOLTAGE_POS",
+    "group": "09_WIRING",
+    "color": [
+      218,
+      48,
+      48
+    ],
+    "status": "CUSTOM",
+    "note": "Voltage measurement positive through auxiliary fuse required; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_VOLTAGE_POS.brep",
+    "bbox": [
+      11.199999899999893,
+      21.0,
+      155.69999989999997,
+      186.26000009999998,
+      220.8000001,
+      275.4000001000001
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "CUSTOM_CABLE_VOLTAGE_NEG",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "CUSTOM",
+    "note": "Sense ground; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_VOLTAGE_NEG.brep",
+    "bbox": [
+      17.199999899999995,
+      21.0,
+      184.6999999,
+      191.3400000999999,
+      223.8000001,
+      275.40000010000034
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "STANDARD_PLUG_THERMAL_I2C_HOUSING",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_THERMAL_I2C_HOUSING.brep",
+    "bbox": [
+      300.0,
+      90.44505662723431,
+      250.73,
+      306.0,
+      92.98505662723431,
+      253.27
+    ],
+    "solids": 1,
+    "faces": 10,
+    "valid": true,
+    "removal_reason": "Old 2.54 mm mating plug proxy mismatches the manufacturer PH2.0 interface"
+  },
+  {
+    "name": "STANDARD_PLUG_THERMAL_I2C_CONTACT",
+    "group": "09_WIRING",
+    "color": [
+      208,
+      171,
+      59
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_THERMAL_I2C_CONTACT.brep",
+    "bbox": [
+      301.0,
+      91.2650566272343,
+      251.55,
+      305.0,
+      92.1650566272343,
+      252.45
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "Old 2.54 mm mating plug proxy mismatches the manufacturer PH2.0 interface"
+  },
+  {
+    "name": "CUSTOM_CABLE_THERMAL_I2C",
+    "group": "09_WIRING",
+    "color": [
+      25,
+      130,
+      90
+    ],
+    "status": "CUSTOM",
+    "note": "4core3V3/GND/I2C GPIO21/22; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_THERMAL_I2C.brep",
+    "bbox": [
+      140.38247531969535,
+      91.55918549007481,
+      250.49999989999992,
+      316.5000001000001,
+      179.50000009999997,
+      290.50000010000036
+    ],
+    "solids": 1,
+    "faces": 11,
+    "valid": true,
+    "removal_reason": "Manufacturer interface is PH2.0 4-pin. Mating plug orientation and actual lead exit/length are unresolved."
+  },
+  {
+    "name": "STANDARD_PLUG_ADC_ANALOG_HOUSING",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_ADC_ANALOG_HOUSING.brep",
+    "bbox": [
+      219.0,
+      123.73,
+      273.72999999999996,
+      225.0,
+      126.27000000000001,
+      276.27
+    ],
+    "solids": 1,
+    "faces": 10,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "STANDARD_PLUG_ADC_ANALOG_CONTACT",
+    "group": "09_WIRING",
+    "color": [
+      208,
+      171,
+      59
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_ADC_ANALOG_CONTACT.brep",
+    "bbox": [
+      220.0,
+      124.55,
+      274.55,
+      224.0,
+      125.45,
+      275.45
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "STANDARD_PLUG_ADC_I2C_HOUSING",
+    "group": "09_WIRING",
+    "color": [
+      40,
+      46,
+      54
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_ADC_I2C_HOUSING.brep",
+    "bbox": [
+      245.73,
+      127.73,
+      277.0,
+      248.27,
+      130.27,
+      283.0
+    ],
+    "solids": 1,
+    "faces": 10,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "STANDARD_PLUG_ADC_I2C_CONTACT",
+    "group": "09_WIRING",
+    "color": [
+      208,
+      171,
+      59
+    ],
+    "status": "STANDARD_RECONSTRUCTION",
+    "note": "Nominal connector family; overmould varies by cable manufacturer",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/STANDARD_PLUG_ADC_I2C_CONTACT.brep",
+    "bbox": [
+      246.55,
+      128.55,
+      278.0,
+      247.45,
+      129.45,
+      282.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_ADC_CARRIER",
+    "group": "05_CONTROL_ELECTRONICS",
+    "color": [
+      232,
+      233,
+      228
+    ],
+    "status": "CUSTOM",
+    "note": "Fomex5T; Additional insulating carrier; edge retainers avoid unverified board holes",
+    "fabricate": true,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ADC_CARRIER.brep",
+    "bbox": [
+      221.0,
+      117.0,
+      265.0,
+      262.0,
+      142.0,
+      267.0
+    ],
+    "solids": 1,
+    "faces": 14,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_FIX_223.5_119.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_FIX_223.5_119.5.brep",
+    "bbox": [
+      220.5,
+      116.5,
+      251.0,
+      226.5,
+      122.5,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_N_223.5_119.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_N_223.5_119.5.brep",
+    "bbox": [
+      220.32457351945703,
+      116.75,
+      252.6,
+      226.67542648054294,
+      122.25,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_FIX_259_119.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_FIX_259_119.5.brep",
+    "bbox": [
+      256.0,
+      116.5,
+      251.0,
+      262.0,
+      122.5,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_N_259_119.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_N_259_119.5.brep",
+    "bbox": [
+      255.82457351945706,
+      116.75,
+      252.6,
+      262.17542648054297,
+      122.25,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_FIX_223.5_139.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_FIX_223.5_139.5.brep",
+    "bbox": [
+      220.5,
+      136.5,
+      251.0,
+      226.5,
+      142.5,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_N_223.5_139.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_N_223.5_139.5.brep",
+    "bbox": [
+      220.32457351945703,
+      136.75,
+      252.6,
+      226.67542648054294,
+      142.25,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_FIX_259_139.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3x16; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_FIX_259_139.5.brep",
+    "bbox": [
+      256.0,
+      136.5,
+      251.0,
+      262.0,
+      142.5,
+      269.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_CARRIER_N_259_139.5",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M3 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_CARRIER_N_259_139.5.brep",
+    "bbox": [
+      255.82457351945706,
+      136.75,
+      252.6,
+      262.17542648054297,
+      142.25,
+      255.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_ADC_M2_SPACER_0",
+    "group": "08_FASTENERS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Official2.5mm hole, additionalM2 fastening",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ADC_M2_SPACER_0.brep",
+    "bbox": [
+      226.23999999999998,
+      120.24000000000001,
+      267.0,
+      230.84,
+      124.84,
+      271.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_B_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2x10; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_B_0.brep",
+    "bbox": [
+      226.54,
+      120.54,
+      262.57,
+      230.54,
+      124.54,
+      274.57
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_N_0",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_N_0.brep",
+    "bbox": [
+      226.2305989232415,
+      120.54,
+      263.4,
+      230.84940107675848,
+      124.54,
+      265.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_ADC_M2_SPACER_1",
+    "group": "08_FASTENERS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Official2.5mm hole, additionalM2 fastening",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ADC_M2_SPACER_1.brep",
+    "bbox": [
+      226.23999999999998,
+      132.94,
+      267.0,
+      230.84,
+      137.54000000000002,
+      271.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_B_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2x10; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_B_1.brep",
+    "bbox": [
+      226.54,
+      133.24,
+      262.57,
+      230.54,
+      137.24,
+      274.57
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_N_1",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_N_1.brep",
+    "bbox": [
+      226.2305989232415,
+      133.24,
+      263.4,
+      230.84940107675848,
+      137.24,
+      265.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_ADC_M2_SPACER_2",
+    "group": "08_FASTENERS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Official2.5mm hole, additionalM2 fastening",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ADC_M2_SPACER_2.brep",
+    "bbox": [
+      246.56,
+      120.24000000000001,
+      267.0,
+      251.16000000000003,
+      124.84,
+      271.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_B_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2x10; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_B_2.brep",
+    "bbox": [
+      246.86,
+      120.54,
+      262.57,
+      250.86,
+      124.54,
+      274.57
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_N_2",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_N_2.brep",
+    "bbox": [
+      246.55059892324152,
+      120.54,
+      263.4,
+      251.1694010767585,
+      124.54,
+      265.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_ADC_M2_SPACER_3",
+    "group": "08_FASTENERS",
+    "color": [
+      68,
+      71,
+      79
+    ],
+    "status": "CUSTOM",
+    "note": "Official2.5mm hole, additionalM2 fastening",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_ADC_M2_SPACER_3.brep",
+    "bbox": [
+      246.56,
+      132.94,
+      267.0,
+      251.16000000000003,
+      137.54000000000002,
+      271.0
+    ],
+    "solids": 1,
+    "faces": 4,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_B_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2x10; symbolic head, verify actual tool/head",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_B_3.brep",
+    "bbox": [
+      246.86,
+      133.24,
+      262.57,
+      250.86,
+      137.24,
+      274.57
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "ADC_M2_N_3",
+    "group": "08_FASTENERS",
+    "color": [
+      162,
+      181,
+      193
+    ],
+    "status": "DATASHEET",
+    "note": "M2 nominal thread, no helical detail",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/ADC_M2_N_3.brep",
+    "bbox": [
+      246.55059892324152,
+      133.24,
+      263.4,
+      251.1694010767585,
+      137.24,
+      265.0
+    ],
+    "solids": 1,
+    "faces": 9,
+    "valid": true,
+    "removal_reason": "ADS1115 module is absent from the authoritative purchases; remove carrier, mounting and phantom connector parts"
+  },
+  {
+    "name": "CUSTOM_CABLE_VOLTAGE_SENSE",
+    "group": "09_WIRING",
+    "color": [
+      48,
+      144,
+      192
+    ],
+    "status": "CUSTOM",
+    "note": "Analog <=3.3V after divider; ADS1115 added; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_VOLTAGE_SENSE.brep",
+    "bbox": [
+      207.38929097170467,
+      124.73206950318846,
+      274.2180446243201,
+      234.19292122111884,
+      183.8000001,
+      288.8000001000001
+    ],
+    "solids": 1,
+    "faces": 7,
+    "valid": true,
+    "removal_reason": "Unpurchased ADS1115 support omitted. Voltage acquisition using owned parts remains unresolved; no new module is assumed."
+  },
+  {
+    "name": "CUSTOM_CABLE_ADC_I2C",
+    "group": "09_WIRING",
+    "color": [
+      25,
+      130,
+      90
+    ],
+    "status": "CUSTOM",
+    "note": "3V3,GND,SDA21,SCL22; exact endpoints in WIRING_TABLE; flexible shape is nominal pose",
+    "fabricate": false,
+    "moving": "",
+    "source": "",
+    "brep": "cache/CUSTOM_CABLE_ADC_I2C.brep",
+    "bbox": [
+      132.98033256118788,
+      124.35423684349928,
+      279.15835959253803,
+      273.17572376078357,
+      216.2500001,
+      292.2500001000002
+    ],
+    "solids": 1,
+    "faces": 7,
+    "valid": true,
+    "removal_reason": "Unpurchased ADS1115 support omitted. Voltage acquisition using owned parts remains unresolved; no new module is assumed."
+  }
+]

@@ -1,0 +1,1097 @@
+{
+  "manufacturer_step_sha256": "5623f4aba40f299465756719ec73b9ef6cf0a6151bb10656da6c709e14155c59",
+  "source_url": "https://seengreat.com/upload/file/88/Thermal%20Camera%20HAT-V1.2.zip",
+  "rigid_origin": [
+    309.91148,
+    81.69212767985,
+    245.08437090946
+  ],
+  "x_direction": [
+    0,
+    1,
+    0
+  ],
+  "normal": [
+    1,
+    0,
+    0
+  ],
+  "nodes": [
+    {
+      "name": "OFFICIAL_THERMAL_0000_Solid",
+      "bbox_max_error_mm": 1.4210854715202004e-14,
+      "volume_error_mm3": 1.0231815394945443e-12
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0001_Solid",
+      "bbox_max_error_mm": 5.002220859751105e-12,
+      "volume_error_mm3": 2.3314683517128287e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0002_Solid",
+      "bbox_max_error_mm": 5.002220859751105e-12,
+      "volume_error_mm3": 8.81239525796218e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0003_Solid",
+      "bbox_max_error_mm": 5.002220859751105e-12,
+      "volume_error_mm3": 1.1275702593849246e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0004_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2434443665693129e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0005_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 2.704152684109354e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0006_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 2.2412491784348787e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0007_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 9.88699207682582e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0008_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 6.661914130155072e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0009_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 4.847146040662734e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0010_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 5.717472393966527e-21
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0011_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2636037507139652e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0012_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 8.677852544620307e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0013_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.444720570660616e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0014_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 7.325683028941432e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0015_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2732599263126643e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0016_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 3.189079046412441e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0017_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 8.074341569701618e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0018_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 1.5627757876841841e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0019_Solid",
+      "bbox_max_error_mm": 4.206412995699793e-12,
+      "volume_error_mm3": 3.725250902024413e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0020_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 4.472333961502706e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0021_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 2.3242584072658e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0022_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 3.2475243197729875e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0023_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 5.758553491908361e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0024_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 5.914407554203152e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0025_Solid",
+      "bbox_max_error_mm": 4.149569576838985e-12,
+      "volume_error_mm3": 8.915021769851511e-20
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0026_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 3.62614804719566e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0027_Solid",
+      "bbox_max_error_mm": 4.149569576838985e-12,
+      "volume_error_mm3": 6.109225132071641e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0028_Solid",
+      "bbox_max_error_mm": 4.149569576838985e-12,
+      "volume_error_mm3": 1.590524587036235e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0029_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 7.421914442078993e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0030_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 5.61159327555974e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0031_Solid",
+      "bbox_max_error_mm": 4.177991286269389e-12,
+      "volume_error_mm3": 2.0256792933586593e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0032_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 4.551914400963142e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0033_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 3.913536161803677e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0034_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 2.9976021664879227e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0035_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 1.8687664398798e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0036_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 9.537590986083422e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0037_Solid",
+      "bbox_max_error_mm": 5.9685589803848416e-12,
+      "volume_error_mm3": 9.317362419797304e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0038_Solid",
+      "bbox_max_error_mm": 5.9685589803848416e-12,
+      "volume_error_mm3": 6.996492144320521e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0039_Solid",
+      "bbox_max_error_mm": 5.9685589803848416e-12,
+      "volume_error_mm3": 8.809142651444724e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0040_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 8.915021769851511e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0041_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 3.381779041912794e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0042_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 1.0439681074909252e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0043_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 1.263349640829789e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0044_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 5.874173489208573e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0045_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 2.8354597315927155e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0046_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 1.1316360175317453e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0047_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 3.146727399049726e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0048_Solid",
+      "bbox_max_error_mm": 6.0254023992456496e-12,
+      "volume_error_mm3": 8.633383314889456e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0049_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.0325074129013956e-14
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0050_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 2.7755575615628914e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0051_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 2.942091015256665e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0052_Solid",
+      "bbox_max_error_mm": 2.4584778657299466e-12,
+      "volume_error_mm3": 0.004404125658084013
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0053_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 6.661338147750939e-14
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0054_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 4.263256414560601e-14
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0055_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 9.992007221626409e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0056_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 8.187894806610529e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0057_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.4606371667724716e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0058_Solid",
+      "bbox_max_error_mm": 4.718003765447065e-12,
+      "volume_error_mm3": 2.0599841277224584e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0059_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.665457473476686e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0060_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 5.2693919648690024e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0061_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.0376153603865179e-20
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0062_Solid",
+      "bbox_max_error_mm": 4.774847184307873e-12,
+      "volume_error_mm3": 2.6304608176982297e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0063_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.330032426363983e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0064_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.550896267360542e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0065_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 3.325451350920383e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0066_Solid",
+      "bbox_max_error_mm": 4.774847184307873e-12,
+      "volume_error_mm3": 8.063753657860939e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0067_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 5.1192553749681777e-20
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0068_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.5322487202651391e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0069_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 8.533009910639822e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0070_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.554072640912746e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0071_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.901165450112277e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0072_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.27675647831893e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0073_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 8.187894806610529e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0074_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.5126788710517758e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0075_Solid",
+      "bbox_max_error_mm": 4.718003765447065e-12,
+      "volume_error_mm3": 2.1870390698106035e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0076_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.523155938337964e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0077_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 5.310049546337209e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0078_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.232432938255007e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0079_Solid",
+      "bbox_max_error_mm": 4.774847184307873e-12,
+      "volume_error_mm3": 2.777844550520478e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0080_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.635176045612345e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0081_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.528026377784676e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0082_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 3.2305836608279015e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0083_Solid",
+      "bbox_max_error_mm": 4.774847184307873e-12,
+      "volume_error_mm3": 8.067988822597211e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0084_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 6.138341889633508e-20
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0085_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.5208645974540413e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0086_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 8.533009910639822e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0087_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 4.4619578078988406e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0088_Solid",
+      "bbox_max_error_mm": 4.746425474877469e-12,
+      "volume_error_mm3": 1.9015889665859043e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0089_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 2.6645352591003757e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0090_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 8.673617379884035e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0091_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.141448047192739e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0092_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2451384324638215e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0093_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 3.0112021274890377e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0094_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 2.241672694908506e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0095_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 9.903932735770907e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0096_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 6.971081155902892e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0097_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 4.842910875926462e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0098_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 9.317362419797304e-21
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0099_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2636037507139652e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0100_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 8.652441556202678e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0101_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.461925927401719e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0102_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 7.324327776225825e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0103_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2732599263126643e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0104_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 3.2187251995663413e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0105_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 7.919758056827708e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0106_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 2.275957200481571e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0107_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 8.638922910364499e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0108_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.141448047192739e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0109_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2451384324638215e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0110_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 2.702035101741218e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0111_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 2.2412491784348787e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0112_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 9.891227241562092e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0113_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 6.661914130155072e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0114_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 4.842910875926462e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0115_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 5.717472393966527e-21
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0116_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2636037507139652e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0117_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 8.675734962252171e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0118_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.444985268456633e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0119_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 7.324598826768947e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0120_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 1.2729211131337625e-17
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0121_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 3.1848438816761693e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0122_Solid",
+      "bbox_max_error_mm": 9.208633855450898e-12,
+      "volume_error_mm3": 8.074341569701618e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0123_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 1.1657341758564144e-14
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0124_Solid",
+      "bbox_max_error_mm": 3.950617610826157e-12,
+      "volume_error_mm3": 9.094947017729282e-13
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0125_Solid",
+      "bbox_max_error_mm": 3.950617610826157e-12,
+      "volume_error_mm3": 6.328271240363392e-14
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0126_Solid",
+      "bbox_max_error_mm": 2.3305801732931286e-12,
+      "volume_error_mm3": 1.3192399572758973e-07
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0127_Solid",
+      "bbox_max_error_mm": 2.3590018827235326e-12,
+      "volume_error_mm3": 1.3192399306305447e-07
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0128_Solid",
+      "bbox_max_error_mm": 2.3874235921539366e-12,
+      "volume_error_mm3": 1.3192399306305447e-07
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0129_Solid",
+      "bbox_max_error_mm": 2.3874235921539366e-12,
+      "volume_error_mm3": 1.3192400105666025e-07
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0130_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 4.868745380817718e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0131_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 4.816017579851138e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0132_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.7714918034160707e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0133_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.1350241493207625e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0134_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 6.996492144320521e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0135_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.7363399361050172e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0136_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 9.291951431379675e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0137_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.513277299829011e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0138_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.9180285032910647e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0139_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 3.299616846029127e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0140_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.7810731188505624e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0141_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.2849489809847736e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0142_Solid",
+      "bbox_max_error_mm": 4.831690603168681e-12,
+      "volume_error_mm3": 2.761327408049019e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0143_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 3.1911966287805765e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0144_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 3.6637359812630166e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0145_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 3.191891195797325e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0146_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 6.189493362285248e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0147_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 4.868745380817718e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0148_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 4.816017579851138e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0149_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.7714918034160707e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0150_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.1350241493207625e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0151_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 6.996492144320521e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0152_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.7367634525786444e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0153_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 9.296186596115946e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0154_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.513277299829011e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0155_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.9180285032910647e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0156_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 3.299616846029127e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0157_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.7816152199368052e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0158_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 1.2849489809847736e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0159_Solid",
+      "bbox_max_error_mm": 4.831690603168681e-12,
+      "volume_error_mm3": 2.769797737521562e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0160_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 3.1911966287805765e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0161_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 3.6637359812630166e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0162_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 3.164135620181696e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0163_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 6.189493362285248e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0164_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 4.9398961483870796e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0165_Solid",
+      "bbox_max_error_mm": 5.002220859751105e-12,
+      "volume_error_mm3": 4.816229338087952e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0166_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 2.825701912040346e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0167_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 8.978549240895584e-20
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0168_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 9.266540442962046e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0169_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 2.6753535639027076e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0170_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 9.491004173984435e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0171_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 1.513012602032994e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0172_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 2.6630715861675203e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0173_Solid",
+      "bbox_max_error_mm": 5.002220859751105e-12,
+      "volume_error_mm3": 3.1566800361799638e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0174_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 1.7791757650487128e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0175_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 1.3963338135487141e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0176_Solid",
+      "bbox_max_error_mm": 4.888534022029489e-12,
+      "volume_error_mm3": 2.4267493938835705e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0177_Solid",
+      "bbox_max_error_mm": 4.945377440890297e-12,
+      "volume_error_mm3": 3.139104102524437e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0178_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 3.885780586188048e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0179_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 3.3861802251067274e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0180_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 6.161737786669619e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0181_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.1535812683940586e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0182_Solid",
+      "bbox_max_error_mm": 5.229594535194337e-12,
+      "volume_error_mm3": 3.688828485292478e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0183_Solid",
+      "bbox_max_error_mm": 5.115907697472721e-12,
+      "volume_error_mm3": 3.638853541404474e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0184_Solid",
+      "bbox_max_error_mm": 5.229594535194337e-12,
+      "volume_error_mm3": 1.9888333601530972e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0185_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.922263668027336e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0186_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.375694599749417e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0187_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.96522953103841e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0188_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.3219007933087425e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0189_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 3.754261780467873e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0190_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.4500427999330637e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0191_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.5428196914468728e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0192_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 7.574803889058394e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0193_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.759400524855615e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0194_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.821544353070373e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0195_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 5.329070518200751e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0196_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 2.7478019859472624e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0197_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 1.6930901125533637e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0198_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.1535812683940586e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0199_Solid",
+      "bbox_max_error_mm": 5.229594535194337e-12,
+      "volume_error_mm3": 3.688828485292478e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0200_Solid",
+      "bbox_max_error_mm": 5.115907697472721e-12,
+      "volume_error_mm3": 3.638853541404474e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0201_Solid",
+      "bbox_max_error_mm": 5.229594535194337e-12,
+      "volume_error_mm3": 1.9888333601530972e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0202_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.922263668027336e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0203_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.37527108327579e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0204_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.96522953103841e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0205_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.3219007933087425e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0206_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 3.754261780467873e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0207_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 2.4500427999330637e-19
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0208_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.5428196914468728e-16
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0209_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 7.575015647295208e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0210_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 5.759824041329242e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0211_Solid",
+      "bbox_max_error_mm": 5.172751116333529e-12,
+      "volume_error_mm3": 1.8213325948335593e-18
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0212_Solid",
+      "bbox_max_error_mm": 3.979039320256561e-12,
+      "volume_error_mm3": 5.329070518200751e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0213_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 2.7478019859472624e-15
+    },
+    {
+      "name": "OFFICIAL_THERMAL_0214_Solid",
+      "bbox_max_error_mm": 4.035882739117369e-12,
+      "volume_error_mm3": 1.6930901125533637e-15
+    }
+  ],
+  "result": "All 215 bounds within 0.001 mm; volume errors below 0.01 mm3; existing healed geometry retained"
+}

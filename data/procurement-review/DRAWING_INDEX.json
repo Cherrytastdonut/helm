@@ -1,0 +1,230 @@
+{
+  "revision": "PROCUREMENT_REVIEW_20261001",
+  "guide": "DRAWINGS/HELM_PROCUREMENT_CHANGE_GUIDE_KO.pdf",
+  "guide_pages": 6,
+  "profiles": "DRAWINGS/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf",
+  "profile_pages": 20,
+  "scope": "Verified constant-thickness outlines, not a complete system manufacturing drawing set",
+  "sheets": [
+    {
+      "part": "CUSTOM_BATTERY_PLATE",
+      "page": 1,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_BATTERY_PLATE.dxf",
+      "thickness_mm": 5.000000000000284,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_CHASSIS_PAD_0_1",
+      "page": 2,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_CHASSIS_PAD_0_1.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_CHASSIS_PAD_1_1",
+      "page": 3,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_CHASSIS_PAD_1_1.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_CHASSIS_PAD_2_1",
+      "page": 4,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_CHASSIS_PAD_2_1.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_CHASSIS_PAD_3_1",
+      "page": 5,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_CHASSIS_PAD_3_1.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_FRONT_PANEL",
+      "page": 6,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_FRONT_PANEL.dxf",
+      "thickness_mm": 5.000000200000001,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_LIDAR_BRIDGE",
+      "page": 7,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": true,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_LIDAR_BRIDGE.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_LIDAR_PLATE",
+      "page": 8,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_LIDAR_PLATE.dxf",
+      "thickness_mm": 5.000000000000002,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_BATTERY_STOP_FRONT",
+      "page": 9,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_BATTERY_STOP_FRONT.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_BATTERY_STOP_REAR",
+      "page": 10,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_BATTERY_STOP_REAR.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_BATTERY_STOP_LEFT",
+      "page": 11,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_BATTERY_STOP_LEFT.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_BATTERY_STOP_RIGHT",
+      "page": 12,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_BATTERY_STOP_RIGHT.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_CAMERA_BASE",
+      "page": 13,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_CAMERA_BASE.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_PAN_ARM_LEFT",
+      "page": 14,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_PAN_ARM_LEFT.dxf",
+      "thickness_mm": 5.000000000000007,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_LEFT",
+      "page": 15,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_TILT_CHEEK_LEFT.dxf",
+      "thickness_mm": 5.000000000000007,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_TILT_CHEEK_RIGHT",
+      "page": 16,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_TILT_CHEEK_RIGHT.dxf",
+      "thickness_mm": 5.000000000000313,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_C920_SADDLE",
+      "page": 17,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_C920_SADDLE.dxf",
+      "thickness_mm": 5.000000000000002,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_5V_DISTRIBUTOR",
+      "page": 18,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_5V_DISTRIBUTOR.dxf",
+      "thickness_mm": 1.6,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_PAN_SERVO_MOUNT",
+      "page": 19,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_PAN_SERVO_MOUNT.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    },
+    {
+      "part": "CUSTOM_TILT_SERVO_MOUNT",
+      "page": 20,
+      "scale": 1,
+      "paper": "A3_LANDSCAPE",
+      "rotated_on_paper": false,
+      "dxf": "DXF_REVIEW_ONLY/CUSTOM_TILT_SERVO_MOUNT.dxf",
+      "thickness_mm": 5.0,
+      "vector_flattening_tolerance_mm": 0.015,
+      "manufacturing_release": false
+    }
+  ]
+}

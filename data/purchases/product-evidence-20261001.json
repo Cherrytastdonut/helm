@@ -1,0 +1,141 @@
+{
+  "workbook_sha256": "6f4fa36242b1a7c31eb58829360706380f7872074612723d5fa86c39ca616e67",
+  "purchase_rule": "First CSV left 29; second XLSX 2주차 A20:I83. Comparison sellers are not additional stock.",
+  "captures": [
+    {
+      "purchase": "P2-R25",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A93",
+      "media": "xl/media/image2.png",
+      "image": "assets/purchase-evidence/seengreat-220565.png",
+      "sha256": "8603b0b1ecdc65890cb27051514d2257b09f92b7a9c742cd95b2bfac81c0d025",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R30",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A163",
+      "media": "xl/media/image79.png",
+      "image": "assets/purchase-evidence/ser0063.png",
+      "sha256": "470dcc916dd9cb8748e16949f6232cfed605c3f6bd0126405bf76cc855c2aac3",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R39",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A289",
+      "media": "xl/media/image21.png",
+      "image": "assets/purchase-evidence/bns30.png",
+      "sha256": "105d541cb2ce14738b7bbeb5ff891d8532bde71f248700dee7f16412a041d967",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R42",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A331",
+      "media": "xl/media/image25.png",
+      "image": "assets/purchase-evidence/next-505uhp.png",
+      "sha256": "c00ba4f2d433be144ea3bb6f8835b1ca3eade40563a574faa9dd8f5d398a7495",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R53",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A485",
+      "media": "xl/media/image53.png",
+      "image": "assets/purchase-evidence/fastener-kit.png",
+      "sha256": "4eb02e6b54ed84c1d7ff9d53f2647d2637bdda755db0d68f8990d81e4d1689f3",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R54",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A499",
+      "media": "xl/media/image56.png",
+      "image": "assets/purchase-evidence/naturetool-small.png",
+      "sha256": "68875e966f63a3d0107680a7b41b98d813b8b19ce7a76fa9c933d8f40498c927",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R55",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A513",
+      "media": "xl/media/image37.png",
+      "image": "assets/purchase-evidence/naturetool-medium.png",
+      "sha256": "e4de3c11422008aa0e580ac084587238a06f07649327b7409ad4c3a753499fbb",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R56",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A527",
+      "media": "xl/media/image57.png",
+      "image": "assets/purchase-evidence/m3-spacers.png",
+      "sha256": "b9fd8dce3f7df5553afe5ed9c98f0f0e0ce359eedc64de8d1af58ee240f260c6",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R60",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A583",
+      "media": "xl/media/image105.png",
+      "image": "assets/purchase-evidence/bosch-drills.png",
+      "sha256": "ea288287ec8f651ac70a892b90ba7354332d8a21e43358c203b67ced085b9046",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R75",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A792",
+      "media": "xl/media/image106.png",
+      "image": "assets/purchase-evidence/m4-nyloc.png",
+      "sha256": "6fa92be0ef2cad19688ac738a86e6d13cb9ea792b68c26b64f3ffbf24e556ae6",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R78",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A836",
+      "media": "xl/media/image72.png",
+      "image": "assets/purchase-evidence/mg995-bracket.png",
+      "sha256": "cfef65e7248f5390f197ff11ea324e2fe589d229991e995cedb181c673dba723",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R79",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A850",
+      "media": "xl/media/image123.png",
+      "image": "assets/purchase-evidence/szh-cp003.png",
+      "sha256": "bb6f4d4f848938938a8b8a621cfe4827ce1dc906fc452497068be0aa9072c70d",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    },
+    {
+      "purchase": "P2-R83",
+      "source_sheet": "2회차 비교견적내역",
+      "anchor": "A903",
+      "media": "xl/media/image119.png",
+      "image": "assets/purchase-evidence/c715-512gb.png",
+      "sha256": "dc42dd02c4a3242b222322818e5dc45ab89f9847f0f0292d60daf29c0288ccb8",
+      "review_scope": "Purchase-side seller capture and selected option; not a photo of the delivered unit",
+      "visually_reviewed_in_prior_pass": true
+    }
+  ],
+  "seller_image_urls": {
+    "mg995-detail.jpg": "https://m.intopion.com/data/editor/goods/1/2018/04/3831971_da81f79672957a5ac7e3e796bf39a2df1431195.jpg",
+    "switch-drawing.jpg": "https://www.devicemart.co.kr/data/collect_img/kind_0/goods/detail/1327040_2.jpg",
+    "cp003-structure.jpg": "https://www.devicemart.co.kr/data/upload/12498798/3.jpg"
+  }
+}

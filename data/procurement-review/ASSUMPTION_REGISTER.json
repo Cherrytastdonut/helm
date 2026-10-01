@@ -1,0 +1,2520 @@
+{
+  "revision": "PROCUREMENT_REVIEW_20261001",
+  "scope": "Explicit pending-state nodes only; not certification of all other nominal/DATASHEET/APPROX hardware and not purchase quantities",
+  "pending_node_count": 157,
+  "requests_document": "docs/15-needed-measurements.md",
+  "nodes": [
+    {
+      "name": "APPROX_SMALL_L_0_23_LEFT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        23.0,
+        -10.0,
+        134.3898922198363,
+        39.0,
+        20.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_0_23_RIGHT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        22.999999999999996,
+        173.0,
+        134.3898922198363,
+        39.0,
+        203.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_LEFT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        245.0,
+        -10.0,
+        134.3898922198363,
+        261.0,
+        20.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_RIGHT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        245.0,
+        173.0,
+        134.3898922198363,
+        261.0,
+        203.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_LEFT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        23.0,
+        -10.0,
+        225.0,
+        39.00000000000001,
+        20.0,
+        255.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_RIGHT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        22.999999999999996,
+        173.0,
+        225.0,
+        39.0,
+        203.0,
+        255.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_LEFT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        245.0,
+        -10.0,
+        225.0,
+        261.00000000000165,
+        20.0,
+        255.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_RIGHT",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        245.0,
+        173.0,
+        225.0,
+        261.0,
+        203.0,
+        255.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_MEDIUM_L_0",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool medium; assumed 40x40x30 t2, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        65.0,
+        -10.0,
+        134.3898922198363,
+        95.0,
+        30.0,
+        174.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_MEDIUM_L_1",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool medium; assumed 40x40x30 t2, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        195.0,
+        -10.0,
+        134.3898922198363,
+        225.0,
+        30.0,
+        174.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_MEDIUM_L_2",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool medium; assumed 40x40x30 t2, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        65.0,
+        163.0,
+        134.3898922198363,
+        95.0,
+        203.0,
+        174.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_MEDIUM_L_3",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool medium; assumed 40x40x30 t2, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        195.0,
+        163.0,
+        134.3898922198363,
+        225.0,
+        203.0,
+        174.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_MDD_SPACER_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        134.45689838486223,
+        31.920999999999996,
+        260.0,
+        141.38510161513776,
+        37.921,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_MDD_SPACER_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        134.45689838486223,
+        87.801,
+        260.0,
+        141.38510161513776,
+        93.801,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_MDD_SPACER_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        213.19689838486224,
+        31.920999999999996,
+        260.0,
+        220.12510161513777,
+        37.921,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_MDD_SPACER_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        213.19689838486224,
+        87.801,
+        260.0,
+        220.12510161513777,
+        93.801,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_M2p5_BNO_SPACER_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M2.5 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        190.07589838486223,
+        108.54,
+        260.0,
+        197.00410161513776,
+        114.54,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_M2p5_BNO_SPACER_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M2.5 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        190.07589838486223,
+        126.32,
+        260.0,
+        197.00410161513776,
+        132.32,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_M2p5_BNO_SPACER_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M2.5 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        210.39589838486225,
+        108.54,
+        260.0,
+        217.32410161513778,
+        114.54,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_M2p5_BNO_SPACER_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M2.5 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        210.39589838486225,
+        126.32,
+        260.0,
+        217.32410161513778,
+        132.32,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_JETSON_SPACER_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L6; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        8.535898384862245,
+        24.999999999999996,
+        260.0,
+        15.464101615137755,
+        31.0,
+        266.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_JETSON_SPACER_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L6; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        117.53589838486224,
+        24.999999999999996,
+        260.0,
+        124.46410161513775,
+        31.0,
+        266.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_JETSON_SPACER_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L6; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        8.535898384862245,
+        122.0,
+        260.0,
+        15.464101615137755,
+        128.0,
+        266.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_JETSON_SPACER_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L6; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        117.53589838486224,
+        122.0,
+        260.0,
+        124.46410161513775,
+        128.0,
+        266.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_ES7_12_LID",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        60.0,
+        64.0,
+        227.3898922198363,
+        211.0,
+        129.0,
+        233.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_FDFD_5p5_250",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "Exact latest purchase. Positive FDFD5.5 wire-gauge compatibility must be verified; not silently equated with14AWG.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        47.0,
+        70.5,
+        232.8898922198363,
+        68.0,
+        77.5,
+        239.8898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_FDFD_2_250",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "Exact latest purchase. Positive FDFD5.5 wire-gauge compatibility must be verified; not silently equated with14AWG.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        47.0,
+        115.5,
+        232.8898922198363,
+        68.0,
+        122.5,
+        239.8898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_STRAP_BUCKLE_0",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        78.0,
+        134.0,
+        189.3898922198363,
+        106.0,
+        139.0,
+        216.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_STRAP_BUCKLE_1",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        164.0,
+        134.0,
+        189.3898922198363,
+        192.0,
+        139.0,
+        216.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_BUCK_STANDOFF_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        187.53589838486224,
+        143.0,
+        260.0,
+        194.46410161513776,
+        149.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_BUCK_STANDOFF_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        187.53589838486224,
+        165.0,
+        260.0,
+        194.46410161513776,
+        171.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_BUCK_STANDOFF_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        244.53589838486224,
+        143.0,
+        260.0,
+        251.46410161513776,
+        149.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_BUCK_STANDOFF_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        244.53589838486224,
+        165.0,
+        260.0,
+        251.46410161513776,
+        171.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_BUCK_CAP_200",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        199.0,
+        155.0,
+        271.6,
+        207.0,
+        163.0,
+        282.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_BUCK_CAP_244",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        240.0,
+        155.0,
+        271.6,
+        248.0,
+        163.0,
+        282.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_IN_SCREW_0",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        189.06,
+        145.6,
+        279.1,
+        191.86,
+        148.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_IN_SCREW_1",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        194.14,
+        145.6,
+        279.1,
+        196.94,
+        148.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_IN",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        187.92,
+        143.0,
+        271.6,
+        198.07999999999998,
+        151.0,
+        279.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_OUT_SCREW_0",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        242.06,
+        145.6,
+        279.1,
+        244.86,
+        148.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_OUT_SCREW_1",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        247.14,
+        145.6,
+        279.1,
+        249.94,
+        148.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BUCK_OUT",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        240.92,
+        143.0,
+        271.6,
+        251.07999999999998,
+        151.0,
+        279.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_HUB_USB_A_0",
+      "group": "04_COMPUTE",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        37.15,
+        163.1,
+        288.5,
+        49.349999999999994,
+        167.9,
+        291.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_HUB_USB_A_1",
+      "group": "04_COMPUTE",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        58.15,
+        163.1,
+        288.5,
+        70.35,
+        167.9,
+        291.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_HUB_USB_A_2",
+      "group": "04_COMPUTE",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        79.15,
+        163.1,
+        288.5,
+        91.35000000000001,
+        167.9,
+        291.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_HUB_USB_A_3",
+      "group": "04_COMPUTE",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        100.15,
+        163.1,
+        288.5,
+        112.35000000000001,
+        167.9,
+        291.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_BATTERY_VOLTAGE_DIVIDER",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "Purchased outline basis; free component contours and mounting pattern recorded separately",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        182.0,
+        174.0,
+        270.0,
+        209.0,
+        189.0,
+        271.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_DIVIDER_STANDOFF_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        180.53589838486224,
+        173.0,
+        260.0,
+        187.46410161513776,
+        179.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_DIVIDER_STANDOFF_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        203.53589838486224,
+        173.0,
+        260.0,
+        210.46410161513776,
+        179.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_DIVIDER_STANDOFF_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        180.53589838486224,
+        184.0,
+        260.0,
+        187.46410161513776,
+        190.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "M3_DIVIDER_STANDOFF_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        203.53589838486224,
+        184.0,
+        260.0,
+        210.46410161513776,
+        190.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DIVIDER_IN_SCREW_0",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        184.06,
+        176.6,
+        279.1,
+        186.86,
+        179.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DIVIDER_IN_SCREW_1",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        189.14,
+        176.6,
+        279.1,
+        191.94,
+        179.4,
+        280.1
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DIVIDER_IN",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        182.92,
+        174.0,
+        271.6,
+        193.07999999999998,
+        182.0,
+        279.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BOOST_GROMMET_IN_POS",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        143.0,
+        162.0,
+        226.0,
+        147.0,
+        166.0,
+        229.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BOOST_GROMMET_IN_NEG",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        152.0,
+        162.0,
+        226.0,
+        156.0,
+        166.0,
+        229.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BOOST_GROMMET_OUT_POS",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        192.0,
+        162.0,
+        226.0,
+        196.0,
+        166.0,
+        229.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "BOOST_GROMMET_OUT_NEG",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        201.0,
+        162.0,
+        226.0,
+        205.0,
+        166.0,
+        229.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FUSEBLOCK_COVER",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        222.5,
+        53.0,
+        190.0,
+        275.5,
+        139.0,
+        222.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_RELAY_12V40A",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        231.0,
+        14.0,
+        173.0,
+        259.0,
+        42.0,
+        200.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_RELAY_SOCKET",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        228.0,
+        12.0,
+        164.0,
+        262.0,
+        44.0,
+        173.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_MAIN_ROCKER",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        255.0,
+        -17.0,
+        220.0,
+        275.0,
+        -10.0,
+        240.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_760K_RING",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        17.25,
+        24.076874999999998,
+        278.720021523366,
+        27.75,
+        30.376875,
+        289.220021523366
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_BOOST_M3_POST_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 11.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        133.0,
+        154.0,
+        134.3898922198363,
+        139.0,
+        160.0,
+        146.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_BOOST_M3_POST_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 11.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        209.0,
+        154.0,
+        134.3898922198363,
+        215.0,
+        160.0,
+        146.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_BOOST_M3_POST_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 11.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        133.0,
+        181.0,
+        134.3898922198363,
+        139.0,
+        187.0,
+        146.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_BOOST_M3_POST_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 11.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        209.0,
+        181.0,
+        134.3898922198363,
+        215.0,
+        187.0,
+        146.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_FUSEBLOCK_M3_POST_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 40.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        225.0,
+        51.0,
+        134.3898922198363,
+        231.0,
+        57.0,
+        175.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_FUSEBLOCK_M3_POST_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 40.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        267.0,
+        51.0,
+        134.3898922198363,
+        273.0,
+        57.0,
+        175.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_FUSEBLOCK_M3_POST_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 40.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        225.0,
+        135.0,
+        134.3898922198363,
+        231.0,
+        141.0,
+        175.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_FUSEBLOCK_M3_POST_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Custom-length insulating spacer 40.610; add-required if kit cannot stack to length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        267.0,
+        135.0,
+        134.3898922198363,
+        273.0,
+        141.0,
+        175.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_0",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        40.0,
+        10.0,
+        134.3898922198363,
+        56.0,
+        40.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_1",
+      "group": "01_FRAME",
+      "status": "PHOTO_ESTIMATE",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        169.0,
+        10.0,
+        134.3898922198363,
+        185.0,
+        40.0,
+        164.3898922198363
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "FUSE_SHELF_0_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L75.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        52.0,
+        15.0,
+        134.3898922198363,
+        58.0,
+        21.0,
+        210.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "FUSE_SHELF_1_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L75.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        174.0,
+        15.0,
+        134.3898922198363,
+        180.0,
+        21.0,
+        210.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "FUSE_SHELF_2_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L75.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        52.0,
+        42.0,
+        134.3898922198363,
+        58.0,
+        48.0,
+        210.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "FUSE_SHELF_3_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L75.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        174.0,
+        42.0,
+        134.3898922198363,
+        180.0,
+        48.0,
+        210.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "RELAY_TRAY_0_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L39.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        224.0,
+        10.0,
+        134.3898922198363,
+        230.0,
+        16.0,
+        159.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "RELAY_TRAY_1_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L39.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        260.0,
+        10.0,
+        134.3898922198363,
+        266.0,
+        16.0,
+        159.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "RELAY_TRAY_2_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L39.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        224.0,
+        42.0,
+        134.3898922198363,
+        230.0,
+        48.0,
+        159.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "RELAY_TRAY_3_SPACER",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "Sleeve or spacer stack L39.610, additional when absent from kit",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        260.0,
+        42.0,
+        134.3898922198363,
+        266.0,
+        48.0,
+        159.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_CAM_L_LEFT",
+      "group": "01_FRAME",
+      "status": "MODIFIED_STOCK_BRACKET",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement; trim to final STEP clearance profile; verify stock bracket and support; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        215.0,
+        32.7150566272343,
+        327.38,
+        231.0,
+        62.715056627234304,
+        357.38
+      ],
+      "fabricate": true
+    },
+    {
+      "name": "APPROX_CAM_L_RIGHT",
+      "group": "01_FRAME",
+      "status": "MODIFIED_STOCK_BRACKET",
+      "note": "NatureTool small; assumed 30x30x16 t1.5, stock hole pattern requires measurement; trim to final STEP clearance profile; verify stock bracket and support; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        215.0,
+        135.715056627234,
+        327.38,
+        231.00000000000006,
+        165.7150566272343,
+        357.38
+      ],
+      "fabricate": true
+    },
+    {
+      "name": "LIDAR_SP_45",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L3; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        157.3651070340174,
+        114.57470667223745,
+        404.0,
+        164.29331026429293,
+        120.57470667223745,
+        407.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "LIDAR_SP_135",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L3; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        115.6458069440111,
+        114.57470667223745,
+        404.0,
+        122.57401017428661,
+        120.57470667223745,
+        407.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "LIDAR_SP_225",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L3; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        115.6458069440111,
+        72.85540658223115,
+        404.0,
+        122.57401017428661,
+        78.85540658223115,
+        407.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "LIDAR_SP_315",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L3; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        157.3651070340174,
+        72.85540658223115,
+        404.0,
+        164.29331026429293,
+        78.85540658223115,
+        407.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_A2M12_WINDOW",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        103.46955860415201,
+        60.215056627234304,
+        434.5,
+        176.469558604152,
+        133.2150566272343,
+        441.5
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_FRONT_GUIDE_ROD_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        291.939117108304,
+        38.55462481598308,
+        81.9999999,
+        319.93911730830405,
+        46.55462501598309,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_FRONT_RETURN_SPRING_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        299.7141171083038,
+        39.72961636745363,
+        83.17499145147053,
+        308.164117308304,
+        45.37963346451257,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_FRONT_GUIDE_ROD_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        291.939117108304,
+        146.8754882384855,
+        81.9999999,
+        319.93911730830405,
+        154.87548843848552,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_FRONT_RETURN_SPRING_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        299.7141171083038,
+        148.050479789956,
+        83.17499145147053,
+        308.164117308304,
+        153.700496887015,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_FRONT_V_J166_BODY",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        299.93911710830395,
+        82.21505652723431,
+        60.9999999,
+        309.9391173083041,
+        111.2150567272343,
+        77.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FRONT_V_J166_LEVER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        302.939117108304,
+        87.71505652723431,
+        76.87525288550935,
+        303.94182925037984,
+        107.7150567272343,
+        78.9562953014676
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FRONT_V_J166_ROLLER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        308.939117108304,
+        102.7150565272343,
+        77.4999999,
+        311.93911730830405,
+        106.71505672723431,
+        80.5000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_REAR_GUIDE_ROD_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -40.00000010000001,
+        146.8754882384855,
+        81.9999999,
+        -11.999999899999999,
+        154.87548843848552,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_REAR_RETURN_SPRING_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -28.225000099999995,
+        148.05047978995597,
+        83.17499145147053,
+        -19.774999899999983,
+        153.700496887015,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_REAR_GUIDE_ROD_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -40.00000010000001,
+        38.55462481598308,
+        81.9999999,
+        -11.999999899999999,
+        46.5546250159831,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_REAR_RETURN_SPRING_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -28.225000099999995,
+        39.729616367453644,
+        83.17499145147053,
+        -19.774999899999983,
+        45.37963346451258,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_REAR_V_J166_BODY",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -30.00000010000001,
+        82.21505652723431,
+        60.9999999,
+        -19.99999989999999,
+        111.2150567272343,
+        77.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_REAR_V_J166_LEVER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -24.002712042075807,
+        85.71505652723431,
+        76.87525288550935,
+        -22.9999999,
+        105.7150567272343,
+        78.9562953014676
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_REAR_V_J166_ROLLER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -32.0000001,
+        86.7150565272343,
+        77.4999999,
+        -28.9999999,
+        90.71505672723431,
+        80.5000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_LEFT_GUIDE_ROD_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        57.58660568582687,
+        -40.00000010000001,
+        81.9999999,
+        65.58660588582687,
+        -11.999999899999999,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_LEFT_RETURN_SPRING_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        58.761597237297345,
+        -28.225000099999995,
+        83.17499145147053,
+        64.41161433435636,
+        -19.774999899999983,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_LEFT_GUIDE_ROD_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        214.35251132247714,
+        -40.00000010000001,
+        81.9999999,
+        222.35251152247713,
+        -11.999999899999999,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_LEFT_RETURN_SPRING_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        215.5275028739474,
+        -28.225000099999995,
+        83.17499145147053,
+        221.17751997100683,
+        -19.774999899999983,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_LEFT_V_J166_BODY",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        125.46955850415202,
+        -30.00000010000001,
+        60.9999999,
+        154.469558704152,
+        -19.99999989999999,
+        77.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_LEFT_V_J166_LEVER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        130.96955850415202,
+        -24.002712042075807,
+        76.87525288550935,
+        150.969558704152,
+        -22.9999999,
+        78.9562953014676
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_LEFT_V_J166_ROLLER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        145.969558504152,
+        -32.0000001,
+        77.4999999,
+        149.96955870415204,
+        -28.9999999,
+        80.5000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_RIGHT_GUIDE_ROD_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        214.35251132247714,
+        205.4301131544686,
+        81.9999999,
+        222.35251152247716,
+        233.43011335446863,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_RIGHT_RETURN_SPRING_0",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        215.52750287394772,
+        213.2051131544686,
+        83.17499145147053,
+        221.1775199710067,
+        221.6551133544686,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "DRAWING_BASED_RIGHT_GUIDE_ROD_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        57.586605685826875,
+        205.4301131544686,
+        81.9999999,
+        65.58660588582687,
+        233.43011335446863,
+        90.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_RIGHT_RETURN_SPRING_1",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        58.7615972372974,
+        213.2051131544686,
+        83.17499145147053,
+        64.4116143343563,
+        221.6551133544686,
+        88.82500854852951
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "APPROX_RIGHT_V_J166_BODY",
+      "group": "06_SENSORS",
+      "status": "ASSUMED",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        125.46955850415202,
+        213.4301131544686,
+        60.9999999,
+        154.469558704152,
+        223.43011335446866,
+        77.0000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_RIGHT_V_J166_LEVER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        128.96955850415202,
+        216.43011315446861,
+        76.87525288550935,
+        148.969558704152,
+        217.4328252965444,
+        78.9562953014676
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_RIGHT_V_J166_ROLLER",
+      "group": "06_SENSORS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        129.969558504152,
+        222.43011315446861,
+        77.4999999,
+        133.969558704152,
+        225.43011335446863,
+        80.5000001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_0",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        218.17858785063194,
+        74.7150565272343,
+        343.37953935995495,
+        279.75022540388096,
+        118.78489816621736,
+        365.12953945995497
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_1",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        261.52022530387995,
+        81.17691784074029,
+        345.37953935995995,
+        268.5802253038799,
+        112.34211784074031,
+        352.4395393599599
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_2",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        216.50022530387994,
+        81.1769178407403,
+        351.37953936,
+        222.50022530387994,
+        112.34211784074031,
+        357.37953936
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_3",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        252.80022530388095,
+        74.80393044415828,
+        345.37953935996,
+        273.460225303881,
+        118.71503044415829,
+        356.279539359955
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_4",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        220.50022530388094,
+        74.80393044415828,
+        345.3795393599549,
+        269.35022530388096,
+        118.7150566272343,
+        356.279539359955
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_5",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        284.5002253038809,
+        66.2453091723503,
+        362.3790732321158,
+        285.01022540388095,
+        127.24530937235029,
+        386.56584667700497
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "COMMUNITY_C920_6",
+      "group": "07_CAMERA_SYSTEM",
+      "status": "COMMUNITY_CAD",
+      "note": "Downloaded third-party CAD; not manufacturer-certified. Rigid placement only.; Camera frame raised +24.38 mm for supplied SER0063 body; review revision",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        261.0002252038809,
+        49.7217744397963,
+        360.8795392594692,
+        285.00022540399357,
+        143.70833881467232,
+        387.879539460441
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ADAPTED_ESP32_38PIN_0",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ADAPTED_COMMUNITY_CAD",
+      "note": "USB-C clone manufacturer and exact PCB dimensions absent. 49.53x26.67 PCB from community; physical sample must be checked.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        155.16,
+        128.0,
+        271.65,
+        171.16,
+        144.0,
+        273.15000010000006
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ADAPTED_ESP32_38PIN_1",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ADAPTED_COMMUNITY_CAD",
+      "note": "USB-C clone manufacturer and exact PCB dimensions absent. 49.53x26.67 PCB from community; physical sample must be checked.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        139.34,
+        132.5,
+        271.65,
+        146.34,
+        139.5,
+        273.1500001
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ADAPTED_ESP32_38PIN_2",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ADAPTED_COMMUNITY_CAD",
+      "note": "USB-C clone manufacturer and exact PCB dimensions absent. 49.53x26.67 PCB from community; physical sample must be checked.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        128.86999999999995,
+        146.16,
+        261.60999999999757,
+        177.13,
+        148.7,
+        273.1500000000024
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ADAPTED_ESP32_38PIN_4",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ADAPTED_COMMUNITY_CAD",
+      "note": "USB-C clone manufacturer and exact PCB dimensions absent. 49.53x26.67 PCB from community; physical sample must be checked.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        128.86999999999995,
+        123.3,
+        261.60999999999757,
+        177.12999999999994,
+        125.84000000000003,
+        273.1500000000024
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ADAPTED_ESP32_38PIN_5",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ADAPTED_COMMUNITY_CAD",
+      "note": "USB-C clone manufacturer and exact PCB dimensions absent. 49.53x26.67 PCB from community; physical sample must be checked.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        128.23499999999999,
+        122.66499999999999,
+        270.0,
+        177.76500000000001,
+        149.335,
+        271.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_0_0",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        53.0,
+        20.0,
+        216.4,
+        53.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_0_1",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        56.0,
+        20.0,
+        216.4,
+        56.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_0_2",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        59.0,
+        20.0,
+        216.4,
+        59.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_0_3",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        62.0,
+        20.0,
+        216.4,
+        62.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_37_0",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        90.0,
+        20.0,
+        216.4,
+        90.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_37_1",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        93.0,
+        20.0,
+        216.4,
+        93.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_37_2",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        96.0,
+        20.0,
+        216.4,
+        96.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_0_37_3",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        99.0,
+        20.0,
+        216.4,
+        99.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_0_0",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        119.0,
+        20.0,
+        216.4,
+        119.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_0_1",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        122.0,
+        20.0,
+        216.4,
+        122.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_0_2",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        125.0,
+        20.0,
+        216.4,
+        125.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_0_3",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        128.0,
+        20.0,
+        216.4,
+        128.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_37_0",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        156.0,
+        20.0,
+        216.4,
+        156.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_37_1",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        159.0,
+        20.0,
+        216.4,
+        159.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_37_2",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        162.0,
+        20.0,
+        216.4,
+        162.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_FHAC_RIB_1_37_3",
+      "group": "03_POWER_SYSTEM",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        165.0,
+        20.0,
+        216.4,
+        165.7,
+        29.200000000000003,
+        225.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_SPEAKER_CONE_138",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -41.0,
+        124.0,
+        186.0,
+        -37.0,
+        152.0,
+        214.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_SPEAKER_CONE_182",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -41.0,
+        168.0,
+        186.0,
+        -37.0,
+        196.0,
+        214.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_USB_SPEAKER_HOUSING",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "96x30x48 historical reference envelope. Integrated BOM says generic USB speaker; actual purchase SKU must be confirmed.",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        -43.0,
+        112.0,
+        176.0,
+        -13.0,
+        208.0,
+        224.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_EK366_SHIELDED_INDUCTOR",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "Component placement from purchased seller photo, not manufacturer PCB CAD",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        210.0,
+        151.0,
+        271.6,
+        224.0,
+        164.0,
+        279.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "PHOTO_BASED_EK366_DC_JACK",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "PHOTO_ESTIMATE",
+      "note": "",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        188.0,
+        158.0,
+        271.6,
+        198.0,
+        167.0,
+        281.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "CUSTOM_ENCODER_LEVEL_INTERFACE",
+      "group": "05_CONTROL_ELECTRONICS",
+      "status": "ASSUMED",
+      "note": "Purchased outline basis; free component contours and mounting pattern recorded separately",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        166.0,
+        100.0,
+        270.0,
+        190.0,
+        116.0,
+        271.6
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ENC_LEVEL_STANDOFF_0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        164.53589838486224,
+        99.0,
+        260.0,
+        171.46410161513776,
+        105.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ENC_LEVEL_STANDOFF_1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        184.53589838486224,
+        99.0,
+        260.0,
+        191.46410161513776,
+        105.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ENC_LEVEL_STANDOFF_2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        164.53589838486224,
+        111.0,
+        260.0,
+        171.46410161513776,
+        117.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "ENC_LEVEL_STANDOFF_3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        184.53589838486224,
+        111.0,
+        260.0,
+        191.46410161513776,
+        117.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "D5_SP0",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        228.53589838486224,
+        186.0,
+        260.0,
+        235.46410161513776,
+        192.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "D5_SP1",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        260.5358983848622,
+        186.0,
+        260.0,
+        267.4641016151378,
+        192.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "D5_SP2",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        228.53589838486224,
+        198.0,
+        260.0,
+        235.46410161513776,
+        204.0,
+        270.0
+      ],
+      "fabricate": false
+    },
+    {
+      "name": "D5_SP3",
+      "group": "08_FASTENERS",
+      "status": "ASSUMED",
+      "note": "M3 spacer L10; verify stock kit length",
+      "procurement_state": "DETAIL_OR_STOCK_CONFIRMATION_PENDING",
+      "bbox": [
+        260.5358983848622,
+        198.0,
+        260.0,
+        267.4641016151378,
+        204.0,
+        270.0
+      ],
+      "fabricate": false
+    }
+  ]
+}

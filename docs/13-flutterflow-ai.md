@@ -6,7 +6,8 @@
 HELM 로봇의 제작 준비와 점검 기록을 확인하는 한국어 앱 화면을 설계해 주세요.
 
 프로젝트의 확인된 상태:
-- 현재 CAD는 SER0063 모터 교체 검토본이며 제조 승인본이 아닙니다.
+- 현재 CAD는 PROCUREMENT_REVIEW_20261001, 4,078개 노드의 구매품 반영 검토본이며 제조 승인본이 아닙니다.
+- C715 2280·CP003 외곽·전원판을 반영했고 미구매 ADC 받침을 제거했습니다. 카메라 간섭 15쌍이 남습니다.
 - 1차 구매는 이전 CSV의 29품목, 2차 구매는 새 XLSX 2주차의 64행입니다.
 - 보유 부품만 사용합니다. 2차 품목 전부 장착은 요구사항이 아닙니다.
 - 판재는 5T 포맥스 600×900 mm 2장입니다. 합판으로 표시하지 마세요.
@@ -16,7 +17,7 @@ HELM 로봇의 제작 준비와 점검 기록을 확인하는 한국어 앱 화�
 만들 화면:
 1. 홈: 현재 리비전, 제작 승인 여부, 남은 작업, CAD 미리보기, 도면 바로가기.
 2. 보유 부품: 1차/2차, 원본 행 번호, 모델, 수량, 적용 여부, 실측 여부, 근거 링크.
-3. CAD·도면: V13 기준본과 SER0063 검토본을 구분해 PDF/STEP/DXF/ZIP 안내 표시.
+3. CAD·도면: 최신 구매품 반영본과 과거 V13/SER0063 검토본을 구분해 PDF/STEP/DXF/ZIP 안내 표시.
 4. 제작 준비: 실측→CAD 수정→간섭·배선 검증→재단도 확정→가조립 순서와 확인 기록.
 5. 미해결 항목: 혼·브래킷, 기존 체결부 간섭, 실제 부품 대조, 전원·배선.
 6. 조립·시험 기록: 날짜, 리비전, 측정값, 사진, 결과, 후속 조치.
@@ -39,6 +40,8 @@ docs/00-status.md
 docs/02-parts.md
 docs/10-open-items.md
 docs/11-artifacts.md
+docs/14-product-photo-review.md
+docs/15-needed-measurements.md
 records/hardware-measurements-template.md
 records/build-and-commissioning-template.md
 

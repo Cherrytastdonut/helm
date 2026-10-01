@@ -1,0 +1,779 @@
+[
+  {
+    "name": "BAT_RETURN",
+    "from_port": "BAT_NEG",
+    "to_port": "BUS_NEG0",
+    "signal": "14AWG ground",
+    "od_mm": 2.8,
+    "points": [
+      [
+        47.0,
+        119.0,
+        236.3898922198363
+      ],
+      [
+        22.0,
+        119.0,
+        236.4
+      ],
+      [
+        22.0,
+        47.0,
+        236.4
+      ],
+      [
+        43.0,
+        47.0,
+        185.5
+      ],
+      [
+        78.0,
+        47.0,
+        185.5
+      ],
+      [
+        78.0,
+        21.0,
+        185.5
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 195.41618019726172,
+    "min_bend_radius_mm": 10.750000878638057,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "MAIN_BUS",
+    "from_port": "ROCKER_OUT",
+    "to_port": "BUS_POS0",
+    "signal": "14AWG switched12V",
+    "od_mm": 2.8,
+    "points": [
+      [
+        268,
+        -7,
+        230
+      ],
+      [
+        268,
+        -28,
+        230
+      ],
+      [
+        320,
+        -28,
+        230
+      ],
+      [
+        320,
+        35,
+        146
+      ],
+      [
+        78,
+        35,
+        146
+      ],
+      [
+        78.0,
+        21.0,
+        156.5
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "GEOMETRIC_ROUTE; electrical pinout and stock length not certified",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 427.88583772020576,
+    "min_bend_radius_mm": 5.6,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "MAIN_LED_RETURN",
+    "from_port": "ROCKER_GND",
+    "to_port": "BUS_NEG1",
+    "signal": "22AWG LED return",
+    "od_mm": 1.6,
+    "points": [
+      [
+        274.0,
+        -7.0,
+        230.0
+      ],
+      [
+        274.0,
+        -33.0,
+        230.0
+      ],
+      [
+        325.0,
+        -33.0,
+        230.0
+      ],
+      [
+        325.0,
+        47.0,
+        185.5
+      ],
+      [
+        91.0,
+        47.0,
+        185.5
+      ],
+      [
+        91.0,
+        21.0,
+        185.5
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 414.8091878663833,
+    "min_bend_radius_mm": 8.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "MOTOR_BRANCH_FUSE",
+    "from_port": "BUS_POS1",
+    "to_port": "INLINE1_IN",
+    "signal": "14AWG motor branch fuse",
+    "od_mm": 2.8,
+    "points": [
+      [
+        91.0,
+        21.0,
+        156.5
+      ],
+      [
+        119.0,
+        24.6,
+        221.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 70.40745699142954,
+    "min_bend_radius_mm": null,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "MOTOR_RETURN",
+    "from_port": "BUS_NEG2",
+    "to_port": "MDD_NEG",
+    "signal": "14AWG motor return",
+    "od_mm": 2.8,
+    "points": [
+      [
+        104.0,
+        21.0,
+        185.5
+      ],
+      [
+        104,
+        35,
+        200
+      ],
+      [
+        15,
+        35,
+        240
+      ],
+      [
+        15,
+        -30,
+        240
+      ],
+      [
+        125,
+        -30,
+        280
+      ],
+      [
+        125,
+        65.4,
+        280
+      ],
+      [
+        137.63,
+        65.4,
+        275.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "GEOMETRIC_ROUTE; electrical pinout and stock length not certified",
+    "from_status": "APPROX_POSITION",
+    "to_status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "length_mm": 398.0032551530283,
+    "min_bend_radius_mm": 5.6,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "COIL_FEED",
+    "from_port": "BUS_POS2",
+    "to_port": "ESTOP_IN",
+    "signal": "22AWG coil feed through NC E-stop",
+    "od_mm": 1.6,
+    "points": [
+      [
+        104.0,
+        21.0,
+        156.5
+      ],
+      [
+        104.0,
+        43.0,
+        156.5
+      ],
+      [
+        210.0,
+        43.0,
+        156.5
+      ],
+      [
+        220.0,
+        16.0,
+        220.0
+      ],
+      [
+        240.0,
+        16.0,
+        220.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "VERIFY_NATIVE_CONTACT_MARKINGS",
+    "length_mm": 209.42228856467736,
+    "min_bend_radius_mm": 8.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "COIL_RETURN",
+    "from_port": "RELAY_85",
+    "to_port": "BUS_NEG3",
+    "signal": "22AWG coil85 return",
+    "od_mm": 1.6,
+    "points": [
+      [
+        235.0,
+        36.0,
+        164.0
+      ],
+      [
+        117.0,
+        36.0,
+        166.0
+      ],
+      [
+        117.0,
+        21.0,
+        185.5
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "VERIFY_SOCKET_PIN_MARKINGS",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 139.29117928985326,
+    "min_bend_radius_mm": 8.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "FUSE_INPUT_BOOST",
+    "from_port": "BUS_POS3",
+    "to_port": "FUSE_IN0",
+    "signal": "14AWG fused distribution input",
+    "od_mm": 2.8,
+    "points": [
+      [
+        117.0,
+        21.0,
+        156.5
+      ],
+      [
+        220.0,
+        35.0,
+        156.5
+      ],
+      [
+        222.5,
+        66.0,
+        188.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 144.02713135641312,
+    "min_bend_radius_mm": 14.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "FUSE_INPUT_BUCK",
+    "from_port": "BUS_POS4",
+    "to_port": "FUSE_IN1",
+    "signal": "14AWG fused distribution input",
+    "od_mm": 2.8,
+    "points": [
+      [
+        130.0,
+        21.0,
+        156.5
+      ],
+      [
+        220.0,
+        35.0,
+        156.5
+      ],
+      [
+        222.5,
+        86.0,
+        188.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 147.112925829436,
+    "min_bend_radius_mm": 14.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "FUSE_INPUT_AUX",
+    "from_port": "BUS_POS5",
+    "to_port": "FUSE_IN2",
+    "signal": "14AWG fused distribution input",
+    "od_mm": 2.8,
+    "points": [
+      [
+        143.0,
+        21.0,
+        156.5
+      ],
+      [
+        220.0,
+        35.0,
+        156.5
+      ],
+      [
+        222.5,
+        106.0,
+        188.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 152.23975518868716,
+    "min_bend_radius_mm": 14.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "FUSE_INPUT_SPARE",
+    "from_port": "BUS_POS6",
+    "to_port": "FUSE_IN3",
+    "signal": "14AWG fused distribution input",
+    "od_mm": 2.8,
+    "points": [
+      [
+        156.0,
+        21.0,
+        156.5
+      ],
+      [
+        220.0,
+        35.0,
+        156.5
+      ],
+      [
+        222.5,
+        126.0,
+        188.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 158.40659544286848,
+    "min_bend_radius_mm": 14.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "BOOST_RETURN",
+    "from_port": "BUS_NEG4",
+    "to_port": "BOOST_IN_NEG",
+    "signal": "14AWG boost return",
+    "od_mm": 2.8,
+    "points": [
+      [
+        130.0,
+        21.0,
+        185.5
+      ],
+      [
+        130,
+        35,
+        185.5
+      ],
+      [
+        185,
+        35,
+        185.5
+      ],
+      [
+        185,
+        35,
+        245
+      ],
+      [
+        154,
+        145,
+        245
+      ],
+      [
+        154,
+        164,
+        229
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "GEOMETRIC_ROUTE; electrical pinout and stock length not certified",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 260.21072640123646,
+    "min_bend_radius_mm": 5.6,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "BUCK_RETURN",
+    "from_port": "BUS_NEG5",
+    "to_port": "BUCK_IN_NEG",
+    "signal": "14AWG buck return",
+    "od_mm": 2.8,
+    "points": [
+      [
+        143.0,
+        21.0,
+        185.5
+      ],
+      [
+        143,
+        44,
+        185.5
+      ],
+      [
+        20,
+        44,
+        244
+      ],
+      [
+        20,
+        216,
+        244
+      ],
+      [
+        180,
+        216,
+        294
+      ],
+      [
+        180,
+        130,
+        294
+      ],
+      [
+        195.54,
+        130,
+        274.6
+      ],
+      [
+        195.54,
+        143.0,
+        274.6
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "GEOMETRIC_ROUTE; electrical pinout and stock length not certified",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 608.273189143643,
+    "min_bend_radius_mm": 5.590000000000001,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "VOLTAGE_POS",
+    "from_port": "BUS_POS6",
+    "to_port": "DIVIDER_POS",
+    "signal": "Voltage measurement positive through auxiliary fuse required",
+    "od_mm": 1.6,
+    "points": [
+      [
+        156.0,
+        21.0,
+        156.5
+      ],
+      [
+        156.0,
+        45.0,
+        156.5
+      ],
+      [
+        12.0,
+        45.0,
+        246.0
+      ],
+      [
+        12.0,
+        220.0,
+        246.0
+      ],
+      [
+        185.46,
+        220.0,
+        274.6
+      ],
+      [
+        185.46,
+        174.0,
+        274.6
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 576.6146405252009,
+    "min_bend_radius_mm": 8.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "VOLTAGE_NEG",
+    "from_port": "BUS_NEG6",
+    "to_port": "DIVIDER_NEG",
+    "signal": "Sense ground",
+    "od_mm": 1.6,
+    "points": [
+      [
+        156.0,
+        21.0,
+        185.5
+      ],
+      [
+        156.0,
+        48.0,
+        185.5
+      ],
+      [
+        18.0,
+        48.0,
+        246.0
+      ],
+      [
+        18.0,
+        223.0,
+        246.0
+      ],
+      [
+        190.54,
+        223.0,
+        274.6
+      ],
+      [
+        190.54,
+        174.0,
+        274.6
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 562.8390645787506,
+    "min_bend_radius_mm": 8.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Old busbar endpoint removed. CP003 internal grouping and input 2/output 8 capacity must be resolved before assigning the old logical branches."
+  },
+  {
+    "name": "THERMAL_I2C",
+    "from_port": "MCU_SDA",
+    "to_port": "THERMAL_I2C",
+    "signal": "4core3V3/GND/I2C GPIO21/22",
+    "od_mm": 3,
+    "points": [
+      [
+        141.83999999999997,
+        124.57,
+        280.4
+      ],
+      [
+        155,
+        178,
+        289
+      ],
+      [
+        315,
+        178,
+        289
+      ],
+      [
+        315,
+        130,
+        275
+      ],
+      [
+        296,
+        130,
+        252
+      ],
+      [
+        300.0,
+        91.7150566272343,
+        252.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "GEOMETRIC_ROUTE; electrical pinout and stock length not certified",
+    "from_status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "to_status": "HEADER_CAVITIES_PENDING",
+    "length_mm": 325.4900498497277,
+    "min_bend_radius_mm": 6.0,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Manufacturer interface is PH2.0 4-pin. Mating plug orientation and actual lead exit/length are unresolved."
+  },
+  {
+    "name": "VOLTAGE_SENSE",
+    "from_port": "DIVIDER_SIG",
+    "to_port": "ADC_ANALOG",
+    "signal": "Analog <=3.3V after divider; ADS1115 added",
+    "od_mm": 1.6,
+    "points": [
+      [
+        208.0,
+        183.0,
+        275.0
+      ],
+      [
+        219.0,
+        183.0,
+        288.0
+      ],
+      [
+        235.0,
+        183.0,
+        288.0
+      ],
+      [
+        219.0,
+        125.0,
+        275.0
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "APPROX_POSITION",
+    "length_mm": 90.02097426657683,
+    "min_bend_radius_mm": 5.272921121118811,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Unpurchased ADS1115 support omitted. Voltage acquisition using owned parts remains unresolved; no new module is assumed."
+  },
+  {
+    "name": "ADC_I2C",
+    "from_port": "ADC_I2C",
+    "to_port": "MCU_SCL",
+    "signal": "3V3,GND,SDA21,SCL22",
+    "od_mm": 2.5,
+    "points": [
+      [
+        247.0,
+        129.0,
+        283.0
+      ],
+      [
+        277.0,
+        215.0,
+        291.0
+      ],
+      [
+        146.0,
+        215.0,
+        291.0
+      ],
+      [
+        134.22,
+        124.57,
+        280.4
+      ]
+    ],
+    "stock_length_mm": null,
+    "status": "NOMINAL_PATH; PINOUT_AND_COLLISION_REVIEW_REQUIRED",
+    "from_status": "APPROX_POSITION",
+    "to_status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "length_mm": 298.9589975793633,
+    "min_bend_radius_mm": 12.5,
+    "endpoint_error_mm": 0,
+    "geometry_valid": true,
+    "reserve_mm": null,
+    "superseded_reason": "Unpurchased ADS1115 support omitted. Voltage acquisition using owned parts remains unresolved; no new module is assumed."
+  }
+]

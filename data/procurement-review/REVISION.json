@@ -1,0 +1,208 @@
+{
+  "revision": "PROCUREMENT_REVIEW_20261001",
+  "release_status": "NOT_FOR_FABRICATION",
+  "input_manifest_sha256": "0b7b8cb640d072559c6d5957bcc3574d5be0e502dfbf6f83cc1efa5b37bced69",
+  "baseline_nodes": 4152,
+  "nodes": 4078,
+  "changed_geometry": [
+    "PURCHASE_C715_512GB_PCB",
+    "PURCHASE_C715_COMPONENT_ENVELOPE",
+    "PURCHASE_SZH_CP003_OUTLINE",
+    "CUSTOM_POWER_BACKPLANE"
+  ],
+  "removed_count": 77,
+  "removed_names": [
+    "OFFICIAL_JETSON_1897_Solid",
+    "OFFICIAL_JETSON_1898_Solid",
+    "DRAWING_BASED_SN530_M2_2242",
+    "PHOTO_BASED_SN530_NAND",
+    "PHOTO_BASED_SN530_IC_0",
+    "PHOTO_BASED_SN530_IC_1",
+    "PHOTO_BASED_SN530_IC_2",
+    "PHOTO_BASED_SN530_IC_3",
+    "APPROX_BUS_POS",
+    "APPROX_BUS_POS_SCREW_0",
+    "APPROX_BUS_POS_SCREW_1",
+    "APPROX_BUS_POS_SCREW_2",
+    "APPROX_BUS_POS_SCREW_3",
+    "APPROX_BUS_POS_SCREW_4",
+    "APPROX_BUS_POS_SCREW_5",
+    "APPROX_BUS_POS_SCREW_6",
+    "APPROX_BUS_NEG",
+    "APPROX_BUS_NEG_SCREW_0",
+    "APPROX_BUS_NEG_SCREW_1",
+    "APPROX_BUS_NEG_SCREW_2",
+    "APPROX_BUS_NEG_SCREW_3",
+    "APPROX_BUS_NEG_SCREW_4",
+    "APPROX_BUS_NEG_SCREW_5",
+    "APPROX_BUS_NEG_SCREW_6",
+    "BUS_FIX_POS_0",
+    "BUS_FIX_N_POS_0",
+    "BUS_FIX_POS_1",
+    "BUS_FIX_N_POS_1",
+    "BUS_FIX_NEG_0",
+    "BUS_FIX_N_NEG_0",
+    "BUS_FIX_NEG_1",
+    "BUS_FIX_N_NEG_1",
+    "CUSTOM_CABLE_BAT_RETURN",
+    "CUSTOM_CABLE_MAIN_BUS",
+    "CUSTOM_CABLE_MAIN_LED_RETURN",
+    "CUSTOM_CABLE_MOTOR_BRANCH_FUSE",
+    "CUSTOM_CABLE_MOTOR_RETURN",
+    "CUSTOM_CABLE_COIL_FEED",
+    "CUSTOM_CABLE_COIL_RETURN",
+    "CUSTOM_CABLE_FUSE_INPUT_BOOST",
+    "CUSTOM_CABLE_FUSE_INPUT_BUCK",
+    "CUSTOM_CABLE_FUSE_INPUT_AUX",
+    "CUSTOM_CABLE_FUSE_INPUT_SPARE",
+    "CUSTOM_CABLE_BOOST_RETURN",
+    "CUSTOM_CABLE_BUCK_RETURN",
+    "CUSTOM_CABLE_VOLTAGE_POS",
+    "CUSTOM_CABLE_VOLTAGE_NEG",
+    "STANDARD_PLUG_THERMAL_I2C_HOUSING",
+    "STANDARD_PLUG_THERMAL_I2C_CONTACT",
+    "CUSTOM_CABLE_THERMAL_I2C",
+    "STANDARD_PLUG_ADC_ANALOG_HOUSING",
+    "STANDARD_PLUG_ADC_ANALOG_CONTACT",
+    "STANDARD_PLUG_ADC_I2C_HOUSING",
+    "STANDARD_PLUG_ADC_I2C_CONTACT",
+    "CUSTOM_ADC_CARRIER",
+    "ADC_CARRIER_FIX_223.5_119.5",
+    "ADC_CARRIER_N_223.5_119.5",
+    "ADC_CARRIER_FIX_259_119.5",
+    "ADC_CARRIER_N_259_119.5",
+    "ADC_CARRIER_FIX_223.5_139.5",
+    "ADC_CARRIER_N_223.5_139.5",
+    "ADC_CARRIER_FIX_259_139.5",
+    "ADC_CARRIER_N_259_139.5",
+    "CUSTOM_ADC_M2_SPACER_0",
+    "ADC_M2_B_0",
+    "ADC_M2_N_0",
+    "CUSTOM_ADC_M2_SPACER_1",
+    "ADC_M2_B_1",
+    "ADC_M2_N_1",
+    "CUSTOM_ADC_M2_SPACER_2",
+    "ADC_M2_B_2",
+    "ADC_M2_N_2",
+    "CUSTOM_ADC_M2_SPACER_3",
+    "ADC_M2_B_3",
+    "ADC_M2_N_3",
+    "CUSTOM_CABLE_VOLTAGE_SENSE",
+    "CUSTOM_CABLE_ADC_I2C"
+  ],
+  "unchanged_brep_count": 4074,
+  "changes": [
+    {
+      "purchase": "P2-R83",
+      "action": "Replace 2242 reference and optional 2230 envelope with one nominal C715 512GB in actual 2280 slot",
+      "overall_nominal_mm": [
+        80,
+        22,
+        2.5
+      ],
+      "pcb_top_z_mm": 273.323821523386,
+      "end_mount_center_world_mm": [
+        102.7950001,
+        64.376875,
+        273.323821523386
+      ],
+      "card_entry_relief_mm": 0.03,
+      "mounting_state": "Existing 2280 interface; nominal card geometry. Retention screw stock and physical engagement pending."
+    },
+    {
+      "purchase": "P2-R79",
+      "action": "CP003 clearance envelope and revised backplane",
+      "overall_mm": [
+        100,
+        45,
+        33
+      ],
+      "world_bbox_mm": [
+        65,
+        10,
+        155,
+        165,
+        43,
+        200
+      ],
+      "filled_old_bores_world_xz_mm": [
+        [
+          74,
+          181
+        ],
+        [
+          164,
+          152
+        ],
+        [
+          164,
+          181
+        ]
+      ],
+      "old_hole_locations_already_inside_clearance_opening_xz_mm": [
+        [
+          74,
+          152
+        ]
+      ],
+      "backplane_lower_reliefs": [
+        {
+          "center_x_world_mm": 125.969558604152,
+          "width_mm": 7,
+          "height_from_lower_edge_mm": 8,
+          "reason": "0.5 mm lateral/1 mm upper nominal clearance around existing M3 bumper-foot bolt head"
+        },
+        {
+          "center_x_world_mm": 153.969558604152,
+          "width_mm": 7,
+          "height_from_lower_edge_mm": 8,
+          "reason": "0.5 mm lateral/1 mm upper nominal clearance around existing M3 bumper-foot bolt head"
+        }
+      ],
+      "mounting_state": "HOLD: fixing holes, cover opening and terminal assignments unknown"
+    },
+    {
+      "action": "Remove unpurchased ADC support and phantom interfaces",
+      "removed_nodes": 25,
+      "function": "Voltage acquisition remains unresolved"
+    }
+  ],
+  "part_exports": [
+    "PURCHASE_C715_512GB_PCB",
+    "PURCHASE_C715_COMPONENT_ENVELOPE",
+    "PURCHASE_SZH_CP003_OUTLINE",
+    "CUSTOM_POWER_BACKPLANE"
+  ],
+  "dxf_exports": [],
+  "dxf_hold_reason": "Backplane depth features are preserved in STEP; do not flatten into an unverified cutting profile.",
+  "wire_routes_invalidated": [
+    "BAT_RETURN",
+    "MAIN_BUS",
+    "MAIN_LED_RETURN",
+    "MOTOR_BRANCH_FUSE",
+    "MOTOR_RETURN",
+    "COIL_FEED",
+    "COIL_RETURN",
+    "FUSE_INPUT_BOOST",
+    "FUSE_INPUT_BUCK",
+    "FUSE_INPUT_AUX",
+    "FUSE_INPUT_SPARE",
+    "BOOST_RETURN",
+    "BUCK_RETURN",
+    "VOLTAGE_POS",
+    "VOLTAGE_NEG",
+    "THERMAL_I2C",
+    "VOLTAGE_SENSE",
+    "ADC_I2C"
+  ],
+  "holds": [
+    "SER0063 horn, MG995 bracket and NatureTool bracket dimensions",
+    "15 remaining camera hardware pairs pending actual dimensions",
+    "CP003 fixing holes, cover motion and terminal groups",
+    "Nominal C715 edge and retained screw physical fit",
+    "Small fasteners, special spacers, springs and 1.6 mm distributor stock",
+    "Fomex strength, nesting and drill sizes",
+    "Voltage acquisition, power protection and moving cables"
+  ],
+  "recovery_note": "Regenerated from verified input after temporary-workspace cleanup. Nominal C715 key/entry geometry rebuilt; use this run validation and hashes, not previous unpublished output hashes."
+}

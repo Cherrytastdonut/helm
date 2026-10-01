@@ -1,0 +1,12 @@
+{
+  "revision": "PROCUREMENT_REVIEW_20261001",
+  "guide_pages": 6,
+  "profile_pages": 20,
+  "all_pages_visually_reviewed": true,
+  "render_tool": "pdftoppm",
+  "guide_render_dpi": 110,
+  "profile_render_dpi": 75,
+  "review_method": "All 26 rendered pages visually inspected in contact sheets; text blocks checked against page/footer bounds; profile outlines and current CAD views checked",
+  "scale": "All 20 A3 sheets use 1 mm CAD = 1 mm paper and include a 100 mm check line; printer scaling must still be checked",
+  "manufacturing_release": false
+}

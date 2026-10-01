@@ -1,0 +1,14 @@
+{
+  "contact_nodes": [
+    "OFFICIAL_THERMAL_0126_Solid",
+    "OFFICIAL_THERMAL_0127_Solid",
+    "OFFICIAL_THERMAL_0128_Solid",
+    "OFFICIAL_THERMAL_0129_Solid"
+  ],
+  "pitch_mm": [
+    2.0,
+    2.0,
+    2.0
+  ],
+  "note": "Manufacturer body connector has 2 mm pitch. Legacy 2.54 mating plug proxy removed. Mating cable orientation pending."
+}
