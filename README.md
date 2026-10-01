@@ -1,39 +1,28 @@
 # HELM 자율점검 로봇
 
-HELM의 기구 CAD, 구매 부품, 도면, 제작 준비, 조립·배선 확인과 검증 기록을 모은 저장소입니다.
+구매 부품, 기구 CAD, 도면, 제작·조립 준비와 검증 기록을 정리한 저장소입니다.
 
-> **현재: SER0063 교체 검토본. 재단·통전용 최종 승인본이 아닙니다.** 혼 실측, 기존 체결부 간섭, 강도와 전기 통합 검증이 남아 있습니다. 예전 파일명의 FINAL/PASS는 현재 제작 승인을 뜻하지 않습니다.
+> **최신: PROCUREMENT_REVIEW_20261001. 구매품 반영 검토본이며 재단·통전 승인 전입니다.** SSD·CP003 외곽·전원판 수정과 미구매 ADC 가정 제거를 전체 모델에 반영했습니다. 혼·브래킷 실측과 카메라 간섭 15쌍이 남아 있습니다.
 
-![HELM 현재 검토 CAD](assets/full_review.png)
+![HELM 최신 검토 CAD](assets/procurement-review/FULL_REVIEW.png)
 
-## 처음 시작할 때
-
-1. [현재 상태와 다음 작업](docs/00-status.md)을 확인합니다.
-2. [전체 구성](docs/01-overview.md)과 [구매품 적용 기준](docs/02-parts.md)을 읽습니다.
-3. [최신 변경 도면 PDF 6쪽](drawings/ser0063-review/HELM_SER0063_CHANGE_GUIDE_KO.pdf)를 엽니다.
-4. 전체 CAD는 [자료 다운로드·복원](docs/11-artifacts.md)에 따라 받습니다.
-5. [재단](docs/04-fabrication.md) → [조립](docs/05-assembly.md) → [배선](docs/06-electrical.md) → [검증](docs/08-validation.md) 순서로 준비합니다.
+1. [현재 상태](docs/00-status.md)와 [확인한 상품 사진·근거](docs/14-product-photo-review.md).
+2. [변경 안내 PDF 6쪽](drawings/procurement-review/HELM_PROCUREMENT_CHANGE_GUIDE_KO.pdf).
+3. [A3 1:1 윤곽 검토도 20쪽](drawings/procurement-review/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf).
+4. [수정 전체 CAD·ZIP 다운로드](docs/11-artifacts.md).
+5. [사용자께서 찾아 주실 치수·자료](docs/15-needed-measurements.md).
 
 | 찾는 자료 | 바로가기 |
 |---|---|
-| 1차 29품목 / 2차 64행 | [1차](docs/parts/first-purchase.md) · [2차](docs/parts/second-purchase.md) |
-| 부품 비교·교체 판단 | [부품 기준](docs/02-parts.md) |
-| 최신 CAD 치수와 변경점 | [CAD 설명](docs/03-cad.md) |
-| V13 전체 202쪽 도면 | [과거 기준 PDF](drawings/v13-baseline/HELM_FULL_FABRICATION_AND_ASSEMBLY_DRAWING.pdf) |
-| 개별 STEP·DXF | [현재 검토본](cad/ser0063-review/) · [V13](cad/v13-baseline/) |
-| 간섭 위치·실측 요청 | [미해결 항목](docs/10-open-items.md) |
-| 전체 ZIP·구매 입력 원본 | [아카이브](archives/README.md) |
-| CAD/도면 생성 과정 | [재현 방법](docs/12-reproduce.md) |
-| 실제 제어 코드 현황 | [소프트웨어](docs/07-software.md) |
-| FlutterFlow AI 입력 초안 | [복사용 요구사항](docs/13-flutterflow-ai.md) |
-| 작업 이력·변경 규칙 | [이력](docs/09-history.md) · [협업](CONTRIBUTING.md) |
+| 최신 부품 CAD | [제작 STEP 128개](cad/procurement-review/part-step/) · [변경 4개](cad/procurement-review/purchased-step/) · [DXF 20개](cad/procurement-review/dxf-review-only/) |
+| 보유 부품 | [1차 29품목](docs/parts/first-purchase.md) · [2차 64행](docs/parts/second-purchase.md) · [적용 기준](docs/02-parts.md) |
+| 설계·제작 | [CAD 해석](docs/03-cad.md) · [재단](docs/04-fabrication.md) · [조립](docs/05-assembly.md) · [배선](docs/06-electrical.md) |
+| 검사·미해결 사항 | [검증 범위](docs/08-validation.md) · [간섭 위치](docs/10-open-items.md) |
+| 원본·생성 과정 | [아카이브](archives/README.md) · [재현 방법](docs/12-reproduce.md) · [이력](docs/09-history.md) |
+| 앱 입력 초안 | [FlutterFlow AI](docs/13-flutterflow-ai.md) · [실제 소프트웨어 현황](docs/07-software.md) |
 
-## 계속 유지할 기준
+보유 판재는 **5T 포맥스 600×900 mm 2장**입니다. 128개 형상이 모두 이 두 장에서 가공되는 것은 아닙니다. 1차는 이전 CSV, 2차는 새 XLSX이며 새 품목 전부를 장착할 필요는 없습니다.
 
-- 1차는 이전 CSV, 2차는 이번 XLSX입니다. 2차 품목을 전부 사용할 필요는 없으며, CAD와 실제 대체품이 다르면 수정합니다.
-- 판재는 구매한 **5T 포맥스 600 ×900 mm 2장** 기준입니다. 전체를 바로 재단할 단계는 아닙니다.
-- `LIB_SER0063.zip`은 모터 CAD입니다. 혼·리드선 형상은 포함하지 않습니다.
-- CAD·파일 검사와 실물 조립·전원·하중·주행 시험을 구분합니다.
-- 현재 실행 코드는 CAD 생성·검증 도구입니다. 주행 펌웨어나 자율주행·FlutterFlow 앱 완성본은 확보되지 않았습니다.
+`LIB_SER0063.zip`은 모터 몸체 CAD입니다. 혼·리드선은 별도 확인 대상입니다. 원본 CAD나 부품 이름이 있어도 구매·실측·실물 검증 완료를 뜻하지 않습니다.
 
-설계 기준일 2026-09-30 / 저장소 정리 2026-10-01. [기계가 읽는 상태 기록](data/project-status.json)
+[현재 상태 JSON](data/project-status.json)과 같은 리비전의 CAD·검증을 우선합니다. 과거 FINAL/PASS 또는 “수정·추가 검색 불필요”는 확인한 리비전·본체·범위에 한정합니다. 실제 부품과 차이가 확인되면 설계를 수정합니다.

@@ -186,6 +186,84 @@
           "sha256": "5ee8a8a1bc8aca176188032f3637b449b4905a24e718205531f9982c50752d34"
         }
       ]
+    },
+    {
+      "id": "procurement-review-20261001",
+      "filename": "HELM_PROCUREMENT_CAD_REVIEW_20261001.zip",
+      "size_bytes": 233290269,
+      "sha256": "875fb27a94f58d6384b80adb49d326424e81bd211489b413c557da1b61761048",
+      "parts": [
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-001",
+          "size_bytes": 16777216,
+          "sha256": "aee054ebead8226d7166b01744e2ba4d8e0e2eb02f3519dff83c002b92be0675"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-002",
+          "size_bytes": 16777216,
+          "sha256": "1ae1a18fa24d653637308552c7147cb5bcd6a735ded1ed9a04014d8b475d33e4"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-003",
+          "size_bytes": 16777216,
+          "sha256": "12dbc43937c8eddfa8a89cbe1f64e1302f70ba6000dc1410f713b4ad9197b2f9"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-004",
+          "size_bytes": 16777216,
+          "sha256": "e92c25a86b5a9aa397da5aaf510850f32bf4734f95303023991dc0d21596d89c"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-005",
+          "size_bytes": 16777216,
+          "sha256": "6c978cedeae80c2728279836427866b9c6ee286cc8cb51f24a891de707691abb"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-006",
+          "size_bytes": 16777216,
+          "sha256": "c9ce8e1df1f569b5921920a38a3fb79d4df9e5de43a382be0a8a04ed1968b626"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-007",
+          "size_bytes": 16777216,
+          "sha256": "2a5d4b48e35401ce033d5b8297331b80248c47e755a9fc793929982465c2c701"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-008",
+          "size_bytes": 16777216,
+          "sha256": "fe5513cf2dc08da6c2a48acf9a49938991efee04cc5ae0499e1b75202165b45f"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-009",
+          "size_bytes": 16777216,
+          "sha256": "1e37cd2c07ed2846ad4afb2687247629b8c8277168f8cffb8119648a1be130d5"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-010",
+          "size_bytes": 16777216,
+          "sha256": "ee4d19aa8992f321a9421560336499a968b8d77dbb508b0b6a74b592ed896a02"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-011",
+          "size_bytes": 16777216,
+          "sha256": "5813f3f1ead8b92eeb6a090f87f6b4d1dfea5abc80a9e6cc30a6ffa732388168"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-012",
+          "size_bytes": 16777216,
+          "sha256": "2b7bcb529593e9f35711dfbd5493fd3b348c61dc2633c3401d95ec8bcc8f80ef"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-013",
+          "size_bytes": 16777216,
+          "sha256": "ee021995a01f913878f42b4405da8cd7330545fd29a7adce2c123bec3410c4da"
+        },
+        {
+          "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-014",
+          "size_bytes": 15186461,
+          "sha256": "2b71d90977fd0c6b7fa8b5985d5f266516d48770e4d0b9cffd8c2b43bf5ee47a"
+        }
+      ]
     }
   ]
 }
