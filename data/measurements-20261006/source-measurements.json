@@ -1,0 +1,136 @@
+{
+  "sha256": "2e9fd61d3c790d0fc06df4ea6a04dddd6721a23f8a1acbd5f6357828ff89209f",
+  "sheet": "시트1",
+  "records": [
+    {
+      "row": 2,
+      "number": 1,
+      "item": "전원분배 단자대",
+      "model": "[SMG] 전원분배 단자대 / 터미널블럭 (입력2, 출력8) [SZH-CP003]",
+      "round": "2차",
+      "purchase_row": 79.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로100mm 세로45mm 높이33mm\n입력나사 (A) 약 7.5mm \n출력구멍(B) 약 5.5~6mm"
+    },
+    {
+      "row": 3,
+      "number": 2,
+      "item": "AGM 배터리",
+      "model": "ROCKET ES7-12 12V 7Ah AGM 배터리",
+      "round": "1차",
+      "purchase_row": 13.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로 151mm 세로 65mm 높이 94mm"
+    },
+    {
+      "row": 4,
+      "number": 3,
+      "item": "서보모터",
+      "model": "[DFRobot] SER0063",
+      "round": "2차",
+      "purchase_row": 30.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로(최대): 약 55 mm\n세로(최대): 약 20 mm\n높이(축 포함 최대): 약 47~48 mm"
+    },
+    {
+      "row": 5,
+      "number": 4,
+      "item": "JST-PH 6핀 케이블",
+      "model": "JST-PH 6핀 케이블 2.0mm 피치 같은면 1대N (30cm ×4)",
+      "round": "2차",
+      "purchase_row": 21.0,
+      "source_note": "판 재단용 측정 우선도 낮음",
+      "raw_measurement": "이미 30cm인 거 상품명에 나와있음"
+    },
+    {
+      "row": 6,
+      "number": 5,
+      "item": "M3 나일론 스페이서 세트",
+      "model": "260P M3 나일론 스페이서 너트 세트 - 육각 기판 고정용 나사 키트 - PCB 조립용",
+      "round": "2차",
+      "purchase_row": 56.0,
+      "source_note": "필요 규격만 확인",
+      "raw_measurement": null
+    },
+    {
+      "row": 7,
+      "number": 6,
+      "item": "소형 ㄱ자 브래킷",
+      "model": "네이쳐툴 ㄱ자 선반 꺽쇠 코너 기억자 코너철 소형 - 소형",
+      "round": "2차",
+      "purchase_row": 54.0,
+      "source_note": "실측 확인 불가(소형 브래킷을 가져오지 않았는지, 아님 아예 안 온건지 중형만 들어있더라 그래서 일단 공식 치수 기준으로 씀)",
+      "raw_measurement": "가로 20mm 세로 24mm 높이 24mm"
+    },
+    {
+      "row": 8,
+      "number": 7,
+      "item": "중형 ㄱ자 브래킷",
+      "model": "네이쳐툴 ㄱ자 선반 꺽쇠 코너 기억자 코너철 소형 - 중형",
+      "round": "2차",
+      "purchase_row": 55.0,
+      "source_note": "칠측 완료",
+      "raw_measurement": "가로 30mm 세로 25m 높이 25mm"
+    },
+    {
+      "row": 9,
+      "number": 8,
+      "item": "12V→19V 승압 컨버터",
+      "model": "12V→19V DC 승압 컨버터 190W",
+      "round": "2차",
+      "purchase_row": 22.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로 75mm 세로 75mm 높이 31mm"
+    },
+    {
+      "row": 10,
+      "number": 9,
+      "item": "4구 퓨즈박스",
+      "model": "차량용 퓨즈박스 4구 키트 SZH-JA020",
+      "round": "1차",
+      "purchase_row": 20.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로 53 mm\t세로 86mm\t높이 42mm"
+    },
+    {
+      "row": 11,
+      "number": 11,
+      "item": "접지 부스바·DC 배전 단자대",
+      "model": "접지부스바·DC 배전 단자대 ×2",
+      "round": "1차",
+      "purchase_row": 22.0,
+      "source_note": "실측 완료",
+      "raw_measurement": "가로 약165mm 세로 15mm 높이 18mm"
+    },
+    {
+      "row": 12,
+      "number": 12,
+      "item": "LED 원형 로커 스위치",
+      "model": "12V 20A LED 원형 로커 스위치 3핀 차량·선박 겸용 2pcs",
+      "round": "1차",
+      "purchase_row": 33.0,
+      "source_note": "실측 완료했으나 다시 재야할지도. 공식 치수랑 너무 심하게 달라서 ",
+      "raw_measurement": "- 장착 몸통 지름: 약 20mm\n- 외부 테두리 지름: 약 27mm\n- 전체 높이: 약 34.2mm"
+    },
+    {
+      "row": 13,
+      "number": 13,
+      "item": "서보모터 금속 브래킷",
+      "model": "아두이노 MG995 MG996용 서보모터 브라켓 METAL-BRACKET",
+      "round": "2차",
+      "purchase_row": 78.0,
+      "source_note": "실측 최우선",
+      "raw_measurement": "오른쪽 사진처럼 놓는다는 가정 하에 ㄷ자: 가로 64mm 세로 55mm 높이 25mm\nㄷ자 아니고 다른거: 사진처럼 놓는다는 가정 하에: 가로 58mm 세로 37 높이 25mm"
+    },
+    {
+      "row": 14,
+      "number": 14,
+      "item": "웹캠",
+      "model": "Logitech C920 HD 1080p 웹캠",
+      "round": "1차",
+      "purchase_row": 22.0,
+      "source_note": "나흠 실측, 사진 표기 기준",
+      "raw_measurement": "본체 가로: 약 95mm\n본체 높이: 약 28mm\n하단 거치부 가로: 약 45mm\n하단부 높이: 약 18mm\n측면 기준 길이: 약 44mm\n앞쪽 돌출부 깊이: 약 20mm\n거치부 포함 측면 전체 길이: 약 57mm"
+    }
+  ]
+}
