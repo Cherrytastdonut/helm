@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "created_on": "2026-10-01",
+  "created_on": "2026-10-07",
   "scope": "All tracked deliverables except this catalog itself; SHA-256 of file bytes",
   "files": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "path": "AGENTS.md",
-      "size_bytes": 2042,
-      "sha256": "70568c915b7510a7a28221433fdb719931dc07744ca2c2c3fcb5190529e6e2b4"
+      "size_bytes": 2692,
+      "sha256": "3c3844b36da1506dce018a8c767a8dad0434bc548fb30b2e9c25803867e190a8"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -35,18 +35,108 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 2600,
-      "sha256": "443ffe81fb4a584aa324ae1f8bebb227a25e786bc23623ea5db2375f249e8511"
+      "size_bytes": 2410,
+      "sha256": "dc61e30bbe49e468f2c1978b1b5a137b63bd806acddb3d424556d342cea2bf0f"
     },
     {
       "path": "archives/README.md",
-      "size_bytes": 1542,
-      "sha256": "b1fcafa821aa980723d959f64f643d5a78cde00138728f4e8ab7133d105097fa"
+      "size_bytes": 1025,
+      "sha256": "53d863dbbecbe814e0ae8a55628bb5764d0ac6ae26f325bbc2f47c6dbcd3b036"
     },
     {
       "path": "archives/manifest.json",
-      "size_bytes": 22840,
-      "sha256": "daa6f4a4dc47cf73405dd2fd02ed8766fc60e986790f8ac41371d9f54caeaa70"
+      "size_bytes": 28512,
+      "sha256": "92615eb4943377040f6df24fd774d09b47e2073b0abbe5071facf8d871ac5b27"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-001",
+      "size_bytes": 250000,
+      "sha256": "4decdf9315b6efdfd8934523bbdbfb7d140c6a6f74a0fdcd7dcf3181bfba7bde"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-002",
+      "size_bytes": 250000,
+      "sha256": "8949764f9cc0dcf8e3a2c733b9da29fdb8b1ae0ed83006c305184f58b76ab14b"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-003",
+      "size_bytes": 250000,
+      "sha256": "0165861c80fcb10c4347a7d4c1ee05eb8d99654050cb6a01c0613415089cb0f2"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-004",
+      "size_bytes": 250000,
+      "sha256": "758fc239a0a0ffb8cd22ccbaf190a7f4a1686f0a80feba9e8514185d1a6dd702"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-005",
+      "size_bytes": 250000,
+      "sha256": "f4da698759aec620ee32f330e3f32edd2d0e888a20eaa536119cc1c657b1a18e"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-006",
+      "size_bytes": 250000,
+      "sha256": "a59b2dec9c8b4b6ed8cdaa5bf14632943d41d90ac5650b267a55364321bc70b7"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-007",
+      "size_bytes": 250000,
+      "sha256": "94f934de6874b3199be1b71c7307f8efb7996f65571a9835586aeb51fba15873"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-008",
+      "size_bytes": 250000,
+      "sha256": "f11ed75edfe20c8e068a30061baf8fb8ad31a940896b259c603e89ba6d9fa7b7"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-009",
+      "size_bytes": 250000,
+      "sha256": "57cea5eb8aedbdd4e1d180e14bd5cc8a0d1b64e8d220c7e5c79f429dd072db14"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-010",
+      "size_bytes": 250000,
+      "sha256": "57782ad527efd36de82bf508fd582ee425f25b4b53c4de7640fb41456f60cb11"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-011",
+      "size_bytes": 250000,
+      "sha256": "4d8870bee198128d2260f97c45716cd7a0d8a60d8f143481f7db276823ae3b81"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-012",
+      "size_bytes": 250000,
+      "sha256": "7248ad05d4a4ba4ac2073e615f3cfb1cf8ee2732d64235a19bb15a40738cbac9"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-013",
+      "size_bytes": 250000,
+      "sha256": "90ad0ffada3d155881bd0c265cb7742f8d896f6c6b1c827074ae57afb98d990b"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-014",
+      "size_bytes": 250000,
+      "sha256": "70242e22c5fa0ca7884ac37ec5113b15a36e20c2bd723026b65d4bce58c38ce7"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-015",
+      "size_bytes": 250000,
+      "sha256": "992581dcd5118a00bac595794750993fec2e4a2b6ee59f49f88332448fb5c845"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-016",
+      "size_bytes": 250000,
+      "sha256": "f26cf2c77405cb02dcc21def9f21c4cc15090560eafdbd2bd32e5aa5c6b00a59"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-017",
+      "size_bytes": 59445,
+      "sha256": "f09163511dbdf199003ec1645917abb206917f90d3d239f8dc8fa463862cad40"
+    },
+    {
+      "path": "archives/measured-layout-20261006/archive-entry.json",
+      "size_bytes": 5227,
+      "sha256": "74a8dcd4110d15cc008f8f037b9775e586ca8b1b729983403f01ba757ca6b516"
     },
     {
       "path": "archives/procurement-review-20261001/HELM_PROCUREMENT_CAD_REVIEW_20261001.zip.part-001",
@@ -602,6 +692,81 @@
       "path": "assets/ser0063_source_views.png",
       "size_bytes": 373576,
       "sha256": "91de8bb5b1ef293f4e6c5ed266c64d932fea417bc7170ee9cf35523602e3445b"
+    },
+    {
+      "path": "cad/measurements-20261006/source/NOTICES.md",
+      "size_bytes": 939,
+      "sha256": "b30d058d5dc158d6d3044296b2328d7acbaebe945089878077827bac2bdfd9bf"
+    },
+    {
+      "path": "cad/measurements-20261006/source/build_measured_cad.py",
+      "size_bytes": 9067,
+      "sha256": "0eda998f57c89a93d2b0f940a671bd447e159d3b716b2ff05cd0d6df937f6e8d"
+    },
+    {
+      "path": "cad/measurements-20261006/source/build_measurement_data.py",
+      "size_bytes": 16293,
+      "sha256": "8e9e45be0bc603ed9ae313b5e6f7f6c6ace471435857f798f12622fce8536f3f"
+    },
+    {
+      "path": "cad/measurements-20261006/source/export_changed_parts.py",
+      "size_bytes": 1065,
+      "sha256": "77d4de83ebadf0e443b29ee39871830b6e0e481aa79fb294bb605c42d0362c9f"
+    },
+    {
+      "path": "cad/measurements-20261006/source/export_compact_snapshot.py",
+      "size_bytes": 1470,
+      "sha256": "bfd548eac850c205a1574276d23498a0b4c3b86a970a23b73db81241d3b7d81e"
+    },
+    {
+      "path": "cad/measurements-20261006/source/export_current_parts.py",
+      "size_bytes": 2809,
+      "sha256": "cb1ef406e8e42f6cde27f90e3c03a3622d626966929c01a74f76dd8cf198020e"
+    },
+    {
+      "path": "cad/measurements-20261006/source/export_snapshot.py",
+      "size_bytes": 1469,
+      "sha256": "6cc1ca2bd79ba7ab5f44667ede6c317db9c4213737b95d8266120ae9606df861"
+    },
+    {
+      "path": "cad/measurements-20261006/source/make_chassis_check.py",
+      "size_bytes": 3151,
+      "sha256": "471e71da4a722d1841c68c48a711af90f229eaf230eee7eefd67fc6ca332759a"
+    },
+    {
+      "path": "cad/measurements-20261006/source/make_guide.py",
+      "size_bytes": 9591,
+      "sha256": "0c33c6fc8ddf4ea974e620e5e9f79f73a1f02787c37432e3bbf804c1bdcd0fba"
+    },
+    {
+      "path": "cad/measurements-20261006/source/make_profiles.py",
+      "size_bytes": 5261,
+      "sha256": "416be5604a4cef97a9a444fcc5e7d00010616360603148951aa1e1b6faddd7cd"
+    },
+    {
+      "path": "cad/measurements-20261006/source/make_workbook.mjs",
+      "size_bytes": 6811,
+      "sha256": "56d54a0fb780cb3aaa9f3bced9e4a9fa0216260199718e2fa15f3228807da5bd"
+    },
+    {
+      "path": "cad/measurements-20261006/source/package_measured.py",
+      "size_bytes": 8054,
+      "sha256": "22ff6c747e686471480b71fd40cecce0907461f1e1f471d60b8c9f2e276fea63"
+    },
+    {
+      "path": "cad/measurements-20261006/source/restore_measured.py",
+      "size_bytes": 1363,
+      "sha256": "dfb56b1bc30a33bfb0ce3e73620ef7df823c1ac34f47b0f98f8ba5889524b2bd"
+    },
+    {
+      "path": "cad/measurements-20261006/source/validate_full_step.py",
+      "size_bytes": 2229,
+      "sha256": "554c65f6802b4b34bfcbde8db2bba22eddea4247c428a4b6176abe5e17c081eb"
+    },
+    {
+      "path": "cad/measurements-20261006/source/validate_measurements.py",
+      "size_bytes": 4333,
+      "sha256": "7983279b5a44fd8066f76ad7538625c659555f2c4707ae9f991efd70f9b026c0"
     },
     {
       "path": "cad/procurement-review/README.md",
@@ -2504,6 +2669,116 @@
       "sha256": "c80960a2194c3bb90f95d0ee2a71b3af19083af837a07d6b65bf1a5e0c2d0460"
     },
     {
+      "path": "data/measurements-20261006/CHASSIS_4HOLE_CHECK.json",
+      "size_bytes": 1491,
+      "sha256": "d46d410fa5365f11a41b2fc18dcdeaf07f73a31efd0c1aac04e0a4177bc0db87"
+    },
+    {
+      "path": "data/measurements-20261006/DRAWING_INDEX.json",
+      "size_bytes": 6952,
+      "sha256": "1d4b5d945307452079aa84370adc62cf1aa19a559bd4ba6cc5c63dac6c1e5d6c"
+    },
+    {
+      "path": "data/measurements-20261006/FABRICATION_INDEX.json",
+      "size_bytes": 200719,
+      "sha256": "142f8f6df3021ff80f628c4d37cfa67e3c9db6a30f1b009bd1763b2594eb7373"
+    },
+    {
+      "path": "data/measurements-20261006/FULL_STEP_READBACK.json",
+      "size_bytes": 4919,
+      "sha256": "520d3a22a4487fbf0d88d73a628ccd4ff94dc7123a8bd3842f6fb822d02a8021"
+    },
+    {
+      "path": "data/measurements-20261006/HELM_부품번호_실측적용표.xlsx",
+      "size_bytes": 167890,
+      "sha256": "34d74b9f12530fbfbb43ada31e5f32fc4bc1ec49edfed00fee155d0fc550d1dd"
+    },
+    {
+      "path": "data/measurements-20261006/OPTIONAL_INVENTORY.json",
+      "size_bytes": 751,
+      "sha256": "cb5d0a4e9d90a9b34a6e2a48a7422d083c65b105540ecea240764c3efd1ababe"
+    },
+    {
+      "path": "data/measurements-20261006/PACKAGE_CHECK.json",
+      "size_bytes": 5528,
+      "sha256": "9de9cbc5ffe8b6b58459ca237b01667d41c7169a260c494066921e5d115a6593"
+    },
+    {
+      "path": "data/measurements-20261006/REVISION.json",
+      "size_bytes": 19329,
+      "sha256": "f23b186c5762ff1597b4efadea4b1eb4bf5172876a4026e2fc4412d9ac5f7a08"
+    },
+    {
+      "path": "data/measurements-20261006/VALIDATION.json",
+      "size_bytes": 17097,
+      "sha256": "7d45277ae02eff0f1288c03e33c94998df8e2fe171a9c9d79a687f8614cae4d5"
+    },
+    {
+      "path": "data/measurements-20261006/critical-checks.json",
+      "size_bytes": 3222,
+      "sha256": "d2ba3fc90d1fbfee40c65c0ef095e9fb7c888c962177d3ef9206c4fb9d81e0b3"
+    },
+    {
+      "path": "data/measurements-20261006/field-adjustment.json",
+      "size_bytes": 1515,
+      "sha256": "0fb59819547e81387ac0edecb04cc44d13c2478a59e5302d0bef24a13adc7ce8"
+    },
+    {
+      "path": "data/measurements-20261006/joints.json",
+      "size_bytes": 2876,
+      "sha256": "3b53c7a5dac8f703b4a33ea445d53df71182eee9847640a7c68d1a910e39eab8"
+    },
+    {
+      "path": "data/measurements-20261006/mapping-check.json",
+      "size_bytes": 431,
+      "sha256": "5880d9762ab298bfab6edd49a606c25e3249649e60c6b62f474317df7d078fa2"
+    },
+    {
+      "path": "data/measurements-20261006/measurement-register.csv",
+      "size_bytes": 6179,
+      "sha256": "7113ed744423533d00dfc08cc7181adf4d6f3db7da9060dd558b2dcae120dd78"
+    },
+    {
+      "path": "data/measurements-20261006/measurement-register.json",
+      "size_bytes": 9964,
+      "sha256": "0eb5ee0248ec24e4a7f270bcdd42abe5a3c732fa629b0372caa61d197efbdf4e"
+    },
+    {
+      "path": "data/measurements-20261006/parts-numbered.csv",
+      "size_bytes": 46645,
+      "sha256": "d73704b2e141402c2fa4bd0a0b0d2cd1748b4ee7ba0bdc998617844beb0d3e52"
+    },
+    {
+      "path": "data/measurements-20261006/parts-numbered.json",
+      "size_bytes": 79944,
+      "sha256": "7ba6d861392612624f57f98bc72b3e1c48b4e7632ebf0b171d7483648990d451"
+    },
+    {
+      "path": "data/measurements-20261006/plates.json",
+      "size_bytes": 84107,
+      "sha256": "56cd09010f487a657df208ee87176d6da90bbca6da1745fc9a2846bae73475f1"
+    },
+    {
+      "path": "data/measurements-20261006/ports.json",
+      "size_bytes": 50039,
+      "sha256": "22e8c1a9b6c279264417ca77a1839478795953f1f40a2a7fa20a88b594c19b42"
+    },
+    {
+      "path": "data/measurements-20261006/purchase-source-rows.json",
+      "size_bytes": 32098,
+      "sha256": "b33263472469e0d4fbecfbdfee1641dcdc073ad76a4cc8a440bad0438a5d3c29"
+    },
+    {
+      "path": "data/measurements-20261006/source-measurements.json",
+      "size_bytes": 5030,
+      "sha256": "3e840b600f0875e1a519ef94bf2e8d3b65fe652f33cbd0f43865a6dee6656749"
+    },
+    {
+      "path": "data/measurements-20261006/wires.json",
+      "size_bytes": 38368,
+      "sha256": "8171e507db40ab577ff97f6de1e89b82e2f389d71eea9318d94d5fdc24b294d5"
+    },
+    {
       "path": "data/procurement-review/ASSUMPTION_REGISTER.json",
       "size_bytes": 64308,
       "sha256": "8911273966676dedc62d2b89b1a41dd23257a521d7b48e0fc2b98b5a74a3aec6"
@@ -2595,8 +2870,8 @@
     },
     {
       "path": "data/project-status.json",
-      "size_bytes": 2577,
-      "sha256": "b8fb74eba0ea202c172dd32ed7abe7f5d1649399c5c50ff28920dba4b9b20a4e"
+      "size_bytes": 4845,
+      "sha256": "44fa5873748666e55fc7e89c0c9789b65d6515c4689453e44a88f3c71b7ceeb8"
     },
     {
       "path": "data/purchases/product-evidence-20261001.json",
@@ -2710,8 +2985,8 @@
     },
     {
       "path": "docs/00-status.md",
-      "size_bytes": 2867,
-      "sha256": "79b507dd0e8b71a6ace20c763f7e33942a73921aa1d2e535dadd8ebb973d91e9"
+      "size_bytes": 1732,
+      "sha256": "06ea6d9f7ee7f0442e07d6cf18d2aa65e2d73105067f185a193326aa732bfe72"
     },
     {
       "path": "docs/01-overview.md",
@@ -2725,23 +3000,23 @@
     },
     {
       "path": "docs/03-cad.md",
-      "size_bytes": 3022,
-      "sha256": "7c5cf0e2e311b0b3a5fe82d55d775b6b2d3180f2cf4714c09db0a45a67328d81"
+      "size_bytes": 1625,
+      "sha256": "ca9a0a3e6a0b2bdd8e22979f2f44a543b8e142172e5ae7969c244c0b42b34dbf"
     },
     {
       "path": "docs/04-fabrication.md",
-      "size_bytes": 2528,
-      "sha256": "76e67daa2af590e74d1cfc3589ea14224784d261773b1918d6ac25c3e086f3ae"
+      "size_bytes": 2801,
+      "sha256": "644044ca8bb9dab55d336a022c20ea234073c36d4a6a05ade06bdb531a489a67"
     },
     {
       "path": "docs/05-assembly.md",
-      "size_bytes": 2054,
-      "sha256": "d8373cbb6ef7007005fbbad3269865c2de5c07fd6255648f80504e182edf173b"
+      "size_bytes": 2132,
+      "sha256": "e85de8d9836fb2c09ebb7687b435057bb3d2d344b9bcf762dc44fd9b9617b399"
     },
     {
       "path": "docs/06-electrical.md",
-      "size_bytes": 3299,
-      "sha256": "18738217ce92193bbdce95a6288be1fb7195c0d2ef3ce864ae90f09e655eca57"
+      "size_bytes": 3550,
+      "sha256": "49cf2f4ff8e721905cf673ab751cb00a3417aa46e9b0c9a0b6838c77c171a9fb"
     },
     {
       "path": "docs/07-software.md",
@@ -2750,43 +3025,48 @@
     },
     {
       "path": "docs/08-validation.md",
-      "size_bytes": 2079,
-      "sha256": "d650d02c3bfcfbe77073af2237e99015a1c65f896b2c4dd1129899839fa263f6"
+      "size_bytes": 1547,
+      "sha256": "8399ca04d4a7ef7853068cb4d930887625eb94303d7e00fced494d66967d887d"
     },
     {
       "path": "docs/09-history.md",
-      "size_bytes": 1608,
-      "sha256": "148fd82f7a13bcc4d446d6db9179ea5f659309ca6db2fc7fb32669842b9d1c7b"
+      "size_bytes": 1859,
+      "sha256": "7cea1a3ac7f875f2c41ec6231ac918c5c2d8f64d3a4552d6768563d8a1876acc"
     },
     {
       "path": "docs/10-open-items.md",
-      "size_bytes": 5501,
-      "sha256": "91d2e3f0faad3211350681a6fe25bb8da2297961d2f42edc5dfba939b43959dc"
+      "size_bytes": 3910,
+      "sha256": "0ca8056c2123b949506fb7fff184ac5719065c144176fd8641c3cd4ea8fecd92"
     },
     {
       "path": "docs/11-artifacts.md",
-      "size_bytes": 2281,
-      "sha256": "784136dcc22e31e62220ff37b77a9b9de3d587b1b7f99954e05404d62b4d259f"
+      "size_bytes": 1747,
+      "sha256": "c2eb5ad7eeb82291ac643eec5b4588ddd748300f55a0edcb8a77f88efbfd3625"
     },
     {
       "path": "docs/12-reproduce.md",
-      "size_bytes": 2811,
-      "sha256": "472bcaf3ce58a6d02969c1af5d3dde45ac5f13bb56b86d1c58ef0cdf43881568"
+      "size_bytes": 2018,
+      "sha256": "71ddad626dabb3ded620ff3279a3bbb24b667a13f655f82001e30c55b5afb767"
     },
     {
       "path": "docs/13-flutterflow-ai.md",
-      "size_bytes": 3317,
-      "sha256": "6ec7f3e0f9641a1b880cad3a8854cddd55f9bc5ae0c6100230cc41753c6f12bb"
+      "size_bytes": 3536,
+      "sha256": "7ba485e0e19aee08b23a2cdbe3071fb88566b12c1712936f1d92937f3788f611"
     },
     {
       "path": "docs/14-product-photo-review.md",
-      "size_bytes": 5686,
-      "sha256": "1fbd167d3474abbb9ce438e9ced446ef0e34ee64a98207da016d972883770784"
+      "size_bytes": 5916,
+      "sha256": "c88fe8d3e38846f4a5a5c2bf4781a54b33e37c80cb61e3c23f2cce9a1e124853"
     },
     {
       "path": "docs/15-needed-measurements.md",
-      "size_bytes": 4287,
-      "sha256": "d541e98b48c7908c7d271417efa2b9afea88eceb3fd02e4c84bd69aa44bea5ac"
+      "size_bytes": 3115,
+      "sha256": "ac90fcb74266ae0544c73e442d612dc2521df54dd3c0d6019db8eb27dc84d273"
+    },
+    {
+      "path": "docs/16-measured-layout.md",
+      "size_bytes": 3941,
+      "sha256": "e75ba4bea47c686d61cebc9334389d1a834cdd9ed7a16965d9a71241a7015ce7"
     },
     {
       "path": "docs/parts/first-purchase.md",
@@ -2802,6 +3082,21 @@
       "path": "drawings/README.md",
       "size_bytes": 141,
       "sha256": "3c19cbc53a90034fb4e9659befc0d0e65a1a7e02ab73e04d58c7524c7b2dfd35"
+    },
+    {
+      "path": "drawings/measurements-20261006/HELM_CHASSIS_4HOLE_CHECK_A3.pdf",
+      "size_bytes": 40016,
+      "sha256": "68a0163014cbecd70e935308aa9ff7c4e2e05d77ea6c2ae020a3312db54646ba"
+    },
+    {
+      "path": "drawings/measurements-20261006/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf",
+      "size_bytes": 96292,
+      "sha256": "44d16656298cfa891a67c2e788da8c613ccc73539c52c5e4df795f2a727a0468"
+    },
+    {
+      "path": "drawings/measurements-20261006/HELM_MEASURED_BUILD_GUIDE_KO.pdf",
+      "size_bytes": 103192,
+      "sha256": "dc1061c71e07b574b8e73fcd60a073a11a3240755563762838076ca1b7a8e4d1"
     },
     {
       "path": "drawings/procurement-review/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf",
@@ -2875,8 +3170,8 @@
     },
     {
       "path": "tools/check_repository.py",
-      "size_bytes": 6021,
-      "sha256": "5402327ef0dd82600b24948cfb2cb531ec23f28af63906e969b51470379496e9"
+      "size_bytes": 8904,
+      "sha256": "eb32484279c6de7422279cd8f1cc829ba77d2e422887f1df9a5592e1bb50dd11"
     },
     {
       "path": "tools/resplit_review_archive.py",

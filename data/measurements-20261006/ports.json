@@ -1,0 +1,3205 @@
+{
+  "BAT_POS": {
+    "xyz": [
+      47,
+      74,
+      236.3898922198363
+    ],
+    "owner": "ROCKET ES7-12 F2",
+    "connector": "FDFD female FASTON",
+    "pin": "POS",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      47.0,
+      74.0,
+      236.3898922198363
+    ],
+    "wire_xyz": [
+      47.0,
+      74.0,
+      236.3898922198363
+    ]
+  },
+  "BAT_NEG": {
+    "xyz": [
+      47,
+      119,
+      236.3898922198363
+    ],
+    "owner": "ROCKET ES7-12 F2",
+    "connector": "FDFD female FASTON",
+    "pin": "NEG",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      47.0,
+      119.0,
+      236.3898922198363
+    ],
+    "wire_xyz": [
+      47.0,
+      119.0,
+      236.3898922198363
+    ]
+  },
+  "ESP32_USB": {
+    "xyz": [
+      121.9,
+      136,
+      273.2
+    ],
+    "owner": "ESP32 USB-C clone",
+    "connector": "USB-C",
+    "pin": "USB",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "USB_C_ADAPTATION_POSITION_PENDING_SAMPLE",
+    "connection_xyz": [
+      121.9,
+      136.0,
+      273.2
+    ],
+    "wire_xyz": [
+      97.9,
+      136.0,
+      273.2
+    ]
+  },
+  "MCU_PWM_L": {
+    "xyz": [
+      149.45999999999998,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO25",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      149.45999999999998,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      149.45999999999998,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_DIR_L": {
+    "xyz": [
+      154.54,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO27",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      154.54,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      154.54,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_PWM_R": {
+    "xyz": [
+      152.0,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO26",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      152.0,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      152.0,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_DIR_R": {
+    "xyz": [
+      157.07999999999998,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO14",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      157.07999999999998,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      157.07999999999998,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_PAN_PWM": {
+    "xyz": [
+      144.38,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO32",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      144.38,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      144.38,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_TILT_PWM": {
+    "xyz": [
+      146.92,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO33",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      146.92,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      146.92,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_SDA": {
+    "xyz": [
+      141.83999999999997,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO21",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      141.83999999999997,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      141.83999999999997,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_SCL": {
+    "xyz": [
+      134.22,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO22",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      134.22,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      134.22,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_BUMP_F": {
+    "xyz": [
+      159.61999999999998,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO4",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      159.61999999999998,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      159.61999999999998,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_BUMP_REAR": {
+    "xyz": [
+      164.7,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO2",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      164.7,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      164.7,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_BUMP_LEFT": {
+    "xyz": [
+      157.07999999999998,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO16",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      157.07999999999998,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      157.07999999999998,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_BUMP_RIGHT": {
+    "xyz": [
+      154.54,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO17",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      154.54,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      154.54,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_ENC_L": {
+    "xyz": [
+      139.29999999999998,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO34",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      139.29999999999998,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      139.29999999999998,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_ENC_R": {
+    "xyz": [
+      134.22,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO36",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      134.22,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      134.22,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_V_SENSE": {
+    "xyz": [
+      159.61999999999998,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIO12",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      159.61999999999998,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      159.61999999999998,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_GND": {
+    "xyz": [
+      162.16,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 Dupont",
+    "pin": "GPIOGND",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      162.16,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      162.16,
+      147.43,
+      280.4
+    ]
+  },
+  "BUCK_IN_POS": {
+    "xyz": [
+      190.46,
+      143,
+      274.6
+    ],
+    "owner": "SZH-EK366",
+    "connector": "Screw terminal",
+    "pin": "IN",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      190.46,
+      143.0,
+      274.6
+    ],
+    "wire_xyz": [
+      190.46,
+      143.0,
+      274.6
+    ]
+  },
+  "BUCK_IN_NEG": {
+    "xyz": [
+      195.54,
+      143,
+      274.6
+    ],
+    "owner": "SZH-EK366",
+    "connector": "Screw terminal",
+    "pin": "IN",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      195.54,
+      143.0,
+      274.6
+    ],
+    "wire_xyz": [
+      195.54,
+      143.0,
+      274.6
+    ]
+  },
+  "BUCK_OUT_POS": {
+    "xyz": [
+      243.46,
+      143,
+      274.6
+    ],
+    "owner": "SZH-EK366",
+    "connector": "Screw terminal",
+    "pin": "OUT",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      243.46,
+      143.0,
+      274.6
+    ],
+    "wire_xyz": [
+      243.46,
+      143.0,
+      274.6
+    ]
+  },
+  "BUCK_OUT_NEG": {
+    "xyz": [
+      248.54,
+      143,
+      274.6
+    ],
+    "owner": "SZH-EK366",
+    "connector": "Screw terminal",
+    "pin": "OUT",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      248.54,
+      143.0,
+      274.6
+    ],
+    "wire_xyz": [
+      248.54,
+      143.0,
+      274.6
+    ]
+  },
+  "HUB_USB0": {
+    "xyz": [
+      43.25,
+      165.5,
+      291
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "USB-A",
+    "pin": "1",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      43.25,
+      165.5,
+      291.0
+    ],
+    "wire_xyz": [
+      43.25,
+      165.5,
+      315.0
+    ]
+  },
+  "HUB_USB1": {
+    "xyz": [
+      64.25,
+      165.5,
+      291
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "USB-A",
+    "pin": "2",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      64.25,
+      165.5,
+      291.0
+    ],
+    "wire_xyz": [
+      64.25,
+      165.5,
+      315.0
+    ]
+  },
+  "HUB_USB2": {
+    "xyz": [
+      85.25,
+      165.5,
+      291
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "USB-A",
+    "pin": "3",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      85.25,
+      165.5,
+      291.0
+    ],
+    "wire_xyz": [
+      85.25,
+      165.5,
+      315.0
+    ]
+  },
+  "HUB_USB3": {
+    "xyz": [
+      106.25,
+      165.5,
+      291
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "USB-A",
+    "pin": "4",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      106.25,
+      165.5,
+      291.0
+    ],
+    "wire_xyz": [
+      106.25,
+      165.5,
+      315.0
+    ]
+  },
+  "HUB_UPSTREAM": {
+    "xyz": [
+      20,
+      160,
+      278
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "Captive USB-A",
+    "pin": "upstream",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      20,
+      160,
+      278
+    ],
+    "wire_xyz": [
+      20,
+      160,
+      278
+    ]
+  },
+  "HUB_DC": {
+    "xyz": [
+      20,
+      177,
+      278
+    ],
+    "owner": "NEXT505UHP",
+    "connector": "DC jack; diameter pending",
+    "pin": "5V",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      20,
+      177,
+      278
+    ],
+    "wire_xyz": [
+      20,
+      177,
+      278
+    ]
+  },
+  "DIVIDER_POS": {
+    "xyz": [
+      185.46,
+      174,
+      274.6
+    ],
+    "owner": "0-25V divider",
+    "connector": "Terminal",
+    "pin": "+",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      185.46,
+      174.0,
+      274.6
+    ],
+    "wire_xyz": [
+      185.46,
+      174.0,
+      274.6
+    ]
+  },
+  "DIVIDER_NEG": {
+    "xyz": [
+      190.54,
+      174,
+      274.6
+    ],
+    "owner": "0-25V divider",
+    "connector": "Terminal",
+    "pin": "-",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      190.54,
+      174.0,
+      274.6
+    ],
+    "wire_xyz": [
+      190.54,
+      174.0,
+      274.6
+    ]
+  },
+  "DIVIDER_SIG": {
+    "xyz": [
+      208,
+      183,
+      275
+    ],
+    "owner": "Divider",
+    "connector": "Dupont",
+    "pin": "ADC",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      208,
+      183,
+      275
+    ],
+    "wire_xyz": [
+      208,
+      183,
+      275
+    ]
+  },
+  "SPEAKER_USB": {
+    "xyz": [
+      -13,
+      204,
+      200
+    ],
+    "owner": "USB speaker",
+    "connector": "Captive USB",
+    "pin": "audio",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "PHOTO_ESTIMATE_EXIT; SKU_PENDING",
+    "connection_xyz": [
+      -13,
+      204,
+      200
+    ],
+    "wire_xyz": [
+      -13,
+      204,
+      200
+    ]
+  },
+  "BUS_POS0": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      78,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS1": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      91,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS2": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      104,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS3": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      117,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS4": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      130,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS5": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      143,
+      21,
+      156.5
+    ]
+  },
+  "BUS_POS6": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "POS",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      156,
+      21,
+      156.5
+    ]
+  },
+  "BUS_NEG0": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      78,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG1": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      91,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG2": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      104,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG3": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      117,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG4": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      130,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG5": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      143,
+      21,
+      185.5
+    ]
+  },
+  "BUS_NEG6": {
+    "xyz": null,
+    "owner": "PURCHASE_SZH_CP003_OUTLINE",
+    "connector": "Screw lug",
+    "pin": "NEG",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "LOGICAL_NET_ONLY_TERMINAL_ASSIGNMENT_PENDING",
+    "legacy_xyz": [
+      156,
+      21,
+      185.5
+    ]
+  },
+  "INLINE0_IN": {
+    "xyz": [
+      53,
+      24.6,
+      221
+    ],
+    "owner": "FHAC0002LXN",
+    "connector": "12AWG lead",
+    "pin": "IN",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      53.0,
+      24.6,
+      221.0
+    ],
+    "wire_xyz": [
+      53.0,
+      24.6,
+      221.0
+    ]
+  },
+  "INLINE0_OUT": {
+    "xyz": [
+      103,
+      24.6,
+      221
+    ],
+    "owner": "FHAC0002LXN",
+    "connector": "12AWG lead",
+    "pin": "OUT",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      103.0,
+      24.6,
+      221.0
+    ],
+    "wire_xyz": [
+      103.0,
+      24.6,
+      221.0
+    ]
+  },
+  "INLINE1_IN": {
+    "xyz": [
+      119,
+      24.6,
+      221
+    ],
+    "owner": "FHAC0002LXN",
+    "connector": "12AWG lead",
+    "pin": "IN",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      119.0,
+      24.6,
+      221.0
+    ],
+    "wire_xyz": [
+      119.0,
+      24.6,
+      221.0
+    ]
+  },
+  "INLINE1_OUT": {
+    "xyz": [
+      169,
+      24.6,
+      221
+    ],
+    "owner": "FHAC0002LXN",
+    "connector": "12AWG lead",
+    "pin": "OUT",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      169.0,
+      24.6,
+      221.0
+    ],
+    "wire_xyz": [
+      169.0,
+      24.6,
+      221.0
+    ]
+  },
+  "BOOST_IN_POS": {
+    "xyz": [
+      145,
+      164,
+      229
+    ],
+    "owner": "12V19V converter",
+    "connector": "Flying lead",
+    "pin": "IN_POS",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      145,
+      164,
+      229
+    ],
+    "wire_xyz": [
+      145,
+      164,
+      229
+    ]
+  },
+  "BOOST_IN_NEG": {
+    "xyz": [
+      154,
+      164,
+      229
+    ],
+    "owner": "12V19V converter",
+    "connector": "Flying lead",
+    "pin": "IN_NEG",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      154,
+      164,
+      229
+    ],
+    "wire_xyz": [
+      154,
+      164,
+      229
+    ]
+  },
+  "BOOST_OUT_POS": {
+    "xyz": [
+      194,
+      164,
+      229
+    ],
+    "owner": "12V19V converter",
+    "connector": "Flying lead",
+    "pin": "OUT_POS",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      194,
+      164,
+      229
+    ],
+    "wire_xyz": [
+      194,
+      164,
+      229
+    ]
+  },
+  "BOOST_OUT_NEG": {
+    "xyz": [
+      203,
+      164,
+      229
+    ],
+    "owner": "12V19V converter",
+    "connector": "Flying lead",
+    "pin": "OUT_NEG",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      203,
+      164,
+      229
+    ],
+    "wire_xyz": [
+      203,
+      164,
+      229
+    ]
+  },
+  "FUSE_IN0": {
+    "xyz": [
+      222.5,
+      66,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "IN0",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      222.5,
+      66.0,
+      188.0
+    ],
+    "wire_xyz": [
+      222.5,
+      66.0,
+      188.0
+    ]
+  },
+  "FUSE_OUT0": {
+    "xyz": [
+      275.5,
+      66,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "OUT0",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      275.5,
+      66.0,
+      188.0
+    ],
+    "wire_xyz": [
+      275.5,
+      66.0,
+      188.0
+    ]
+  },
+  "FUSE_IN1": {
+    "xyz": [
+      222.5,
+      86,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "IN1",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      222.5,
+      86.0,
+      188.0
+    ],
+    "wire_xyz": [
+      222.5,
+      86.0,
+      188.0
+    ]
+  },
+  "FUSE_OUT1": {
+    "xyz": [
+      275.5,
+      86,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "OUT1",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      275.5,
+      86.0,
+      188.0
+    ],
+    "wire_xyz": [
+      275.5,
+      86.0,
+      188.0
+    ]
+  },
+  "FUSE_IN2": {
+    "xyz": [
+      222.5,
+      106,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "IN2",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      222.5,
+      106.0,
+      188.0
+    ],
+    "wire_xyz": [
+      222.5,
+      106.0,
+      188.0
+    ]
+  },
+  "FUSE_OUT2": {
+    "xyz": [
+      275.5,
+      106,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "OUT2",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      275.5,
+      106.0,
+      188.0
+    ],
+    "wire_xyz": [
+      275.5,
+      106.0,
+      188.0
+    ]
+  },
+  "FUSE_IN3": {
+    "xyz": [
+      222.5,
+      126,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "IN3",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      222.5,
+      126.0,
+      188.0
+    ],
+    "wire_xyz": [
+      222.5,
+      126.0,
+      188.0
+    ]
+  },
+  "FUSE_OUT3": {
+    "xyz": [
+      275.5,
+      126,
+      188
+    ],
+    "owner": "SZH-JA020",
+    "connector": "FASTON6.3 assumed",
+    "pin": "OUT3",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      275.5,
+      126.0,
+      188.0
+    ],
+    "wire_xyz": [
+      275.5,
+      126.0,
+      188.0
+    ]
+  },
+  "RELAY_30": {
+    "xyz": [
+      237,
+      15,
+      164
+    ],
+    "owner": "12V4pin relay",
+    "connector": "Socket lead",
+    "pin": "30",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "VERIFY_SOCKET_PIN_MARKINGS",
+    "connection_xyz": [
+      237,
+      15,
+      164
+    ],
+    "wire_xyz": [
+      237,
+      15,
+      164
+    ]
+  },
+  "RELAY_87": {
+    "xyz": [
+      251,
+      15,
+      164
+    ],
+    "owner": "12V4pin relay",
+    "connector": "Socket lead",
+    "pin": "87",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "VERIFY_SOCKET_PIN_MARKINGS",
+    "connection_xyz": [
+      251,
+      15,
+      164
+    ],
+    "wire_xyz": [
+      251,
+      15,
+      164
+    ]
+  },
+  "RELAY_85": {
+    "xyz": [
+      235,
+      36,
+      164
+    ],
+    "owner": "12V4pin relay",
+    "connector": "Socket lead",
+    "pin": "85",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "VERIFY_SOCKET_PIN_MARKINGS",
+    "connection_xyz": [
+      235,
+      36,
+      164
+    ],
+    "wire_xyz": [
+      235,
+      36,
+      164
+    ]
+  },
+  "RELAY_86": {
+    "xyz": [
+      253,
+      36,
+      164
+    ],
+    "owner": "12V4pin relay",
+    "connector": "Socket lead",
+    "pin": "86",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "VERIFY_SOCKET_PIN_MARKINGS",
+    "connection_xyz": [
+      253,
+      36,
+      164
+    ],
+    "wire_xyz": [
+      253,
+      36,
+      164
+    ]
+  },
+  "ESTOP_IN": {
+    "xyz": [
+      240,
+      16,
+      220
+    ],
+    "owner": "KGE NC contact",
+    "connector": "Screw terminal",
+    "pin": "IN",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "VERIFY_NATIVE_CONTACT_MARKINGS",
+    "connection_xyz": [
+      240,
+      16,
+      220
+    ],
+    "wire_xyz": [
+      240,
+      16,
+      220
+    ]
+  },
+  "ESTOP_OUT": {
+    "xyz": [
+      240,
+      30,
+      220
+    ],
+    "owner": "KGE NC contact",
+    "connector": "Screw terminal",
+    "pin": "OUT",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "VERIFY_NATIVE_CONTACT_MARKINGS",
+    "connection_xyz": [
+      240,
+      30,
+      220
+    ],
+    "wire_xyz": [
+      240,
+      30,
+      220
+    ]
+  },
+  "ROCKER_IN": {
+    "xyz": null,
+    "owner": "Main switch",
+    "connector": "FASTON",
+    "pin": "IN",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "ACTUAL_TERMINAL_POSITION_PENDING",
+    "connection_xyz": [
+      262,
+      -7,
+      230
+    ],
+    "wire_xyz": [
+      262,
+      -7,
+      230
+    ]
+  },
+  "ROCKER_OUT": {
+    "xyz": null,
+    "owner": "Main switch",
+    "connector": "FASTON",
+    "pin": "OUT",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "ACTUAL_TERMINAL_POSITION_PENDING",
+    "connection_xyz": [
+      268,
+      -7,
+      230
+    ],
+    "wire_xyz": [
+      268,
+      -7,
+      230
+    ]
+  },
+  "ROCKER_GND": {
+    "xyz": null,
+    "owner": "Main switch",
+    "connector": "FASTON",
+    "pin": "GND",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "ACTUAL_TERMINAL_POSITION_PENDING",
+    "connection_xyz": [
+      274,
+      -7,
+      230
+    ],
+    "wire_xyz": [
+      274,
+      -7,
+      230
+    ]
+  },
+  "JETSON_DC": {
+    "xyz": [
+      22.5,
+      -3.3031250000000014,
+      283.970021523366
+    ],
+    "owner": "JetsonJ16 through760K",
+    "connector": "DC5.5/2.5",
+    "pin": "center+/sleeve-",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "NATIVE_PORT_AXIS; PLUG_PROFILE_RECONSTRUCTED",
+    "connection_xyz": [
+      22.5,
+      -3.3031250000000014,
+      283.970021523366
+    ],
+    "wire_xyz": [
+      22.5,
+      -3.3031250000000014,
+      283.970021523366
+    ]
+  },
+  "JETSON_USB0": {
+    "xyz": [
+      59.1,
+      30.376875,
+      279.984023831366
+    ],
+    "owner": "Jetson",
+    "connector": "USB-A",
+    "pin": "0",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "NATIVE_PORT_FACE",
+    "connection_xyz": [
+      59.1,
+      30.376875,
+      279.984023831366
+    ],
+    "wire_xyz": [
+      59.1,
+      6.376874999999998,
+      279.984023831366
+    ]
+  },
+  "JETSON_USB1": {
+    "xyz": [
+      59.1,
+      30.376875,
+      289.384023831366
+    ],
+    "owner": "Jetson",
+    "connector": "USB-A",
+    "pin": "1",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "NATIVE_PORT_FACE",
+    "connection_xyz": [
+      59.1,
+      30.376875,
+      289.384023831366
+    ],
+    "wire_xyz": [
+      59.1,
+      6.376874999999998,
+      289.384023831366
+    ]
+  },
+  "JETSON_USB2": {
+    "xyz": [
+      76.1,
+      30.376875,
+      279.984023831366
+    ],
+    "owner": "Jetson",
+    "connector": "USB-A",
+    "pin": "2",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "NATIVE_PORT_FACE",
+    "connection_xyz": [
+      76.1,
+      30.376875,
+      279.984023831366
+    ],
+    "wire_xyz": [
+      76.1,
+      6.376874999999998,
+      279.984023831366
+    ]
+  },
+  "JETSON_USB3": {
+    "xyz": [
+      76.1,
+      30.376875,
+      289.384023831366
+    ],
+    "owner": "Jetson",
+    "connector": "USB-A",
+    "pin": "3",
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "status": "NATIVE_PORT_FACE",
+    "connection_xyz": [
+      76.1,
+      30.376875,
+      289.384023831366
+    ],
+    "wire_xyz": [
+      76.1,
+      6.376874999999998,
+      289.384023831366
+    ]
+  },
+  "MDD_L1": {
+    "xyz": [
+      137.63,
+      50.3,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "L1",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      50.3,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      50.3,
+      275.0
+    ]
+  },
+  "MDD_L2": {
+    "xyz": [
+      137.63,
+      55.4,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "L2",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      55.4,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      55.4,
+      275.0
+    ]
+  },
+  "MDD_POS": {
+    "xyz": [
+      137.63,
+      60.4,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "POS",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      60.4,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      60.4,
+      275.0
+    ]
+  },
+  "MDD_NEG": {
+    "xyz": [
+      137.63,
+      65.4,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "NEG",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      65.4,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      65.4,
+      275.0
+    ]
+  },
+  "MDD_R1": {
+    "xyz": [
+      137.63,
+      70.3,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "R1",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      70.3,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      70.3,
+      275.0
+    ]
+  },
+  "MDD_R2": {
+    "xyz": [
+      137.63,
+      75.4,
+      275
+    ],
+    "owner": "MDD10A",
+    "connector": "Screw terminal",
+    "pin": "R2",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NATIVE_POSITION; VERIFY_SILKSCREEN_ORDER",
+    "connection_xyz": [
+      137.63,
+      75.4,
+      275.0
+    ],
+    "wire_xyz": [
+      137.63,
+      75.4,
+      275.0
+    ]
+  },
+  "MDD_PWM_L": {
+    "xyz": [
+      216.5,
+      57.78,
+      280
+    ],
+    "owner": "MDD10A",
+    "connector": "2.54 header",
+    "pin": "PWM_L",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "HEADER_ORDER_PENDING",
+    "connection_xyz": [
+      216.5,
+      57.78,
+      280.0
+    ],
+    "wire_xyz": [
+      216.5,
+      57.78,
+      286.0
+    ]
+  },
+  "MDD_DIR_L": {
+    "xyz": [
+      216.5,
+      60.32,
+      280
+    ],
+    "owner": "MDD10A",
+    "connector": "2.54 header",
+    "pin": "DIR_L",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "HEADER_ORDER_PENDING",
+    "connection_xyz": [
+      216.5,
+      60.32,
+      280.0
+    ],
+    "wire_xyz": [
+      216.5,
+      60.32,
+      286.0
+    ]
+  },
+  "MDD_GND": {
+    "xyz": [
+      216.5,
+      62.86,
+      280
+    ],
+    "owner": "MDD10A",
+    "connector": "2.54 header",
+    "pin": "GND",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "HEADER_ORDER_PENDING",
+    "connection_xyz": [
+      216.5,
+      62.86,
+      280.0
+    ],
+    "wire_xyz": [
+      216.5,
+      62.86,
+      286.0
+    ]
+  },
+  "MDD_PWM_R": {
+    "xyz": [
+      216.5,
+      65.4,
+      280
+    ],
+    "owner": "MDD10A",
+    "connector": "2.54 header",
+    "pin": "PWM_R",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "HEADER_ORDER_PENDING",
+    "connection_xyz": [
+      216.5,
+      65.4,
+      280.0
+    ],
+    "wire_xyz": [
+      216.5,
+      65.4,
+      286.0
+    ]
+  },
+  "MDD_DIR_R": {
+    "xyz": [
+      216.5,
+      67.94,
+      280
+    ],
+    "owner": "MDD10A",
+    "connector": "2.54 header",
+    "pin": "DIR_R",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "HEADER_ORDER_PENDING",
+    "connection_xyz": [
+      216.5,
+      67.94,
+      280.0
+    ],
+    "wire_xyz": [
+      216.5,
+      67.94,
+      286.0
+    ]
+  },
+  "C920_USB": {
+    "xyz": [
+      263,
+      118.785,
+      357.88
+    ],
+    "owner": "C920",
+    "connector": "Captive USB-A",
+    "pin": "USB",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "status": "RELOCATED_REFERENCE; cable route must be rebuilt",
+    "connection_xyz": [
+      263,
+      118.785,
+      333.5
+    ],
+    "wire_xyz": [
+      263,
+      132,
+      333.5
+    ]
+  },
+  "THERMAL_I2C": {
+    "xyz": null,
+    "owner": "SEENGREAT 220565 MLX90640-D55",
+    "connector": "PH2.0 4-pin",
+    "pin": "GND/VCC/SDA/SCL; functions verified, mating orientation pending",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "MANUFACTURER_INTERFACE_ROUTING_PENDING",
+    "legacy_xyz": [
+      306.0,
+      91.7150566272343,
+      252.0
+    ]
+  },
+  "BUMPER_FRONT_COM": {
+    "xyz": [
+      297.939117208304,
+      87.7150566272343,
+      40.0
+    ],
+    "owner": "FRONT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "COM",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      297.939117208304,
+      87.7150566272343,
+      40.0
+    ],
+    "wire_xyz": [
+      297.939117208304,
+      87.7150566272343,
+      40.0
+    ]
+  },
+  "BUMPER_FRONT_NC": {
+    "xyz": [
+      297.939117208304,
+      105.7150566272343,
+      40.0
+    ],
+    "owner": "FRONT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "NC",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      297.939117208304,
+      105.7150566272343,
+      40.0
+    ],
+    "wire_xyz": [
+      297.939117208304,
+      105.7150566272343,
+      40.0
+    ]
+  },
+  "BUMPER_REAR_COM": {
+    "xyz": [
+      -18.0,
+      105.7150566272343,
+      40.0
+    ],
+    "owner": "REAR V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "COM",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      -18.0,
+      105.7150566272343,
+      40.0
+    ],
+    "wire_xyz": [
+      -18.0,
+      105.7150566272343,
+      40.0
+    ]
+  },
+  "BUMPER_REAR_NC": {
+    "xyz": [
+      -18.0,
+      87.7150566272343,
+      40.0
+    ],
+    "owner": "REAR V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "NC",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      -18.0,
+      87.7150566272343,
+      40.0
+    ],
+    "wire_xyz": [
+      -18.0,
+      87.7150566272343,
+      40.0
+    ]
+  },
+  "BUMPER_LEFT_COM": {
+    "xyz": [
+      130.969558604152,
+      -18.0,
+      40.0
+    ],
+    "owner": "LEFT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "COM",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      130.969558604152,
+      -18.0,
+      40.0
+    ],
+    "wire_xyz": [
+      130.969558604152,
+      -18.0,
+      40.0
+    ]
+  },
+  "BUMPER_LEFT_NC": {
+    "xyz": [
+      148.969558604152,
+      -18.0,
+      40.0
+    ],
+    "owner": "LEFT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "NC",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      148.969558604152,
+      -18.0,
+      40.0
+    ],
+    "wire_xyz": [
+      148.969558604152,
+      -18.0,
+      40.0
+    ]
+  },
+  "BUMPER_RIGHT_COM": {
+    "xyz": [
+      148.969558604152,
+      211.4301132544686,
+      40.0
+    ],
+    "owner": "RIGHT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "COM",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      148.969558604152,
+      211.4301132544686,
+      40.0
+    ],
+    "wire_xyz": [
+      148.969558604152,
+      211.4301132544686,
+      40.0
+    ]
+  },
+  "BUMPER_RIGHT_NC": {
+    "xyz": [
+      130.969558604152,
+      211.4301132544686,
+      40.0
+    ],
+    "owner": "RIGHT V-J166",
+    "connector": "TE2-520181-2",
+    "pin": "NC",
+    "direction": [
+      0,
+      0,
+      -1
+    ],
+    "status": "SWITCH_PIN_DATUM_PENDING",
+    "connection_xyz": [
+      130.969558604152,
+      211.4301132544686,
+      40.0
+    ],
+    "wire_xyz": [
+      130.969558604152,
+      211.4301132544686,
+      40.0
+    ]
+  },
+  "BNO_SPI_3V3": {
+    "xyz": [
+      213.1,
+      111.54,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "3V3",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      111.54,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      111.54,
+      284.0
+    ]
+  },
+  "BNO_SPI_GND": {
+    "xyz": [
+      213.1,
+      114.08,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "GND",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      114.08,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      114.08,
+      284.0
+    ]
+  },
+  "BNO_SPI_SCK": {
+    "xyz": [
+      213.1,
+      116.62,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "SCK",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      116.62,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      116.62,
+      284.0
+    ]
+  },
+  "BNO_SPI_MISO": {
+    "xyz": [
+      213.1,
+      119.16,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "MISO",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      119.16,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      119.16,
+      284.0
+    ]
+  },
+  "BNO_SPI_MOSI": {
+    "xyz": [
+      213.1,
+      121.7,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "MOSI",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      121.7,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      121.7,
+      284.0
+    ]
+  },
+  "BNO_SPI_CS": {
+    "xyz": [
+      213.1,
+      124.24,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "CS",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      124.24,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      124.24,
+      284.0
+    ]
+  },
+  "BNO_SPI_INT": {
+    "xyz": [
+      213.1,
+      126.78,
+      278
+    ],
+    "owner": "BNO085",
+    "connector": "2.54 header",
+    "pin": "INT",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NATIVE_BOARD; PIN_CAVITY_ASSIGNMENT_PENDING",
+    "connection_xyz": [
+      213.1,
+      126.78,
+      278.0
+    ],
+    "wire_xyz": [
+      213.1,
+      126.78,
+      284.0
+    ]
+  },
+  "MCU_SPI_SCK": {
+    "xyz": [
+      149.45999999999998,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO18",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      149.45999999999998,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      149.45999999999998,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_SPI_MISO": {
+    "xyz": [
+      146.92,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO19",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      146.92,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      146.92,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_SPI_MOSI": {
+    "xyz": [
+      131.67999999999998,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO23",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      131.67999999999998,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      131.67999999999998,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_SPI_CS": {
+    "xyz": [
+      152.0,
+      124.57,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO5",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      152.0,
+      124.57,
+      274.4
+    ],
+    "wire_xyz": [
+      152.0,
+      124.57,
+      280.4
+    ]
+  },
+  "MCU_SPI_INT": {
+    "xyz": [
+      164.7,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO13",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      164.7,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      164.7,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_SPI_3V3": {
+    "xyz": [
+      129.14,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO3V3",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      129.14,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      129.14,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_SPI_GND": {
+    "xyz": [
+      162.16,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIOGND",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      162.16,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      162.16,
+      147.43,
+      280.4
+    ]
+  },
+  "ENCODER_IN": {
+    "xyz": [
+      168,
+      108,
+      278
+    ],
+    "owner": "Encoder interface",
+    "connector": "2.54 header",
+    "pin": "A/B L/R",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      168,
+      108,
+      278
+    ],
+    "wire_xyz": [
+      162,
+      108,
+      278
+    ]
+  },
+  "ENCODER_OUT": {
+    "xyz": [
+      188,
+      108,
+      278
+    ],
+    "owner": "Encoder interface",
+    "connector": "2.54 header",
+    "pin": "3.3V A/B L/R",
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      188,
+      108,
+      278
+    ],
+    "wire_xyz": [
+      194,
+      108,
+      278
+    ]
+  },
+  "ADC_ANALOG": {
+    "xyz": null,
+    "owner": "UNRESOLVED_VOLTAGE_ACQUISITION",
+    "connector": "2.54 header",
+    "pin": "AIN0",
+    "direction": [
+      -1,
+      0,
+      0
+    ],
+    "status": "NOT_INSTALLED_UNPURCHASED_MODULE",
+    "legacy_xyz": [
+      225,
+      125,
+      275
+    ]
+  },
+  "ADC_I2C": {
+    "xyz": null,
+    "owner": "UNRESOLVED_VOLTAGE_ACQUISITION",
+    "connector": "2.54 header",
+    "pin": "3V3,GND,SDA,SCL",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "NOT_INSTALLED_UNPURCHASED_MODULE",
+    "legacy_xyz": [
+      247,
+      129,
+      277
+    ]
+  },
+  "MOTOR_L_M1": {
+    "xyz": [
+      201,
+      38,
+      99.7
+    ],
+    "owner": "JGB3865 motor L",
+    "connector": "JST PH6",
+    "pin": "M1",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      201.0,
+      38.0,
+      99.7
+    ],
+    "wire_xyz": [
+      201.0,
+      38.0,
+      99.7
+    ]
+  },
+  "MOTOR_L_M2": {
+    "xyz": [
+      203,
+      38,
+      99.7
+    ],
+    "owner": "JGB3865 motor L",
+    "connector": "JST PH6",
+    "pin": "M2",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      203.0,
+      38.0,
+      99.7
+    ],
+    "wire_xyz": [
+      203.0,
+      38.0,
+      99.7
+    ]
+  },
+  "MOTOR_L_ENC": {
+    "xyz": [
+      207,
+      38,
+      99.7
+    ],
+    "owner": "JGB3865 motor L",
+    "connector": "JST PH6",
+    "pin": "ENC",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      207.0,
+      38.0,
+      99.7
+    ],
+    "wire_xyz": [
+      207.0,
+      38.0,
+      99.7
+    ]
+  },
+  "MOTOR_R_M1": {
+    "xyz": [
+      201,
+      155,
+      99.7
+    ],
+    "owner": "JGB3865 motor R",
+    "connector": "JST PH6",
+    "pin": "M1",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      201.0,
+      155.0,
+      99.7
+    ],
+    "wire_xyz": [
+      201.0,
+      155.0,
+      99.7
+    ]
+  },
+  "MOTOR_R_M2": {
+    "xyz": [
+      203,
+      155,
+      99.7
+    ],
+    "owner": "JGB3865 motor R",
+    "connector": "JST PH6",
+    "pin": "M2",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      203.0,
+      155.0,
+      99.7
+    ],
+    "wire_xyz": [
+      203.0,
+      155.0,
+      99.7
+    ]
+  },
+  "MOTOR_R_ENC": {
+    "xyz": [
+      207,
+      155,
+      99.7
+    ],
+    "owner": "JGB3865 motor R",
+    "connector": "JST PH6",
+    "pin": "ENC",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "MOTOR_MATING_DATUM_PENDING",
+    "connection_xyz": [
+      207.0,
+      155.0,
+      99.7
+    ],
+    "wire_xyz": [
+      207.0,
+      155.0,
+      99.7
+    ]
+  },
+  "MCU_3V3": {
+    "xyz": [
+      129.14,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO3V3",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      129.14,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      129.14,
+      147.43,
+      280.4
+    ]
+  },
+  "MCU_5V": {
+    "xyz": [
+      174.85999999999999,
+      147.43,
+      274.4
+    ],
+    "owner": "ESP32",
+    "connector": "2.54 header",
+    "pin": "GPIO5V",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "ESPRESSIF_HEADER_ORDER; USB_C_CLONE_ORIENTATION_REQUIRES_SAMPLE",
+    "connection_xyz": [
+      174.85999999999999,
+      147.43,
+      274.4
+    ],
+    "wire_xyz": [
+      174.85999999999999,
+      147.43,
+      280.4
+    ]
+  },
+  "D5_IN": {
+    "xyz": [
+      232,
+      195,
+      277
+    ],
+    "owner": "5V star board",
+    "connector": "2.54 header",
+    "pin": "IN power pair",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      232,
+      195,
+      277
+    ],
+    "wire_xyz": [
+      232,
+      195,
+      283
+    ]
+  },
+  "D5_HUB": {
+    "xyz": [
+      239,
+      195,
+      277
+    ],
+    "owner": "5V star board",
+    "connector": "2.54 header",
+    "pin": "HUB power pair",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      239,
+      195,
+      277
+    ],
+    "wire_xyz": [
+      239,
+      195,
+      283
+    ]
+  },
+  "D5_PAN": {
+    "xyz": [
+      246,
+      195,
+      277
+    ],
+    "owner": "5V star board",
+    "connector": "2.54 header",
+    "pin": "PAN power pair",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      246,
+      195,
+      277
+    ],
+    "wire_xyz": [
+      246,
+      195,
+      283
+    ]
+  },
+  "D5_TILT": {
+    "xyz": [
+      253,
+      195,
+      277
+    ],
+    "owner": "5V star board",
+    "connector": "2.54 header",
+    "pin": "TILT power pair",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      253,
+      195,
+      277
+    ],
+    "wire_xyz": [
+      253,
+      195,
+      283
+    ]
+  },
+  "D5_ENC": {
+    "xyz": [
+      260,
+      195,
+      277
+    ],
+    "owner": "5V star board",
+    "connector": "2.54 header",
+    "pin": "ENC power pair",
+    "direction": [
+      0,
+      0,
+      1
+    ],
+    "status": "APPROX_POSITION",
+    "connection_xyz": [
+      260,
+      195,
+      277
+    ],
+    "wire_xyz": [
+      260,
+      195,
+      283
+    ]
+  },
+  "SER0063_PAN_CABLE": {
+    "xyz": null,
+    "owner": "USER_SER0063_PAN",
+    "connector": "Servo 3-wire, verify supplied pinout",
+    "status": "UNMEASURED_LEAD_EXIT",
+    "direction": null
+  },
+  "SER0063_TILT_CABLE": {
+    "xyz": null,
+    "owner": "USER_SER0063_TILT",
+    "connector": "Servo 3-wire, verify supplied pinout",
+    "status": "UNMEASURED_LEAD_EXIT",
+    "direction": null
+  }
+}

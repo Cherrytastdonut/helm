@@ -355,7 +355,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 205,
+    "cad_nodes": 204,
     "node_examples": "STANDARD_PLUG_HUB_USB0_SHELL; STANDARD_PLUG_HUB_USB0_TONGUE; STANDARD_PLUG_HUB_USB0_CONTACT_0; STANDARD_PLUG_HUB_USB0_CONTACT_1",
     "source_url": "https://www.coupang.com/vp/products/8913656765",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -374,7 +374,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 205,
+    "cad_nodes": 204,
     "node_examples": "STANDARD_PLUG_HUB_USB0_SHELL; STANDARD_PLUG_HUB_USB0_TONGUE; STANDARD_PLUG_HUB_USB0_CONTACT_0; STANDARD_PLUG_HUB_USB0_CONTACT_1",
     "source_url": "https://www.coupang.com/vp/products/8913656765",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -450,7 +450,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 652,
+    "cad_nodes": 492,
     "node_examples": "M4_CHASSIS_0; M4_CHASSIS_W_0; M4_CHASSIS_N_0; M4_CHASSIS_1",
     "source_url": "https://www.coupang.com/vp/products/7354375381?vendorItemId=86059571826&sourceType=CART",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -583,7 +583,7 @@
     "decision": "현장 조정",
     "action": "핀 순서·같은면 여부를 실물 확인하고 당기지 않는 경로로 정리",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 207,
+    "cad_nodes": 206,
     "node_examples": "DRAWING_BASED_MOTOR_PH6_L; DRAWING_BASED_MOTOR_PH6_R; STANDARD_PLUG_HUB_USB0_SHELL; STANDARD_PLUG_HUB_USB0_TONGUE",
     "source_url": "https://www.coupang.com/vp/products/9303101206?itemId=27560476026",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -1134,7 +1134,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 205,
+    "cad_nodes": 204,
     "node_examples": "STANDARD_PLUG_HUB_USB0_SHELL; STANDARD_PLUG_HUB_USB0_TONGUE; STANDARD_PLUG_HUB_USB0_CONTACT_0; STANDARD_PLUG_HUB_USB0_CONTACT_1",
     "source_url": "https://www.coupang.com/vp/products/9482860709?itemId=28235768186&searchId=feed-4d01b1d35eb04049924431a39b119c0c-3.3.37%3Aview_together_ads-P9066477738&vendorItemId=95189443647&sourceType=SDP_ADS&clickEventId=5c6f05b0-ade2-11f1-b1cf-8cc0b0deb2d6",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -1191,7 +1191,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 652,
+    "cad_nodes": 492,
     "node_examples": "M4_CHASSIS_0; M4_CHASSIS_W_0; M4_CHASSIS_N_0; M4_CHASSIS_1",
     "source_url": "https://www.coupang.com/vp/products/7508022659?utm_source=chatgpt.com",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -1248,7 +1248,7 @@
     "decision": "현장 조정",
     "action": "부품을 올린 뒤 필요한 몸통 길이·나사 체결 길이·절연 간격 선택",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 652,
+    "cad_nodes": 492,
     "node_examples": "M4_CHASSIS_0; M4_CHASSIS_W_0; M4_CHASSIS_N_0; M4_CHASSIS_1",
     "source_url": "https://www.coupang.com/vp/products/8812110205?utm_source=chatgpt.com",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -1609,7 +1609,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 652,
+    "cad_nodes": 492,
     "node_examples": "M4_CHASSIS_0; M4_CHASSIS_W_0; M4_CHASSIS_N_0; M4_CHASSIS_1",
     "source_url": "https://www.coupang.com/vp/products/8370981674?itemId=24189936695&vendorItemId=91207686372&q=%EC%9C%A1%EA%B0%81%ED%92%80%EB%A6%BC%EB%B0%A9%EC%A7%80+%EA%B3%A0%EC%A0%95+%EB%84%88%ED%8A%B8+m4&searchId=61591c8c267642&sourceType=search&itemsCount=60&searchRank=24&rank=24&traceId=mu1ib00p",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"
@@ -1704,7 +1704,7 @@
     "decision": "현장 조정",
     "action": "현장 상황에 따라 위치·고정·길이를 유연하게 조정. 강제 끼움/기판 홀 확대는 하지 않음",
     "cad_usage": "CAD 적용/재료 후보",
-    "cad_nodes": 205,
+    "cad_nodes": 204,
     "node_examples": "STANDARD_PLUG_HUB_USB0_SHELL; STANDARD_PLUG_HUB_USB0_TONGUE; STANDARD_PLUG_HUB_USB0_CONTACT_0; STANDARD_PLUG_HUB_USB0_CONTACT_1",
     "source_url": "https://www.devicemart.co.kr/goods/view?no=15453298&utm_source=chatgpt.com",
     "quantity_caution": "수량 셀과 상품명 묶음 수량을 임의 곱셈하지 않음"

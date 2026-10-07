@@ -106,5 +106,6 @@
       "sha256": "f09163511dbdf199003ec1645917abb206917f90d3d239f8dc8fa463862cad40",
       "git_blob_sha": "61ae50d47e8a11ec3201ae7c8375fbf9ea4da88c"
     }
-  ]
+  ],
+  "description": "Measured editable delta; restore together with procurement-review-20261001. 26 modified BREP shapes and full current editable metadata; all 3,897 editable file SHA-256 verified."
 }

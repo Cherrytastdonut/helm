@@ -1,0 +1,148 @@
+[
+  {
+    "name": "CHASSIS_0",
+    "point": [
+      41.6247,
+      62.6484,
+      129.3898922198363
+    ],
+    "source_hole": 4.3,
+    "bolt": 4,
+    "status": "NATIVE_HOLE_LOCATION"
+  },
+  {
+    "name": "CHASSIS_1",
+    "point": [
+      41.6247,
+      130.9651,
+      129.3898922198363
+    ],
+    "source_hole": 4.3,
+    "bolt": 4,
+    "status": "NATIVE_HOLE_LOCATION"
+  },
+  {
+    "name": "CHASSIS_2",
+    "point": [
+      228.4383,
+      65.433,
+      129.3898922198363
+    ],
+    "source_hole": 4.3,
+    "bolt": 4,
+    "status": "NATIVE_HOLE_LOCATION"
+  },
+  {
+    "name": "CHASSIS_3",
+    "point": [
+      228.4383,
+      128.1804,
+      129.3898922198363
+    ],
+    "source_hole": 4.3,
+    "bolt": 4,
+    "status": "NATIVE_HOLE_LOCATION"
+  },
+  {
+    "name": "CAMERA_PAN",
+    "origin": [
+      248,
+      96.7150566272343,
+      322.38
+    ],
+    "axis": [
+      0,
+      0,
+      1
+    ],
+    "status": "UNRELEASED: horn fit, existing camera hardware contacts, cable routing and loads unresolved; sampled angles are not approved limits",
+    "requested_limits_deg": [
+      -45,
+      45
+    ],
+    "approved_limits_deg": null
+  },
+  {
+    "name": "CAMERA_TILT",
+    "origin": [
+      248,
+      96.7150566272343,
+      374.38
+    ],
+    "axis": [
+      0,
+      1,
+      0
+    ],
+    "status": "UNRELEASED: horn fit, existing camera hardware contacts, cable routing and loads unresolved; sampled angles are not approved limits",
+    "requested_limits_deg": [
+      -20,
+      20
+    ],
+    "approved_limits_deg": null
+  },
+  {
+    "name": "FRONT_BUMPER",
+    "axis": [
+      -1,
+      0,
+      0
+    ],
+    "stroke": 4,
+    "nominal_trigger": 2,
+    "stop_gap": 4,
+    "guide_radial_clearance": 0.15,
+    "installed_spring": 8,
+    "compressed_spring": 4,
+    "free_spring": 12,
+    "status": "Switch OP/OT and corner contact require physical validation"
+  },
+  {
+    "name": "REAR_BUMPER",
+    "axis": [
+      1,
+      0,
+      0
+    ],
+    "stroke": 4,
+    "nominal_trigger": 2,
+    "stop_gap": 4,
+    "guide_radial_clearance": 0.15,
+    "installed_spring": 8,
+    "compressed_spring": 4,
+    "free_spring": 12,
+    "status": "Switch OP/OT and corner contact require physical validation"
+  },
+  {
+    "name": "LEFT_BUMPER",
+    "axis": [
+      0,
+      1,
+      0
+    ],
+    "stroke": 4,
+    "nominal_trigger": 2,
+    "stop_gap": 4,
+    "guide_radial_clearance": 0.15,
+    "installed_spring": 8,
+    "compressed_spring": 4,
+    "free_spring": 12,
+    "status": "Switch OP/OT and corner contact require physical validation"
+  },
+  {
+    "name": "RIGHT_BUMPER",
+    "axis": [
+      0,
+      -1,
+      0
+    ],
+    "stroke": 4,
+    "nominal_trigger": 2,
+    "stop_gap": 4,
+    "guide_radial_clearance": 0.15,
+    "installed_spring": 8,
+    "compressed_spring": 4,
+    "free_spring": 12,
+    "status": "Switch OP/OT and corner contact require physical validation"
+  }
+]

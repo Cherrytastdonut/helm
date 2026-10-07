@@ -1,12 +1,14 @@
+> MEASURED_LAYOUT_20261006 기준입니다. [필수 확인과 현장 조정](15-needed-measurements.md)을 구분해 진행합니다.
+
 # 재단·가공 가이드
 
 현재는 종이 대조·실측 단계입니다. 혼 연결, 기존 체결부 간섭, 포맥스 강도와 실제 체결품을 확인한 뒤 재단도를 확정합니다.
 
 ## 지금 할 일
 
-1. [최신 PDF](../drawings/procurement-review/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf)를 A3·실제 크기 100%로 출력합니다. 20쪽 모두 검토용이며 페이지 맞춤은 해제합니다.
+1. [최신 PDF](../drawings/measurements-20261006/HELM_CURRENT_FLAT_PROFILES_REVIEW_A3.pdf)를 A3·실제 크기 100%로 출력합니다. 20쪽 모두 검토용이며 페이지 맞춤은 해제합니다.
 2. 기준선을 재어 100 mm인지 확인합니다.
-3. 실물 모터 플랜지와 대조하고 혼·브래킷 치수를 기록합니다.
+3. [섀시 기준 4홀 확인지](../drawings/measurements-20261006/HELM_CHASSIS_4HOLE_CHECK_A3.pdf)를 대조하고 실제 혼·필수 장착부만 확인합니다. 고정 꺽쇠의 홀은 현장에서 전사합니다.
 4. 차이가 있으면 CAD를 수정합니다. 임의로 구멍을 늘려 끼우지 않습니다.
 
 ## 확정 뒤 가공 순서

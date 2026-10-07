@@ -1,0 +1,764 @@
+{
+  "revision": "MEASURED_LAYOUT_20261006",
+  "manufacturing_release": false,
+  "release_status": "NOT_FOR_FABRICATION",
+  "baseline": "PROCUREMENT_REVIEW_20261001",
+  "baseline_nodes": 4078,
+  "nodes": 3888,
+  "changed_geometry": [
+    "APPROX_SMALL_L_0_23_LEFT",
+    "APPROX_SMALL_L_0_23_RIGHT",
+    "APPROX_SMALL_L_0_245_LEFT",
+    "APPROX_SMALL_L_0_245_RIGHT",
+    "APPROX_SMALL_L_1_23_LEFT",
+    "APPROX_SMALL_L_1_23_RIGHT",
+    "APPROX_SMALL_L_1_245_LEFT",
+    "APPROX_SMALL_L_1_245_RIGHT",
+    "APPROX_MEDIUM_L_0",
+    "APPROX_MEDIUM_L_1",
+    "APPROX_MEDIUM_L_2",
+    "APPROX_MEDIUM_L_3",
+    "APPROX_BACKPLANE_L_0",
+    "APPROX_BACKPLANE_L_1",
+    "APPROX_CAM_L_LEFT",
+    "APPROX_CAM_L_RIGHT",
+    "COMMUNITY_C920_0",
+    "COMMUNITY_C920_1",
+    "COMMUNITY_C920_2",
+    "COMMUNITY_C920_3",
+    "COMMUNITY_C920_4",
+    "COMMUNITY_C920_5",
+    "COMMUNITY_C920_6",
+    "CUSTOM_C920_PAD",
+    "CUSTOM_LEFT_PANEL",
+    "PHOTO_BASED_MAIN_ROCKER"
+  ],
+  "part_exports": [
+    "APPROX_SMALL_L_0_23_LEFT",
+    "APPROX_SMALL_L_0_23_RIGHT",
+    "APPROX_SMALL_L_0_245_LEFT",
+    "APPROX_SMALL_L_0_245_RIGHT",
+    "APPROX_SMALL_L_1_23_LEFT",
+    "APPROX_SMALL_L_1_23_RIGHT",
+    "APPROX_SMALL_L_1_245_LEFT",
+    "APPROX_SMALL_L_1_245_RIGHT",
+    "APPROX_MEDIUM_L_0",
+    "APPROX_MEDIUM_L_1",
+    "APPROX_MEDIUM_L_2",
+    "APPROX_MEDIUM_L_3",
+    "APPROX_BACKPLANE_L_0",
+    "APPROX_BACKPLANE_L_1",
+    "APPROX_CAM_L_LEFT",
+    "APPROX_CAM_L_RIGHT",
+    "COMMUNITY_C920_0",
+    "COMMUNITY_C920_1",
+    "COMMUNITY_C920_2",
+    "COMMUNITY_C920_3",
+    "COMMUNITY_C920_4",
+    "COMMUNITY_C920_5",
+    "COMMUNITY_C920_6",
+    "CUSTOM_C920_PAD",
+    "CUSTOM_LEFT_PANEL",
+    "PHOTO_BASED_MAIN_ROCKER"
+  ],
+  "removed_names": [
+    "OFFICIAL_ADS1115_ADDED_0",
+    "OFFICIAL_ADS1115_ADDED_1",
+    "OFFICIAL_ADS1115_ADDED_2",
+    "OFFICIAL_ADS1115_ADDED_3",
+    "OFFICIAL_ADS1115_ADDED_4",
+    "OFFICIAL_ADS1115_ADDED_5",
+    "OFFICIAL_ADS1115_ADDED_6",
+    "OFFICIAL_ADS1115_ADDED_7",
+    "OFFICIAL_ADS1115_ADDED_8",
+    "OFFICIAL_ADS1115_ADDED_9",
+    "OFFICIAL_ADS1115_ADDED_10",
+    "OFFICIAL_ADS1115_ADDED_11",
+    "OFFICIAL_ADS1115_ADDED_12",
+    "OFFICIAL_ADS1115_ADDED_13",
+    "OFFICIAL_ADS1115_ADDED_14",
+    "OFFICIAL_ADS1115_ADDED_15",
+    "OFFICIAL_ADS1115_ADDED_16",
+    "OFFICIAL_ADS1115_ADDED_17",
+    "OFFICIAL_ADS1115_ADDED_18",
+    "OFFICIAL_ADS1115_ADDED_19",
+    "OFFICIAL_ADS1115_ADDED_20",
+    "OFFICIAL_ADS1115_ADDED_21",
+    "OFFICIAL_ADS1115_ADDED_22",
+    "OFFICIAL_ADS1115_ADDED_23",
+    "OFFICIAL_ADS1115_ADDED_24",
+    "OFFICIAL_ADS1115_ADDED_25",
+    "OFFICIAL_ADS1115_ADDED_26",
+    "APPROX_SMALL_L_0_23_LEFT_BASE_B0",
+    "APPROX_SMALL_L_0_23_LEFT_BASE_N0",
+    "APPROX_SMALL_L_0_23_LEFT_SIDE_B0",
+    "APPROX_SMALL_L_0_23_LEFT_SIDE_N0",
+    "APPROX_SMALL_L_0_23_LEFT_BASE_B1",
+    "APPROX_SMALL_L_0_23_LEFT_BASE_N1",
+    "APPROX_SMALL_L_0_23_LEFT_SIDE_B1",
+    "APPROX_SMALL_L_0_23_LEFT_SIDE_N1",
+    "APPROX_SMALL_L_0_23_RIGHT_BASE_B0",
+    "APPROX_SMALL_L_0_23_RIGHT_BASE_N0",
+    "APPROX_SMALL_L_0_23_RIGHT_SIDE_B0",
+    "APPROX_SMALL_L_0_23_RIGHT_SIDE_N0",
+    "APPROX_SMALL_L_0_23_RIGHT_BASE_B1",
+    "APPROX_SMALL_L_0_23_RIGHT_BASE_N1",
+    "APPROX_SMALL_L_0_23_RIGHT_SIDE_B1",
+    "APPROX_SMALL_L_0_23_RIGHT_SIDE_N1",
+    "APPROX_SMALL_L_0_245_LEFT_BASE_B0",
+    "APPROX_SMALL_L_0_245_LEFT_BASE_N0",
+    "APPROX_SMALL_L_0_245_LEFT_SIDE_B0",
+    "APPROX_SMALL_L_0_245_LEFT_SIDE_N0",
+    "APPROX_SMALL_L_0_245_LEFT_BASE_B1",
+    "APPROX_SMALL_L_0_245_LEFT_BASE_N1",
+    "APPROX_SMALL_L_0_245_LEFT_SIDE_B1",
+    "APPROX_SMALL_L_0_245_LEFT_SIDE_N1",
+    "APPROX_SMALL_L_0_245_RIGHT_BASE_B0",
+    "APPROX_SMALL_L_0_245_RIGHT_BASE_N0",
+    "APPROX_SMALL_L_0_245_RIGHT_SIDE_B0",
+    "APPROX_SMALL_L_0_245_RIGHT_SIDE_N0",
+    "APPROX_SMALL_L_0_245_RIGHT_BASE_B1",
+    "APPROX_SMALL_L_0_245_RIGHT_BASE_N1",
+    "APPROX_SMALL_L_0_245_RIGHT_SIDE_B1",
+    "APPROX_SMALL_L_0_245_RIGHT_SIDE_N1",
+    "APPROX_SMALL_L_1_23_LEFT_BASE_B0",
+    "APPROX_SMALL_L_1_23_LEFT_BASE_N0",
+    "APPROX_SMALL_L_1_23_LEFT_SIDE_B0",
+    "APPROX_SMALL_L_1_23_LEFT_SIDE_N0",
+    "APPROX_SMALL_L_1_23_LEFT_BASE_B1",
+    "APPROX_SMALL_L_1_23_LEFT_BASE_N1",
+    "APPROX_SMALL_L_1_23_LEFT_SIDE_B1",
+    "APPROX_SMALL_L_1_23_LEFT_SIDE_N1",
+    "APPROX_SMALL_L_1_23_RIGHT_BASE_B0",
+    "APPROX_SMALL_L_1_23_RIGHT_BASE_N0",
+    "APPROX_SMALL_L_1_23_RIGHT_SIDE_B0",
+    "APPROX_SMALL_L_1_23_RIGHT_SIDE_N0",
+    "APPROX_SMALL_L_1_23_RIGHT_BASE_B1",
+    "APPROX_SMALL_L_1_23_RIGHT_BASE_N1",
+    "APPROX_SMALL_L_1_23_RIGHT_SIDE_B1",
+    "APPROX_SMALL_L_1_23_RIGHT_SIDE_N1",
+    "APPROX_SMALL_L_1_245_LEFT_BASE_B0",
+    "APPROX_SMALL_L_1_245_LEFT_BASE_N0",
+    "APPROX_SMALL_L_1_245_LEFT_SIDE_B0",
+    "APPROX_SMALL_L_1_245_LEFT_SIDE_N0",
+    "APPROX_SMALL_L_1_245_LEFT_BASE_B1",
+    "APPROX_SMALL_L_1_245_LEFT_BASE_N1",
+    "APPROX_SMALL_L_1_245_LEFT_SIDE_B1",
+    "APPROX_SMALL_L_1_245_LEFT_SIDE_N1",
+    "APPROX_SMALL_L_1_245_RIGHT_BASE_B0",
+    "APPROX_SMALL_L_1_245_RIGHT_BASE_N0",
+    "APPROX_SMALL_L_1_245_RIGHT_SIDE_B0",
+    "APPROX_SMALL_L_1_245_RIGHT_SIDE_N0",
+    "APPROX_SMALL_L_1_245_RIGHT_BASE_B1",
+    "APPROX_SMALL_L_1_245_RIGHT_BASE_N1",
+    "APPROX_SMALL_L_1_245_RIGHT_SIDE_B1",
+    "APPROX_SMALL_L_1_245_RIGHT_SIDE_N1",
+    "MEDIUM_0_0",
+    "MEDIUM_0_0_N",
+    "MEDIUM_0_1",
+    "MEDIUM_0_1_N",
+    "MEDIUM_0_2",
+    "MEDIUM_0_2_N",
+    "MEDIUM_0_3",
+    "MEDIUM_0_3_N",
+    "MEDIUM_1_0",
+    "MEDIUM_1_0_N",
+    "MEDIUM_1_1",
+    "MEDIUM_1_1_N",
+    "MEDIUM_1_2",
+    "MEDIUM_1_2_N",
+    "MEDIUM_1_3",
+    "MEDIUM_1_3_N",
+    "MEDIUM_2_0",
+    "MEDIUM_2_0_N",
+    "MEDIUM_2_1",
+    "MEDIUM_2_1_N",
+    "MEDIUM_2_2",
+    "MEDIUM_2_2_N",
+    "MEDIUM_2_3",
+    "MEDIUM_2_3_N",
+    "MEDIUM_3_0",
+    "MEDIUM_3_0_N",
+    "MEDIUM_3_1",
+    "MEDIUM_3_1_N",
+    "MEDIUM_3_2",
+    "MEDIUM_3_2_N",
+    "MEDIUM_3_3",
+    "MEDIUM_3_3_N",
+    "MEDIUM_SIDE_0_0",
+    "MEDIUM_SIDE_N_0_0",
+    "MEDIUM_SIDE_0_1",
+    "MEDIUM_SIDE_N_0_1",
+    "MEDIUM_SIDE_0_2",
+    "MEDIUM_SIDE_N_0_2",
+    "MEDIUM_SIDE_0_3",
+    "MEDIUM_SIDE_N_0_3",
+    "MEDIUM_SIDE_1_0",
+    "MEDIUM_SIDE_N_1_0",
+    "MEDIUM_SIDE_1_1",
+    "MEDIUM_SIDE_N_1_1",
+    "MEDIUM_SIDE_1_2",
+    "MEDIUM_SIDE_N_1_2",
+    "MEDIUM_SIDE_1_3",
+    "MEDIUM_SIDE_N_1_3",
+    "MEDIUM_SIDE_2_0",
+    "MEDIUM_SIDE_N_2_0",
+    "MEDIUM_SIDE_2_1",
+    "MEDIUM_SIDE_N_2_1",
+    "MEDIUM_SIDE_2_2",
+    "MEDIUM_SIDE_N_2_2",
+    "MEDIUM_SIDE_2_3",
+    "MEDIUM_SIDE_N_2_3",
+    "MEDIUM_SIDE_3_0",
+    "MEDIUM_SIDE_N_3_0",
+    "MEDIUM_SIDE_3_1",
+    "MEDIUM_SIDE_N_3_1",
+    "MEDIUM_SIDE_3_2",
+    "MEDIUM_SIDE_N_3_2",
+    "MEDIUM_SIDE_3_3",
+    "MEDIUM_SIDE_N_3_3",
+    "BP_FLOOR_0_0",
+    "BP_FLOOR_N_0_0",
+    "BP_WALL_0_0",
+    "BP_WALL_N_0_0",
+    "BP_FLOOR_0_1",
+    "BP_FLOOR_N_0_1",
+    "BP_WALL_0_1",
+    "BP_WALL_N_0_1",
+    "BP_FLOOR_1_0",
+    "BP_FLOOR_N_1_0",
+    "BP_WALL_1_0",
+    "BP_WALL_N_1_0",
+    "BP_FLOOR_1_1",
+    "BP_FLOOR_N_1_1",
+    "BP_WALL_1_1",
+    "BP_WALL_N_1_1",
+    "CAM_L_LEFT_F0",
+    "CAM_L_LEFT_FN0",
+    "CAM_L_LEFT_V0",
+    "CAM_L_LEFT_VN0",
+    "CAM_L_LEFT_F1",
+    "CAM_L_LEFT_FN1",
+    "CAM_L_LEFT_V1",
+    "CAM_L_LEFT_VN1",
+    "CAM_L_RIGHT_F0",
+    "CAM_L_RIGHT_FN0",
+    "CAM_L_RIGHT_V0",
+    "CAM_L_RIGHT_VN0",
+    "CAM_L_RIGHT_F1",
+    "CAM_L_RIGHT_FN1",
+    "CAM_L_RIGHT_V1",
+    "CAM_L_RIGHT_VN1",
+    "CUSTOM_C920_STRAP_0",
+    "CUSTOM_C920_STRAP_1",
+    "CUSTOM_CABLE_MAIN_SWITCH"
+  ],
+  "removed_count": 190,
+  "wire_routes_invalidated": [
+    "MAIN_SWITCH",
+    "MAIN_BUS",
+    "MAIN_LED_RETURN"
+  ],
+  "interface_holds": [
+    {
+      "node": "APPROX_SMALL_L_0_23_LEFT",
+      "old_bbox": [
+        23.0,
+        -10.0,
+        134.3898922198363,
+        39.0,
+        20.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        21.0,
+        -10.0,
+        134.3898922198363,
+        41.0,
+        14.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_0_23_RIGHT",
+      "old_bbox": [
+        22.999999999999996,
+        173.0,
+        134.3898922198363,
+        39.0,
+        203.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        21.0,
+        179.0,
+        134.3898922198363,
+        41.0,
+        203.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_0_245_LEFT",
+      "old_bbox": [
+        245.0,
+        -10.0,
+        134.3898922198363,
+        261.0,
+        20.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        240.0,
+        -10.0,
+        134.3898922198363,
+        260.0,
+        14.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_0_245_RIGHT",
+      "old_bbox": [
+        245.0,
+        173.0,
+        134.3898922198363,
+        261.0,
+        203.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        243.0,
+        179.0,
+        134.3898922198363,
+        263.0,
+        203.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_1_23_LEFT",
+      "old_bbox": [
+        23.0,
+        -10.0,
+        225.0,
+        39.00000000000001,
+        20.0,
+        255.0
+      ],
+      "new_bbox": [
+        21.000000000000004,
+        -10.0,
+        231.0,
+        41.0,
+        14.0,
+        255.0
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_1_23_RIGHT",
+      "old_bbox": [
+        22.999999999999996,
+        173.0,
+        225.0,
+        39.0,
+        203.0,
+        255.0
+      ],
+      "new_bbox": [
+        24.0,
+        179.0,
+        231.0,
+        44.0,
+        203.0,
+        255.0
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_1_245_LEFT",
+      "old_bbox": [
+        245.0,
+        -10.0,
+        225.0,
+        261.00000000000165,
+        20.0,
+        255.0
+      ],
+      "new_bbox": [
+        243.00000000000082,
+        -10.0,
+        231.0,
+        263.0000000000008,
+        14.0,
+        255.0
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_SMALL_L_1_245_RIGHT",
+      "old_bbox": [
+        245.0,
+        173.0,
+        225.0,
+        261.0,
+        203.0,
+        255.0
+      ],
+      "new_bbox": [
+        243.0,
+        179.0,
+        231.0,
+        263.0,
+        203.0,
+        255.0
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_MEDIUM_L_0",
+      "old_bbox": [
+        65.0,
+        -10.0,
+        134.3898922198363,
+        95.0,
+        30.0,
+        174.3898922198363
+      ],
+      "new_bbox": [
+        65.0,
+        -10.0,
+        134.3898922198363,
+        95.0,
+        15.0,
+        159.3898922198363
+      ],
+      "thickness_assumed_mm": 2,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_MEDIUM_L_1",
+      "old_bbox": [
+        195.0,
+        -10.0,
+        134.3898922198363,
+        225.0,
+        30.0,
+        174.3898922198363
+      ],
+      "new_bbox": [
+        195.0,
+        -10.0,
+        134.3898922198363,
+        225.0,
+        15.0,
+        159.3898922198363
+      ],
+      "thickness_assumed_mm": 2,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_MEDIUM_L_2",
+      "old_bbox": [
+        65.0,
+        163.0,
+        134.3898922198363,
+        95.0,
+        203.0,
+        174.3898922198363
+      ],
+      "new_bbox": [
+        77.0,
+        178.0,
+        134.3898922198363,
+        107.0,
+        203.0,
+        159.3898922198363
+      ],
+      "thickness_assumed_mm": 2,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_MEDIUM_L_3",
+      "old_bbox": [
+        195.0,
+        163.0,
+        134.3898922198363,
+        225.0,
+        203.0,
+        174.3898922198363
+      ],
+      "new_bbox": [
+        171.0,
+        178.0,
+        134.3898922198363,
+        201.0,
+        203.0,
+        159.3898922198363
+      ],
+      "thickness_assumed_mm": 2,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_BACKPLANE_L_0",
+      "old_bbox": [
+        40.0,
+        10.0,
+        134.3898922198363,
+        56.0,
+        40.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        38.0,
+        10.0,
+        134.3898922198363,
+        58.0,
+        34.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_BACKPLANE_L_1",
+      "old_bbox": [
+        169.0,
+        10.0,
+        134.3898922198363,
+        185.0,
+        40.0,
+        164.3898922198363
+      ],
+      "new_bbox": [
+        167.0,
+        10.0,
+        134.3898922198363,
+        187.0,
+        34.0,
+        158.3898922198363
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_CAM_L_LEFT",
+      "old_bbox": [
+        215.0,
+        32.7150566272343,
+        327.38,
+        231.0,
+        62.715056627234304,
+        357.38
+      ],
+      "new_bbox": [
+        213.0,
+        32.7150566272343,
+        327.38,
+        233.0,
+        56.7150566272343,
+        351.38
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    },
+    {
+      "node": "APPROX_CAM_L_RIGHT",
+      "old_bbox": [
+        215.0,
+        135.715056627234,
+        327.38,
+        231.00000000000006,
+        165.7150566272343,
+        357.38
+      ],
+      "new_bbox": [
+        213.00000000000003,
+        141.7150566272343,
+        327.38,
+        233.00000000000003,
+        165.7150566272343,
+        351.38
+      ],
+      "thickness_assumed_mm": 1.5,
+      "reason": "Outer-only profile; actual holes/ribs/fasteners and stock still required"
+    }
+  ],
+  "rocker_centre_world_mm": [
+    200,
+    -15,
+    239.3898922198363
+  ],
+  "part_roundtrips": [
+    {
+      "name": "APPROX_SMALL_L_0_23_LEFT",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 2.2737367544323206e-13
+    },
+    {
+      "name": "APPROX_SMALL_L_0_23_RIGHT",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 0.0
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_LEFT",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 2.2737367544323206e-13
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_RIGHT",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 0.0
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_LEFT",
+      "valid": true,
+      "bbox_error_mm": 3.552713678800501e-15,
+      "volume_difference_mm3": 2.2737367544323206e-13
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_RIGHT",
+      "valid": true,
+      "bbox_error_mm": 0.0,
+      "volume_difference_mm3": 0.0
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_LEFT",
+      "valid": true,
+      "bbox_error_mm": 8.242295734817162e-13,
+      "volume_difference_mm3": 4.547473508864641e-13
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_RIGHT",
+      "valid": true,
+      "bbox_error_mm": 0.0,
+      "volume_difference_mm3": 0.0
+    },
+    {
+      "name": "APPROX_MEDIUM_L_0",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 9.094947017729282e-13
+    },
+    {
+      "name": "APPROX_MEDIUM_L_1",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 9.094947017729282e-13
+    },
+    {
+      "name": "APPROX_MEDIUM_L_2",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 4.547473508864641e-13
+    },
+    {
+      "name": "APPROX_MEDIUM_L_3",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 4.547473508864641e-13
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_0",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 2.2737367544323206e-13
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_1",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 2.2737367544323206e-13
+    },
+    {
+      "name": "APPROX_CAM_L_LEFT",
+      "valid": true,
+      "bbox_error_mm": 2.984279490192421e-13,
+      "volume_difference_mm3": 4.547473508864641e-13
+    },
+    {
+      "name": "APPROX_CAM_L_RIGHT",
+      "valid": true,
+      "bbox_error_mm": 4.291678123991005e-12,
+      "volume_difference_mm3": 4.547473508864641e-13
+    },
+    {
+      "name": "COMMUNITY_C920_0",
+      "valid": true,
+      "bbox_error_mm": 3.581135388230905e-12,
+      "volume_difference_mm3": 0.016957722991719493
+    },
+    {
+      "name": "COMMUNITY_C920_1",
+      "valid": true,
+      "bbox_error_mm": 7.219114195322618e-12,
+      "volume_difference_mm3": 1.0311396181350574e-10
+    },
+    {
+      "name": "COMMUNITY_C920_2",
+      "valid": true,
+      "bbox_error_mm": 9.066525308298878e-12,
+      "volume_difference_mm3": 1.249759407073725e-09
+    },
+    {
+      "name": "COMMUNITY_C920_3",
+      "valid": true,
+      "bbox_error_mm": 9.379164112033322e-12,
+      "volume_difference_mm3": 3.3874130167532712e-09
+    },
+    {
+      "name": "COMMUNITY_C920_4",
+      "valid": true,
+      "bbox_error_mm": 7.617018127348274e-12,
+      "volume_difference_mm3": 4.984030965715647e-10
+    },
+    {
+      "name": "COMMUNITY_C920_5",
+      "valid": true,
+      "bbox_error_mm": 9.379164112033322e-12,
+      "volume_difference_mm3": 8.898268788470887e-09
+    },
+    {
+      "name": "COMMUNITY_C920_6",
+      "valid": true,
+      "bbox_error_mm": 8.697043085703626e-12,
+      "volume_difference_mm3": 0.0003626982361311093
+    },
+    {
+      "name": "CUSTOM_C920_PAD",
+      "valid": true,
+      "bbox_error_mm": 4.305888978706207e-12,
+      "volume_difference_mm3": 7.057678885757923e-10
+    },
+    {
+      "name": "CUSTOM_LEFT_PANEL",
+      "valid": true,
+      "bbox_error_mm": 5.863928915772476e-07,
+      "volume_difference_mm3": 0.00019024046196136624
+    },
+    {
+      "name": "PHOTO_BASED_MAIN_ROCKER",
+      "valid": true,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_difference_mm3": 2.3646862246096134e-10
+    }
+  ],
+  "measurement_source_sha256": "2e9fd61d3c790d0fc06df4ea6a04dddd6721a23f8a1acbd5f6357828ff89209f"
+}

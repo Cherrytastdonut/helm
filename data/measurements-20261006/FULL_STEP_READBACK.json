@@ -1,0 +1,194 @@
+{
+  "scope": "Full STEP syntax/entity parse and all model names; shape transfers limited to 26 changed parts, not full-assembly geometry certification.",
+  "bytes": 371507206,
+  "sha256": "57f32e5b61985538aa8260db74d07a35ae3b1526f95ff75458aa2f37ebc6ccf1",
+  "entities": 5050704,
+  "product_definitions": 3899,
+  "expected_model_nodes": 3888,
+  "missing_model_nodes": [],
+  "replacement_roundtrips": [
+    {
+      "name": "CUSTOM_LEFT_PANEL",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 5.863928915772476e-07,
+      "volume_mm3": 110820.6702280287
+    },
+    {
+      "name": "APPROX_SMALL_L_0_23_LEFT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0000000000002
+    },
+    {
+      "name": "APPROX_SMALL_L_0_23_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_LEFT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0000000000002
+    },
+    {
+      "name": "APPROX_SMALL_L_0_245_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_LEFT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 3.552713678800501e-15,
+      "volume_mm3": 1394.999999999999
+    },
+    {
+      "name": "APPROX_SMALL_L_1_23_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 0.0,
+      "volume_mm3": 1394.999999999999
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_LEFT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 8.242295734817162e-13,
+      "volume_mm3": 1394.999999999999
+    },
+    {
+      "name": "APPROX_SMALL_L_1_245_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 0.0,
+      "volume_mm3": 1394.999999999999
+    },
+    {
+      "name": "APPROX_MEDIUM_L_0",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 2880.000000000001
+    },
+    {
+      "name": "APPROX_MEDIUM_L_1",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 2880.000000000001
+    },
+    {
+      "name": "APPROX_MEDIUM_L_2",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 2880.0000000000005
+    },
+    {
+      "name": "APPROX_MEDIUM_L_3",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 2880.0000000000005
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_0",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0000000000002
+    },
+    {
+      "name": "APPROX_BACKPLANE_L_1",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 1395.0000000000002
+    },
+    {
+      "name": "APPROX_CAM_L_LEFT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 2.984279490192421e-13,
+      "volume_mm3": 1395.0000000000005
+    },
+    {
+      "name": "APPROX_CAM_L_RIGHT",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 4.291678123991005e-12,
+      "volume_mm3": 1394.9999999999995
+    },
+    {
+      "name": "PHOTO_BASED_MAIN_ROCKER",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 6.30961949354969e-12,
+      "volume_mm3": 9258.846351646542
+    },
+    {
+      "name": "CUSTOM_C920_PAD",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 4.305888978706207e-12,
+      "volume_mm3": 7919.999999999294
+    },
+    {
+      "name": "COMMUNITY_C920_0",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 3.581135388230905e-12,
+      "volume_mm3": 9471.102532792444
+    },
+    {
+      "name": "COMMUNITY_C920_1",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 7.219114195322618e-12,
+      "volume_mm3": 723.7749865828698
+    },
+    {
+      "name": "COMMUNITY_C920_2",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 9.066525308298878e-12,
+      "volume_mm3": 522.7531622302856
+    },
+    {
+      "name": "COMMUNITY_C920_3",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 9.379164112033322e-12,
+      "volume_mm3": 2367.5505449810016
+    },
+    {
+      "name": "COMMUNITY_C920_4",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 7.617018127348274e-12,
+      "volume_mm3": 11131.261817531065
+    },
+    {
+      "name": "COMMUNITY_C920_5",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 9.379164112033322e-12,
+      "volume_mm3": 626.8903629573553
+    },
+    {
+      "name": "COMMUNITY_C920_6",
+      "valid": true,
+      "solids": 1,
+      "bbox_error_mm": 8.697043085703626e-12,
+      "volume_mm3": 41098.90802664003
+    }
+  ],
+  "seconds": 47.71112874300002
+}

@@ -1,0 +1,64 @@
+{
+  "revision": "MEASURED_LAYOUT_20261006",
+  "manufacturing_release": false,
+  "scale": 1,
+  "paper": "A3_LANDSCAPE",
+  "holes": [
+    {
+      "id": "H1",
+      "world_xy_mm": [
+        41.6247,
+        62.64840000000001
+      ],
+      "bottom_local_xy_mm": [
+        51.6247,
+        77.64840000000001
+      ],
+      "cad_hole_mm": 4.5,
+      "source": "CUSTOM_BOTTOM_PLATE plate_definition.holes[6:10] and CUSTOM_CHASSIS_PAD centres",
+      "physical_match_verified": false
+    },
+    {
+      "id": "H2",
+      "world_xy_mm": [
+        41.6247,
+        130.9651
+      ],
+      "bottom_local_xy_mm": [
+        51.6247,
+        145.9651
+      ],
+      "cad_hole_mm": 4.5,
+      "source": "CUSTOM_BOTTOM_PLATE plate_definition.holes[6:10] and CUSTOM_CHASSIS_PAD centres",
+      "physical_match_verified": false
+    },
+    {
+      "id": "H3",
+      "world_xy_mm": [
+        228.4383,
+        65.433
+      ],
+      "bottom_local_xy_mm": [
+        238.4383,
+        80.433
+      ],
+      "cad_hole_mm": 4.5,
+      "source": "CUSTOM_BOTTOM_PLATE plate_definition.holes[6:10] and CUSTOM_CHASSIS_PAD centres",
+      "physical_match_verified": false
+    },
+    {
+      "id": "H4",
+      "world_xy_mm": [
+        228.4383,
+        128.1804
+      ],
+      "bottom_local_xy_mm": [
+        238.4383,
+        143.1804
+      ],
+      "cad_hole_mm": 4.5,
+      "source": "CUSTOM_BOTTOM_PLATE plate_definition.holes[6:10] and CUSTOM_CHASSIS_PAD centres",
+      "physical_match_verified": false
+    }
+  ]
+}

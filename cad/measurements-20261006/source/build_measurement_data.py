@@ -105,3 +105,4 @@ for fn,records in [('parts-numbered.csv',rows),('measurement-register.csv',measu
    w=csv.DictWriter(f,fieldnames=list(records[0]));w.writeheader();w.writerows(records)
 dump('mapping-check.json',dict(purchase_rows=len(rows),first_purchase=29,second_purchase=64,measurement_records=13,physical_measurement_records=10,source_measurement_number_10='원본에 없음',webcam_source_correction='치수표 1차22행 → 원본 1차7행 P1-003; 모델명으로 대조',medium_typo_normalization='25m → 25mm (문맥에 따른 단위 오기 정정)',cad_nodes=len(node_rows),unmapped_nodes=0 if len(node_rows)==len(manifest) else None))
 print('Mapped:',len(rows),'purchases;',len(measurement_rows),'measurements;',len(node_rows),'CAD nodes')
+

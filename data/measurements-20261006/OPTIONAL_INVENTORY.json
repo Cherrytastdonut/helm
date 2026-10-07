@@ -1,0 +1,35 @@
+[
+  {
+    "name": "BUSBAR_OUTER_ONLY",
+    "dimensions_mm": [
+      165,
+      15,
+      18
+    ],
+    "purchase_id": "P1-018",
+    "installed": false,
+    "representation": "Bounding solid only; inner geometry, thickness and holes unknown"
+  },
+  {
+    "name": "MG995_U_FRAME_OUTER_ONLY",
+    "dimensions_mm": [
+      64,
+      55,
+      25
+    ],
+    "purchase_id": "P2-R78",
+    "installed": false,
+    "representation": "Bounding solid only; inner geometry, thickness and holes unknown"
+  },
+  {
+    "name": "MG995_OTHER_FRAME_OUTER_ONLY",
+    "dimensions_mm": [
+      58,
+      37,
+      25
+    ],
+    "purchase_id": "P2-R78",
+    "installed": false,
+    "representation": "Bounding solid only; inner geometry, thickness and holes unknown"
+  }
+]
