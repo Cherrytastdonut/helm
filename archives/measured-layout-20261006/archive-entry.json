@@ -1,0 +1,110 @@
+{
+  "id": "measured-editable-delta-20261006",
+  "filename": "HELM_MEASURED_EDITABLE_DELTA.zip",
+  "size_bytes": 4059445,
+  "sha256": "28bc90890de76f5c3b2eefee8ada1eb0d5a57adcde6a709c5c8b1a4753e478d0",
+  "parts": [
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-001",
+      "size_bytes": 250000,
+      "sha256": "4decdf9315b6efdfd8934523bbdbfb7d140c6a6f74a0fdcd7dcf3181bfba7bde",
+      "git_blob_sha": "45540b47a86f12c2011204c20b37c35a8e23dea3"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-002",
+      "size_bytes": 250000,
+      "sha256": "8949764f9cc0dcf8e3a2c733b9da29fdb8b1ae0ed83006c305184f58b76ab14b",
+      "git_blob_sha": "82fc7b0b4baf50401ed77d914120323fc486d0c7"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-003",
+      "size_bytes": 250000,
+      "sha256": "0165861c80fcb10c4347a7d4c1ee05eb8d99654050cb6a01c0613415089cb0f2",
+      "git_blob_sha": "7cb6a3387a3c2e22f09b5d831f814ad2753103a7"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-004",
+      "size_bytes": 250000,
+      "sha256": "758fc239a0a0ffb8cd22ccbaf190a7f4a1686f0a80feba9e8514185d1a6dd702",
+      "git_blob_sha": "83e8b4f99317b9903bb792499979bcffb642d0f6"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-005",
+      "size_bytes": 250000,
+      "sha256": "f4da698759aec620ee32f330e3f32edd2d0e888a20eaa536119cc1c657b1a18e",
+      "git_blob_sha": "4b7b7fe9740830be1f868e4d7194adbfd085dfa2"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-006",
+      "size_bytes": 250000,
+      "sha256": "a59b2dec9c8b4b6ed8cdaa5bf14632943d41d90ac5650b267a55364321bc70b7",
+      "git_blob_sha": "9725541dfaf9ae21fc723bb494fd9deff3d151e9"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-007",
+      "size_bytes": 250000,
+      "sha256": "94f934de6874b3199be1b71c7307f8efb7996f65571a9835586aeb51fba15873",
+      "git_blob_sha": "7c6ee4227ab20c6f56509de229d9a2c7d92035c8"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-008",
+      "size_bytes": 250000,
+      "sha256": "f11ed75edfe20c8e068a30061baf8fb8ad31a940896b259c603e89ba6d9fa7b7",
+      "git_blob_sha": "60d1d767e1e6ebcd7805fdf54544578d06c63d3b"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-009",
+      "size_bytes": 250000,
+      "sha256": "57cea5eb8aedbdd4e1d180e14bd5cc8a0d1b64e8d220c7e5c79f429dd072db14",
+      "git_blob_sha": "592b1a36f4062d7c89f62705e2c3ad58795ba152"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-010",
+      "size_bytes": 250000,
+      "sha256": "57782ad527efd36de82bf508fd582ee425f25b4b53c4de7640fb41456f60cb11",
+      "git_blob_sha": "ff2bfbf335bb5014d28c141a204b0a6f08afa48a"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-011",
+      "size_bytes": 250000,
+      "sha256": "4d8870bee198128d2260f97c45716cd7a0d8a60d8f143481f7db276823ae3b81",
+      "git_blob_sha": "188c7af34778c839230e56205feaaec3b5960a8e"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-012",
+      "size_bytes": 250000,
+      "sha256": "7248ad05d4a4ba4ac2073e615f3cfb1cf8ee2732d64235a19bb15a40738cbac9",
+      "git_blob_sha": "f2765283fc9a8752c54b77a624c5174f7a906cff"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-013",
+      "size_bytes": 250000,
+      "sha256": "90ad0ffada3d155881bd0c265cb7742f8d896f6c6b1c827074ae57afb98d990b",
+      "git_blob_sha": "267463488c14753a4efbce28fae2ce765a4d7135"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-014",
+      "size_bytes": 250000,
+      "sha256": "70242e22c5fa0ca7884ac37ec5113b15a36e20c2bd723026b65d4bce58c38ce7",
+      "git_blob_sha": "ebd4c918fa9a8e7d22b853d23386be543ee75975"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-015",
+      "size_bytes": 250000,
+      "sha256": "992581dcd5118a00bac595794750993fec2e4a2b6ee59f49f88332448fb5c845",
+      "git_blob_sha": "6d32b17735bb94aaf740d7fe2039bb236175ad23"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-016",
+      "size_bytes": 250000,
+      "sha256": "f26cf2c77405cb02dcc21def9f21c4cc15090560eafdbd2bd32e5aa5c6b00a59",
+      "git_blob_sha": "c00d7daf82d9b49c40b96d3eb24ce13c9f002fbd"
+    },
+    {
+      "path": "archives/measured-layout-20261006/HELM_MEASURED_EDITABLE_DELTA.zip.part-017",
+      "size_bytes": 59445,
+      "sha256": "f09163511dbdf199003ec1645917abb206917f90d3d239f8dc8fa463862cad40",
+      "git_blob_sha": "61ae50d47e8a11ec3201ae7c8375fbf9ea4da88c"
+    }
+  ]
+}
